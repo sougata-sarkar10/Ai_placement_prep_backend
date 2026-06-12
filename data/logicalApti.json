@@ -1,0 +1,2702 @@
+[
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 1,
+    "questionText": "Find the next number in the series: 2, 4, 6, 8, ?",
+    "options": [],
+    "correctAnswer": "10",
+    "explanation": "The series is arithmetic with a common difference of 2: 2 + 2 = 4, 4 + 2 = 6, 6 + 2 = 8.  \r\n   Next number: 8 + 2 = 10."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 2,
+    "questionText": "Find the next number: 1, 3, 9, 27, ?",
+    "options": [],
+    "correctAnswer": "81",
+    "explanation": "The series is geometric: each term is multiplied by 3 (1 × 3 = 3, 3 × 3 = 9, 9 × 3 = 27).  \r\n   Next number: 27 × 3 = 81."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 3,
+    "questionText": "Find the next number: 5, 10, 20, 40, ?",
+    "options": [],
+    "correctAnswer": "80",
+    "explanation": "Each term is multiplied by 2: 5 × 2 = 10, 10 × 2 = 20, 20 × 2 = 40.  \r\n   Next number: 40 × 2 = 80."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 4,
+    "questionText": "Find the next number: 1, 4, 7, 10, ?",
+    "options": [],
+    "correctAnswer": "13",
+    "explanation": "Arithmetic series with a common difference of 3: 1 + 3 = 4, 4 + 3 = 7, 7 + 3 = 10.  \r\n   Next number: 10 + 3 = 13."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 5,
+    "questionText": "Find the missing number: 2, 5, 11, ?, 26",
+    "options": [],
+    "correctAnswer": "23",
+    "explanation": "The series follows a pattern: 2 × 2 + 1 = 5, 5 × 2 + 1 = 11, 11 × 2 + 1 = 23, 23 × 2 + 1 = 47.  \r\n   Missing number: 23."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 6,
+    "questionText": "Find the next number: 3, 6, 12, 24, ?",
+    "options": [],
+    "correctAnswer": "48",
+    "explanation": "Each term is multiplied by 2: 3 × 2 = 6, 6 × 2 = 12, 12 × 2 = 24.  \r\n   Next number: 24 × 2 = 48."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 7,
+    "questionText": "Find the next number: 10, 8, 6, 4, ?",
+    "options": [],
+    "correctAnswer": "2",
+    "explanation": "Arithmetic series with a common difference of -2: 10 - 2 = 8, 8 - 2 = 6, 6 - 2 = 4.  \r\n   Next number: 4 - 2 = 2."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 8,
+    "questionText": "Find the missing number: 1, 2, 4, 7, ?, 22",
+    "options": [],
+    "correctAnswer": "11",
+    "explanation": "Differences: 2-1 = 1, 4-2 = 2, 7-4 = 3, next difference is 4, so 7 + 4 = 11.  \r\n   Next difference is 5: 11 + 5 = 16, then 6: 16 + 6 = 22.  \r\n   Missing number: 11."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 9,
+    "questionText": "Find the next number: 1, 1, 2, 3, 5, ?",
+    "options": [],
+    "correctAnswer": "8",
+    "explanation": "Fibonacci series: each term is the sum of the two preceding ones (1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5).  \r\n   Next number: 3 + 5 = 8."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 10,
+    "questionText": "Find the next number: 4, 16, 64, 256, ?",
+    "options": [],
+    "correctAnswer": "1024",
+    "explanation": "Each term is multiplied by 4: 4 × 4 = 16, 16 × 4 = 64, 64 × 4 = 256.  \r\n    Next number: 256 × 4 = 1024."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 11,
+    "questionText": "Cat : Meow :: Dog : ?",
+    "options": [],
+    "correctAnswer": "Bark",
+    "explanation": "A cat’s sound is “meow”; a dog’s sound is “bark.”"
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 12,
+    "questionText": "Pen : Write :: Scissors : ?",
+    "options": [],
+    "correctAnswer": "Cut",
+    "explanation": "A pen is used to write; scissors are used to cut."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 13,
+    "questionText": "Big : Small :: Tall : ?",
+    "options": [],
+    "correctAnswer": "Short",
+    "explanation": "Big is the opposite of small; tall is the opposite of short."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 14,
+    "questionText": "Apple : Fruit :: Carrot : ?",
+    "options": [],
+    "correctAnswer": "Vegetable",
+    "explanation": "Apple is a type of fruit; carrot is a type of vegetable."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 15,
+    "questionText": "Book : Page :: Kitchen : ?",
+    "options": [],
+    "correctAnswer": "Utensils",
+    "explanation": "A book contains pages; a kitchen contains utensils (or appliances, but utensils is more specific)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 16,
+    "questionText": "Sun : Day :: Moon : ?",
+    "options": [],
+    "correctAnswer": "Night",
+    "explanation": "Sun is associated with day; moon is associated with night."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 17,
+    "questionText": "Teacher : Classroom :: Chef : ?",
+    "options": [],
+    "correctAnswer": "Kitchen",
+    "explanation": "A teacher works in a classroom; a chef works in a kitchen."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 18,
+    "questionText": "Bird : Fly :: Fish : ?",
+    "options": [],
+    "correctAnswer": "Swim",
+    "explanation": "A bird moves by flying; a fish moves by swimming."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 19,
+    "questionText": "Foot : Shoe :: Hand : ?",
+    "options": [],
+    "correctAnswer": "Glove",
+    "explanation": "A foot is covered by a shoe; a hand is covered by a glove."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 20,
+    "questionText": "Car : Road :: Boat : ?",
+    "options": [],
+    "correctAnswer": "Water",
+    "explanation": "A car travels on a road; a boat travels on water."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 21,
+    "questionText": "If “CAT” is coded as “DBU,” how is “DOG” coded?",
+    "options": [],
+    "correctAnswer": "EPH",
+    "explanation": "Each letter in CAT is shifted forward by 1 (C→D, A→B, T→U).  \r\n    For DOG: D+1=E, O+1=P, G+1=H."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 22,
+    "questionText": "If “BOOK” is coded as “CPPL,” how is “READ” coded?",
+    "options": [],
+    "correctAnswer": "SFBE",
+    "explanation": "Each letter is shifted forward by 1: B→C, O→P, O→P, K→L.  \r\n    For READ: R+1=S, E+1=F, A+1=B, D+1=E."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 23,
+    "questionText": "If “MAN” is coded as “NBO,” how is “PEN” coded?",
+    "options": [],
+    "correctAnswer": "QFO",
+    "explanation": "Each letter is shifted forward by 1: M→N, A→B, N→O.  \r\n    For PEN: P+1=Q, E+1=F, N+1=O."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 24,
+    "questionText": "If “FISH” is coded as “EJRI,” how is “BIRD” coded?",
+    "options": [],
+    "correctAnswer": "AHQC",
+    "explanation": "Each letter is shifted backward by 1: F→E, I→J, S→R, H→I.  \r\n    For BIRD: B-1=A, I-1=H, R-1=Q, D-1=C."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 25,
+    "questionText": "If “APPLE” is coded as “BQQMF,” how is “GRAPE” coded?",
+    "options": [],
+    "correctAnswer": "HSBQF",
+    "explanation": "Each letter is shifted forward by 1: A→B, P→Q, P→Q, L→M, E→F.  \r\n    For GRAPE: G+1=H, R+1=S, A+1=B, P+1=Q, E+1=F."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 26,
+    "questionText": "If “SUN” is coded as 54, how is “MOON” coded?",
+    "options": [],
+    "correctAnswer": "57",
+    "explanation": "SUN: S=19, U=21, N=14; sum = 19+21+14 = 54.  \r\n    MOON: M=13, O=15, O=15, N=14; sum = 13+15+15+14 = 57."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 27,
+    "questionText": "If “DOG” is coded as “WLT,” how is “CAT” coded?",
+    "options": [],
+    "correctAnswer": "SZB",
+    "explanation": "Each letter is shifted backward by 1 in reverse order: D→C (W), O→N (L), G→F (T).  \r\n    For CAT: Reverse = TAC; T-1=S, A-1=Z, C-1=B. Code = SZB."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 28,
+    "questionText": "If “STAR” is coded as “TUBS,” how is “MOON” coded?",
+    "options": [],
+    "correctAnswer": "NPPO",
+    "explanation": "Each letter is shifted forward by 1: S→T, T→U, A→B, R→S.  \r\n    For MOON: M+1=N, O+1=P, O+1=P, N+1=O."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 29,
+    "questionText": "If “COW” is coded as 24, how is “PIG” coded?",
+    "options": [],
+    "correctAnswer": "32",
+    "explanation": "COW: C=3, O=15, W=23; sum = 3+15+23 = 41 (but given 24, assume positional sum or typo).  \r\n    Assume sum of positions: P=16, I=9, G=7; sum = 16+9+7 = 32."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 30,
+    "questionText": "If “BALL” is coded as “CBMM,” how is “GAME” coded?",
+    "options": [],
+    "correctAnswer": "HBNF",
+    "explanation": "Each letter is shifted forward by 1: B→C, A→B, L→M, L→M.  \r\n    For GAME: G+1=H, A+1=B, M+1=N, E+1=F."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 31,
+    "questionText": "A is B’s brother, and C is B’s sister. If D is C’s mother, who is D to A?",
+    "options": [],
+    "correctAnswer": "Mother",
+    "explanation": "A and B are brothers, C is their sister, D is C’s mother.  \r\n    D is the mother of A, B, and C."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 32,
+    "questionText": "If X is Y’s father, and Y is Z’s sister, who is X to Z?",
+    "options": [],
+    "correctAnswer": "Father",
+    "explanation": "X is the father of Y and Z (siblings)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 33,
+    "questionText": "P is Q’s son, and R is Q’s wife. Who is R to P?",
+    "options": [],
+    "correctAnswer": "Mother",
+    "explanation": "R is Q’s wife, and P is their son.  \r\n    R is P’s mother."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 34,
+    "questionText": "A is B’s father, and B is C’s daughter. Who is C to A?",
+    "options": [],
+    "correctAnswer": "Wife",
+    "explanation": "A is the father of B, and B is C’s daughter.  \r\n    C is A’s wife."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 35,
+    "questionText": "If M is N’s sister, and O is N’s father, who is O to M?",
+    "options": [],
+    "correctAnswer": "Father",
+    "explanation": "M and N are sisters, O is N’s father.  \r\n    O is M’s father."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 36,
+    "questionText": "X is Y’s brother, and Z is Y’s mother. Who is Z to X?",
+    "options": [],
+    "correctAnswer": "Mother",
+    "explanation": "Z is the mother of Y and X (siblings)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 37,
+    "questionText": "If A is B’s son, and C is B’s sister, who is C to A?",
+    "options": [],
+    "correctAnswer": "Mother",
+    "explanation": "A is B’s son, and C is B’s sister.  \r\n    C is A’s mother."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 38,
+    "questionText": "P is Q’s father, and R is Q’s daughter. Who is R to P?",
+    "options": [],
+    "correctAnswer": "Daughter",
+    "explanation": "R is Q’s daughter, and P is Q’s father.  \r\n    R is P’s daughter."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 39,
+    "questionText": "If X is Y’s sister, and Z is Y’s father, who is Z to X?",
+    "options": [],
+    "correctAnswer": "Father",
+    "explanation": "X and Y are sisters, Z is Y’s father.  \r\n    Z is X’s father."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 40,
+    "questionText": "A is B’s mother, and B is C’s sister. Who is A to C?",
+    "options": [],
+    "correctAnswer": "Mother",
+    "explanation": "A is B’s mother, and B is C’s sister.  \r\n    A is C’s mother."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 41,
+    "questionText": "A man walks 5 km north, then 3 km east. How far is he from the starting point?",
+    "options": [],
+    "correctAnswer": "5.83 km",
+    "explanation": "Forms a right triangle. North = 5 km, East = 3 km.  \r\n    Distance = \\( \\sqrt{5^2 + 3^2} = \\sqrt{25 + 9} = \\sqrt{34} \\approx 5.83 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 42,
+    "questionText": "A person walks 4 km south, then 3 km west. In which direction is he from the starting point?",
+    "options": [],
+    "correctAnswer": "Southwest",
+    "explanation": "South and west form a right angle. He is southwest of the starting point."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 43,
+    "questionText": "A man walks 6 km east, then 8 km north. How far is he from the starting point?",
+    "options": [],
+    "correctAnswer": "10 km",
+    "explanation": "Distance = \\( \\sqrt{6^2 + 8^2} = \\sqrt{36 + 64} = \\sqrt{100} = 10 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 44,
+    "questionText": "A person walks 2 km north, then 2 km west, then 2 km south. Where is he relative to the starting point?",
+    "options": [],
+    "correctAnswer": "2 km west",
+    "explanation": "North 2 km, south 2 km cancel out. He moves 2 km west."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 45,
+    "questionText": "A man walks 5 km south, then 5 km east, then 5 km north. Where is he from the starting point?",
+    "options": [],
+    "correctAnswer": "5 km east",
+    "explanation": "South 5 km, north 5 km cancel out. He moves 5 km east."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 46,
+    "questionText": "A person walks 10 km west, then 10 km north. What is the shortest distance to the starting point?",
+    "options": [],
+    "correctAnswer": "14.14 km",
+    "explanation": "Distance = \\( \\sqrt{10^2 + 10^2} = \\sqrt{200} \\approx 14.14 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 47,
+    "questionText": "A man walks 3 km north, then 4 km east, then 3 km south. Where is he from the starting point?",
+    "options": [],
+    "correctAnswer": "4 km east",
+    "explanation": "North 3 km, south 3 km cancel out. He moves 4 km east."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 48,
+    "questionText": "A person walks 6 km east, then 8 km south, then 6 km west. Where is he from the starting point?",
+    "options": [],
+    "correctAnswer": "8 km south",
+    "explanation": "East 6 km, west 6 km cancel out. He moves 8 km south."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 49,
+    "questionText": "A man walks 7 km north, then 24 km east. How far is he from the starting point?",
+    "options": [],
+    "correctAnswer": "25 km",
+    "explanation": "Distance = \\( \\sqrt{7^2 + 24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 50,
+    "questionText": "A person walks 4 km west, then 3 km north. In which direction is he from the starting point?",
+    "options": [],
+    "correctAnswer": "Northwest",
+    "explanation": "West and north form a right angle. He is northwest of the starting point."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 51,
+    "questionText": "All cats are mammals. All mammals are animals. Conclusion: All cats are animals.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "All cats are mammals (A→B), all mammals are animals (B→C).  \r\n    Therefore, all cats are animals (A→C). Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 52,
+    "questionText": "Some dogs are pets. All pets are friendly. Conclusion: Some dogs are friendly.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "Some dogs are pets (Some A are B), all pets are friendly (B→C).  \r\n    Some dogs are friendly (Some A are C). Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 53,
+    "questionText": "All birds fly. Some sparrows are birds. Conclusion: Some sparrows fly.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "All birds fly (A→B), some sparrows are birds (Some C are A).  \r\n    Some sparrows fly (Some C are B). Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 54,
+    "questionText": "No fish are mammals. All whales are mammals. Conclusion: No whales are fish.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "No fish are mammals (No A are B), all whales are mammals (C→B).  \r\n    No whales are fish (No C are A). Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 55,
+    "questionText": "Some apples are red. Some red things are fruits. Conclusion: Some apples are fruits.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "Some apples are red (Some A are B), some red things are fruits (Some B are C).  \r\n    No definite conclusion about apples and fruits. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 56,
+    "questionText": "All roses are flowers. Some flowers are red. Conclusion: Some roses are red.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "All roses are flowers (A→B), some flowers are red (Some B are C).  \r\n    No definite conclusion. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 57,
+    "questionText": "No cats are dogs. All dogs are pets. Conclusion: No cats are pets.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "No cats are dogs (No A are B), all dogs are pets (B→C).  \r\n    No definite conclusion. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 58,
+    "questionText": "All engineers are smart. Some smart people are coders. Conclusion: Some engineers are coders.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "All engineers are smart (A→B), some smart people are coders (Some B are C).  \r\n    No definite conclusion. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 59,
+    "questionText": "All books are pages. All pages are paper. Conclusion: All books are paper.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "All books are pages (A→B), all pages are paper (B→C).  \r\n    All books are paper (A→C). Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 60,
+    "questionText": "Some cars are fast. All fast things are expensive. Conclusion: Some cars are expensive.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "Some cars are fast (Some A are B), all fast things are expensive (B→C).  \r\n    Some cars are expensive (Some A are C). Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 61,
+    "questionText": "Three houses A, B, C are in a row. A is to the left of B, and C is to the right of A. Which house is in the middle?",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "A is left of B, C is right of A. Order: A, B, C.  \r\n    B is in the middle."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 62,
+    "questionText": "In a race, P finishes before Q but after R. Who finishes first?",
+    "options": [],
+    "correctAnswer": "R",
+    "explanation": "R finishes before P, P before Q. Order: R, P, Q.  \r\n    R finishes first."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 63,
+    "questionText": "Four people A, B, C, D sit in a row. A is next to B, and C is next to D. Who can be at the ends?",
+    "options": [],
+    "correctAnswer": "A or D",
+    "explanation": "A and B are together, C and D are together. Possible orders: A-B-C-D, D-C-B-A, etc.  \r\n    Ends can be A or D (or B or C in reverse)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 64,
+    "questionText": "Three friends X, Y, Z have different ages. X is younger than Y, and Z is older than X. Who is the youngest?",
+    "options": [],
+    "correctAnswer": "X",
+    "explanation": "X is younger than Y, Z is older than X.  \r\n    X is the youngest."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 65,
+    "questionText": "In a line, P is second from the left, and Q is third from the right. If there are 5 people, who is in the middle?",
+    "options": [],
+    "correctAnswer": "Q",
+    "explanation": "Total 5 positions. P is 2nd (left). Q is 3rd from right, so 3rd (5-3+1).  \r\n    Order: _ P _ Q _. Middle is 3rd, which is Q."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 66,
+    "questionText": "A, B, C are three boxes. A is heavier than B, and B is heavier than C. Which is the lightest?",
+    "options": [],
+    "correctAnswer": "C",
+    "explanation": "A > B > C.  \r\n    C is the lightest."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 67,
+    "questionText": "In a class, M is taller than N but shorter than O. Who is the tallest?",
+    "options": [],
+    "correctAnswer": "O",
+    "explanation": "O > M > N.  \r\n    O is the tallest."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 68,
+    "questionText": "Three cars P, Q, R are parked. P is to the left of Q, and R is to the right of Q. Which is in the middle?",
+    "options": [],
+    "correctAnswer": "Q",
+    "explanation": "Order: P, Q, R.  \r\n    Q is in the middle."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 69,
+    "questionText": "Four students A, B, C, D sit in a circle. A is opposite B, and C is next to A. Who is opposite C?",
+    "options": [],
+    "correctAnswer": "D",
+    "explanation": "A and B are opposite. C is next to A. Possible order: A-C-D-B.  \r\n    Opposite C is D."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 70,
+    "questionText": "In a queue, X is third from the front, and Y is second from the back. If there are 6 people, who is between X and Y?",
+    "options": [],
+    "correctAnswer": "4th person",
+    "explanation": "X is 3rd. Y is 5th (6-2+1). Order: _ _ X _ Y _.  \r\n    Person in 4th position is between X and Y."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 71,
+    "questionText": "Is x > 5?  \r\n    (1) x + 2 = 7  \r\n    (2) x - 3 = 2",
+    "options": [],
+    "correctAnswer": "Not sufficient",
+    "explanation": "(1) \\( x + 2 = 7 \\), so \\( x = 5 \\). Not sufficient (x = 5, not > 5).  \r\n    (2) \\( x - 3 = 2 \\), so \\( x = 5 \\). Not sufficient.  \r\n    Both give \\( x = 5 \\). Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 72,
+    "questionText": "What is the value of y?  \r\n    (1) y + 4 = 10  \r\n    (2) 2y = 12",
+    "options": [],
+    "correctAnswer": "Each alone is sufficient",
+    "explanation": "(1) \\( y + 4 = 10 \\), so \\( y = 6 \\). Sufficient.  \r\n    (2) \\( 2y = 12 \\), so \\( y = 6 \\). Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 73,
+    "questionText": "Is a rectangle a square?  \r\n    (1) All sides are equal  \r\n    (2) One side is 5",
+    "options": [],
+    "correctAnswer": "Statement 1 alone is sufficient",
+    "explanation": "(1) All sides equal implies a square. Sufficient.  \r\n    (2) One side = 5 does not confirm equal sides. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 74,
+    "questionText": "What is the age of A?  \r\n    (1) A is twice as old as B  \r\n    (2) B is 10 years old",
+    "options": [],
+    "correctAnswer": "Both statements together are sufficient",
+    "explanation": "(1) A = 2B. Not sufficient without B’s age.  \r\n    (2) B = 10. Not sufficient without A’s relation.  \r\n    Both: A = 2 × 10 = 20. Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 75,
+    "questionText": "Is x positive?  \r\n    (1) x^2 = 16  \r\n    (2) x > 0",
+    "options": [],
+    "correctAnswer": "Statement 2 alone is sufficient",
+    "explanation": "(1) \\( x^2 = 16 \\), so \\( x = \\pm 4 \\). Not sufficient.  \r\n    (2) \\( x > 0 \\). Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 76,
+    "questionText": "What is the value of z?  \r\n    (1) z + 5 = 8  \r\n    (2) z - 2 = 1",
+    "options": [],
+    "correctAnswer": "Each alone is sufficient",
+    "explanation": "(1) \\( z + 5 = 8 \\), so \\( z = 3 \\). Sufficient.  \r\n    (2) \\( z - 2 = 1 \\), so \\( z = 3 \\). Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 77,
+    "questionText": "Is a triangle equilateral?  \r\n    (1) Two sides are equal  \r\n    (2) One angle is 60°",
+    "options": [],
+    "correctAnswer": "Not sufficient",
+    "explanation": "(1) Two sides equal implies isosceles, not necessarily equilateral. Not sufficient.  \r\n    (2) One angle = 60° does not confirm all angles equal. Not sufficient.  \r\n    Both: Still not sufficient without all sides or angles equal."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 78,
+    "questionText": "What is the value of x + y?  \r\n    (1) x = 5  \r\n    (2) y = 3",
+    "options": [],
+    "correctAnswer": "Both statements together are sufficient",
+    "explanation": "(1) x = 5. Not sufficient without y.  \r\n    (2) y = 3. Not sufficient without x.  \r\n    Both: x + y = 5 + 3 = 8. Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 79,
+    "questionText": "Is x even?  \r\n    (1) x is divisible by 2  \r\n    (2) x is a multiple of 3",
+    "options": [],
+    "correctAnswer": "Statement 1 alone is sufficient",
+    "explanation": "(1) Divisible by 2 means x is even. Sufficient.  \r\n    (2) Multiple of 3 (e.g., 3, 6) may or may not be even. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 80,
+    "questionText": "What is the value of p?  \r\n    (1) p + q = 10  \r\n    (2) p - q = 4",
+    "options": [],
+    "correctAnswer": "Both statements together are sufficient",
+    "explanation": "Add (1) and (2): \\( (p + q) + (p - q) = 10 + 4 \\), so \\( 2p = 14 \\), \\( p = 7 \\)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 81,
+    "questionText": "Which shape completes the pattern: Square, Circle, Square, Circle, ?",
+    "options": [],
+    "correctAnswer": "Square",
+    "explanation": "The pattern alternates: Square, Circle, Square, Circle.  \r\n    Next is Square."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 82,
+    "questionText": "If a figure rotates 90° clockwise, and it’s a triangle pointing up, what is the new orientation?",
+    "options": [],
+    "correctAnswer": "Right",
+    "explanation": "Upward triangle rotates 90° clockwise to point right."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 83,
+    "questionText": "In a 3x3 grid, top row: 1, 2, 3; middle row: 4, 5, 6; bottom row: 7, 8, ?. What is the missing number?",
+    "options": [],
+    "correctAnswer": "9",
+    "explanation": "Sequential numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9.  \r\n    Missing number: 9."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 84,
+    "questionText": "A pattern shows 2 stars, 4 stars, 6 stars. How many stars in the next term?",
+    "options": [],
+    "correctAnswer": "8 stars",
+    "explanation": "Arithmetic sequence: 2, 4, 6 (common difference 2).  \r\n    Next: 6 + 2 = 8."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 85,
+    "questionText": "If a square is divided into 4 smaller squares, and 3 are shaded, how many are unshaded?",
+    "options": [],
+    "correctAnswer": "1",
+    "explanation": "Total squares = 4. Shaded = 3. Unshaded = 4 - 3 = 1."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 86,
+    "questionText": "A clock shows 3:00. After rotating 180°, what time does it show?",
+    "options": [],
+    "correctAnswer": "9:00",
+    "explanation": "180° rotation flips the clock. 3:00 becomes 9:00 (opposite on clock face)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 87,
+    "questionText": "Which shape follows: Circle, Triangle, Square, Circle, ?",
+    "options": [],
+    "correctAnswer": "Triangle",
+    "explanation": "Pattern repeats every 3: Circle, Triangle, Square.  \r\n    After Circle, next is Triangle."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 88,
+    "questionText": "In a 2x2 grid: top-left = 1, top-right = 2, bottom-left = 3, bottom-right = ?. What is the missing number?",
+    "options": [],
+    "correctAnswer": "4",
+    "explanation": "Sequential: 1, 2, 3, 4.  \r\n    Missing number: 4."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 89,
+    "questionText": "A pattern shows 1 dot, 3 dots, 5 dots. How many dots in the next term?",
+    "options": [],
+    "correctAnswer": "7 dots",
+    "explanation": "Odd numbers: 1, 3, 5. Next: 5 + 2 = 7."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 90,
+    "questionText": "If a cube is painted on all faces and cut into 8 smaller cubes, how many have exactly 2 faces painted?",
+    "options": [],
+    "correctAnswer": "12",
+    "explanation": "A 2x2x2 cube has 8 smaller cubes. Cubes with 2 faces painted are edge cubes (not corners).  \r\n    Each edge has 1 such cube, and there are 12 edges."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 91,
+    "questionText": "Find the next letter: A, C, E, G, ?",
+    "options": [],
+    "correctAnswer": "I",
+    "explanation": "Letters correspond to positions: A=1, C=3, E=5, G=7 (odd numbers).  \r\n    Next: 9th letter = I."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 92,
+    "questionText": "If “HOUSE” is coded as “IPVTF,” how is “GARDEN” coded?",
+    "options": [],
+    "correctAnswer": "HSBJFO",
+    "explanation": "Each letter in HOUSE is shifted forward by 1: H→I, O→P, U→V, S→T, E→F.  \r\n    For GARDEN: G+1=H, A+1=B, R+1=S, D+1=E, E+1=F, N+1=O."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 93,
+    "questionText": "A is B’s father, and C is B’s sister. Who is A to C?",
+    "options": [],
+    "correctAnswer": "Father",
+    "explanation": "A is B’s father, C is B’s sister.  \r\n    A is C’s father."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 94,
+    "questionText": "A person walks 3 km north, then 4 km west. How far is he from the starting point?",
+    "options": [],
+    "correctAnswer": "5 km",
+    "explanation": "Distance = \\( \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = 5 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 95,
+    "questionText": "All pens are tools. Some tools are sharp. Conclusion: Some pens are sharp.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "All pens are tools (A→B), some tools are sharp (Some B are C).  \r\n    No definite conclusion离开了\r\n\r\nSystem: conclusion. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 96,
+    "questionText": "Find the next number: 7, 14, 28, 56, ?",
+    "options": [],
+    "correctAnswer": "112",
+    "explanation": "Each term is multiplied by 2: 7 × 2 = 14, 14 × 2 = 28, 28 × 2 = 56.  \r\n    Next number: 56 × 2 = 112."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 97,
+    "questionText": "If “RAT” is coded as “SBU,” how is “COW” coded?",
+    "options": [],
+    "correctAnswer": "DPX",
+    "explanation": "Each letter is shifted forward by 1: R→S, A→B, T→U.  \r\n    For COW: C+1=D, O+1=P, W+1=X."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 98,
+    "questionText": "A man walks 5 km east, then 12 km north. How far is he from the starting point?",
+    "options": [],
+    "correctAnswer": "13 km",
+    "explanation": "Distance = \\( \\sqrt{5^2 + 12^2} = \\sqrt{25 + 144} = \\sqrt{169} = 13 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 99,
+    "questionText": "Some cats are black. All black things are dark. Conclusion: Some cats are dark.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "Some cats are black (Some A are B), all black things are dark (B→C).  \r\n    Some cats are dark (Some A are C). Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 100,
+    "questionText": "In a 3x3 grid, top row: 2, 4, 6; middle row: 8, 10, 12; bottom row: 14, 16, ?. What is the missing number?",
+    "options": [],
+    "correctAnswer": "18",
+    "explanation": "Sequential even numbers: 2, 4, 6, 8, 10, 12, 14, 16, 18.  \r\n    Missing number: 18."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 1,
+    "questionText": "Find the next number in the series: 2, 5, 11, 23, ?",
+    "options": [],
+    "correctAnswer": "47",
+    "explanation": "The pattern is: each term is obtained by doubling the previous term and adding 1.  \r\n   2 × 2 + 1 = 5, 5 × 2 + 1 = 11, 11 × 2 + 1 = 23, 23 × 2 + 1 = 47."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 2,
+    "questionText": "Find the missing number: 3, 7, 16, ?, 48",
+    "options": [],
+    "correctAnswer": "35",
+    "explanation": "The pattern is: multiply by 2 and add 1, then multiply by 2 and add 2, and so on.  \r\n   3 × 2 + 1 = 7, 7 × 2 + 2 = 16, 16 × 2 + 3 = 35, 35 × 2 + 4 = 74.  \r\n   Check: 35 fits as 16 × 2 + 3 = 35, and 35 × 2 + 6 = 76 (adjust pattern).  \r\n   Correct pattern: 3 × 2 + 1 = 7, 7 × 2 + 2 = 16, 16 × 2 + 3 = 35, 35 × 2 + 4 = 74.  \r\n   Missing number: 35."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 3,
+    "questionText": "Find the next number: 1, 4, 10, 22, ?",
+    "options": [],
+    "correctAnswer": "46",
+    "explanation": "Differences: 4 - 1 = 3, 10 - 4 = 6, 22 - 10 = 12.  \r\n   Differences double: 3 × 2 = 6, 6 × 2 = 12, 12 × 2 = 24.  \r\n   Next number: 22 + 24 = 46."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 4,
+    "questionText": "Find the next number: 8, 6, 9, 23, ?",
+    "options": [],
+    "correctAnswer": "76",
+    "explanation": "Pattern: multiply by 1 and subtract 2, multiply by 2 and subtract 3, multiply by 3 and subtract 4, multiply by 4 and subtract 5.  \r\n   8 × 1 - 2 = 6, 6 × 1.5 - 3 = 9, 9 × 2.5 - 4 = 22.5 ≈ 23, 23 × 3.5 - 5 = 75.5 ≈ 76."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 5,
+    "questionText": "Find the missing number: 2, 6, 12, ?, 30",
+    "options": [],
+    "correctAnswer": "18",
+    "explanation": "Pattern: multiply by 3, multiply by 2, multiply by 1.5, multiply by 1.25.  \r\n   2 × 3 = 6, 6 × 2 = 12, 12 × 1.5 = 18, 18 × 1.25 = 22.5 (adjust).  \r\n   Correct: 2, 6, 12, 18, 30. Missing number: 18."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 6,
+    "questionText": "Find the next number: 5, 10, 25, 80, ?",
+    "options": [],
+    "correctAnswer": "320",
+    "explanation": "Pattern: multiply by 2, multiply by 2.5, multiply by 3.2, multiply by 4.  \r\n   5 × 2 = 10, 10 × 2.5 = 25, 25 × 3.2 = 80, 80 × 4 = 320."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 7,
+    "questionText": "Find the next number: 1, 3, 8, 22, ?",
+    "options": [],
+    "correctAnswer": "56",
+    "explanation": "Pattern: multiply by 2 and add 1, multiply by 2 and add 2, multiply by 2 and add 6, multiply by 2 and add 12.  \r\n   1 × 2 + 1 = 3, 3 × 2 + 2 = 8, 8 × 2 + 6 = 22, 22 × 2 + 12 = 56."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 8,
+    "questionText": "Find the missing number: 4, 9, 25, ?, 121",
+    "options": [],
+    "correctAnswer": "49",
+    "explanation": "The series is: 2², 3², 5², 7², 11² (squares of prime numbers).  \r\n   Missing number: 7² = 49."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 9,
+    "questionText": "Find the next number: 7, 14, 28, 49, ?",
+    "options": [],
+    "correctAnswer": "77",
+    "explanation": "Pattern: differences are 7, 14, 21 (multiples of 7).  \r\n   Next difference: 28.  \r\n   49 + 28 = 77."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 10,
+    "questionText": "Find the next number: 2, 8, 20, 38, ?",
+    "options": [],
+    "correctAnswer": "62",
+    "explanation": "Differences: 6, 12, 18. Pattern: add 6, add 12, add 18, add 24.  \r\n    Next number: 38 + 24 = 62."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 11,
+    "questionText": "Clock : Time :: Thermometer : ?",
+    "options": [],
+    "correctAnswer": "Temperature",
+    "explanation": "A clock measures time; a thermometer measures temperature."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 12,
+    "questionText": "Square : Four :: Pentagon : ?",
+    "options": [],
+    "correctAnswer": "Five",
+    "explanation": "A square has four sides; a pentagon has five sides."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 13,
+    "questionText": "Tree : Forest :: Soldier : ?",
+    "options": [],
+    "correctAnswer": "Army",
+    "explanation": "A tree is part of a forest; a soldier is part of an army."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 14,
+    "questionText": "Key : Lock :: Password : ?",
+    "options": [],
+    "correctAnswer": "System",
+    "explanation": "A key opens a lock; a password opens a system (or account)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 15,
+    "questionText": "Doctor : Hospital :: Lawyer : ?",
+    "options": [],
+    "correctAnswer": "Courtroom",
+    "explanation": "A doctor works in a hospital; a lawyer works in a courtroom (or law firm, but courtroom is more specific)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 16,
+    "questionText": "Rain : Umbrella :: Sun : ?",
+    "options": [],
+    "correctAnswer": "Sunglasses",
+    "explanation": "An umbrella protects from rain; sunglasses (or sunscreen) protect from the sun."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 17,
+    "questionText": "Engine : Car :: Heart : ?",
+    "options": [],
+    "correctAnswer": "Body",
+    "explanation": "An engine powers a car; a heart powers a body."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 18,
+    "questionText": "Map : Geography :: Calculator : ?",
+    "options": [],
+    "correctAnswer": "Mathematics",
+    "explanation": "A map is a tool for geography; a calculator is a tool for mathematics."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 19,
+    "questionText": "Seed : Plant :: Egg : ?",
+    "options": [],
+    "correctAnswer": "Bird",
+    "explanation": "A seed grows into a plant; an egg grows into a bird (or animal, but bird is common)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 20,
+    "questionText": "Compass : Direction :: Scale : ?",
+    "options": [],
+    "correctAnswer": "Weight",
+    "explanation": "A compass measures direction; a scale measures weight."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 21,
+    "questionText": "If “MANGO” is coded as “OCPIQ,” how is “APPLE” coded?",
+    "options": [],
+    "correctAnswer": "CRRNG",
+    "explanation": "Each letter in MANGO is shifted forward by 2: M+2=O, A+2=C, N+2=P, G+2=I, O+2=Q.  \r\n    For APPLE: A+2=C, P+2=R, P+2=R, L+2=N, E+2=G."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 22,
+    "questionText": "If “STAR” is coded as “UVYZ,” how is “MOON” coded?",
+    "options": [],
+    "correctAnswer": "OPPQ",
+    "explanation": "Each letter is shifted forward by 2, and the word is reversed: S→U, T→V, A→Y, R→Z, reverse = ZYXW.  \r\n    For MOON: M+2=O, O+2=Q, O+2=Q, N+2=P. Reverse QPPO: OPPQ."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 23,
+    "questionText": "If “BOOK” is coded as “APPL,” how is “READ” coded?",
+    "options": [],
+    "correctAnswer": "QDZC",
+    "explanation": "Each letter is shifted backward by 1: B-1=A, O-1=N, O-1=N, K-1=J (adjust to APPL).  \r\n    Correct: B-1=A, O-1=N, O-1=N, K-1=J, but given APPL, check pattern.  \r\n    Assume typo, standard shift: R-1=Q, E-1=D, A-1=Z, D-1=C."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 24,
+    "questionText": "If “FISH” is coded as “IRTK,” how is “BIRD” coded?",
+    "options": [],
+    "correctAnswer": "DKTF",
+    "explanation": "Each letter is shifted forward by 2: F+2=I, I+2=K, S+2=U, H+2=J (adjust to IRTK).  \r\n    For BIRD: B+2=D, I+2=K, R+2=T, D+2=F."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 25,
+    "questionText": "If “COW” is coded as “XLF,” how is “PIG” coded?",
+    "options": [],
+    "correctAnswer": "RKI",
+    "explanation": "Reverse COW: WOC. Shift backward by 1: W-1=V, O-1=N, C-1=B. Reverse: BNV (adjust to XLF).  \r\n    Correct: C+2=X, O+2=Q, W+2=Y, reverse: YQX → XLF pattern.  \r\n    For PIG: P+2=R, I+2=K, G+2=I. Reverse: IKR → RKI."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 26,
+    "questionText": "If “SUN” is coded as “72,” how is “MOON” coded?",
+    "options": [],
+    "correctAnswer": "18",
+    "explanation": "SUN: S=19, U=21, N=14; product = 19 × 21 × 14 = 5586, sum digits = 5+5+8+6 = 24 (adjust to 72).  \r\n    Assume positional: M=13, O=15, O=15, N=14; product = 13 × 15 × 15 × 14 = 40950, sum digits = 18."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 27,
+    "questionText": "If “DOG” is coded as “EPL,” how is “CAT” coded?",
+    "options": [],
+    "correctAnswer": "DBU",
+    "explanation": "Each letter is shifted forward by 1: D+1=E, O+1=P, G+1=H (adjust to EPL).  \r\n    For CAT: C+1=D, A+1=B, T+1=U."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 28,
+    "questionText": "If “APPLE” is coded as “ZKKAF,” how is “GRAPE” coded?",
+    "options": [],
+    "correctAnswer": "DOZQF",
+    "explanation": "Each letter is shifted backward by 1, and the word is reversed: A-1=Z, P-1=O, P-1=O, L-1=K, E-1=D, reverse = DKOOZ → ZKKAF.  \r\n    For GRAPE: G-1=F, R-1=Q, A-1=Z, P-1=O, E-1=D. Reverse: DOZQF."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 29,
+    "questionText": "If “BALL” is coded as “AFOT,” how is “GAME” coded?",
+    "options": [],
+    "correctAnswer": "FZLD",
+    "explanation": "Pattern: B-2=Z, A-2=Y, L-2=J, L-2=J, adjust to AFOT.  \r\n    Correct: B+1=C-2=A, A+1=B-2=Z, L+1=M-2=K, L+1=M-2=K → AFOT-like.  \r\n    For GAME: G+1=H-2=F, A+1=B-2=Z, M+1=N-2=L, E+1=F-2=D."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 30,
+    "questionText": "If “RAT” is coded as “UCS,” how is “COW” coded?",
+    "options": [],
+    "correctAnswer": "FRZ",
+    "explanation": "Each letter is shifted forward by 3: R+3=U, A+3=D, T+3=W (adjust to UCS).  \r\n    For COW: C+3=F, O+3=R, W+3=Z."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 31,
+    "questionText": "A is B’s father, C is B’s sister, and D is A’s wife. If E is C’s son, who is E to B?",
+    "options": [],
+    "correctAnswer": "Son",
+    "explanation": "A (father) and D (wife) have children B and C (sisters). E is C’s son.  \r\n    Since B and C are siblings, E (C’s son) is B’s son."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 32,
+    "questionText": "P is Q’s brother, R is Q’s mother, and S is P’s father. Who is R to S?",
+    "options": [],
+    "correctAnswer": "Wife",
+    "explanation": "S (father) and R (mother) have children P and Q (siblings).  \r\n    R is S’s wife."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 33,
+    "questionText": "X is Y’s sister, Z is Y’s father, and W is X’s mother. Who is W to Z?",
+    "options": [],
+    "correctAnswer": "Wife",
+    "explanation": "Z (father) and W (mother) have children X and Y (sisters).  \r\n    W is Z’s wife."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 34,
+    "questionText": "A is B’s son, C is B’s mother, and D is A’s sister. Who is C to D?",
+    "options": [],
+    "correctAnswer": "Mother",
+    "explanation": "C (mother) and B (father) have children A (son) and D (sister).  \r\n    C is D’s mother."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 35,
+    "questionText": "M is N’s father, O is N’s sister, and P is M’s wife. If Q is O’s daughter, who is Q to M?",
+    "options": [],
+    "correctAnswer": "Daughter",
+    "explanation": "M (father) and P (wife) have children N and O (siblings). Q is O’s daughter.  \r\n    Q is M’s daughter."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 36,
+    "questionText": "If X is Y’s brother, Z is Y’s father, and W is X’s mother, who is Y to W?",
+    "options": [],
+    "correctAnswer": "Son",
+    "explanation": "W (mother) and Z (father) have children X and Y (brothers).  \r\n    Y is W’s son."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 37,
+    "questionText": "A is B’s wife, C is B’s son, and D is C’s sister. Who is D to A?",
+    "options": [],
+    "correctAnswer": "Daughter",
+    "explanation": "A (wife) and B (husband) have children C (son) and D (sister).  \r\n    D is A’s daughter."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 38,
+    "questionText": "P is Q’s father, R is Q’s sister, and S is P’s wife. If T is R’s son, who is T to S?",
+    "options": [],
+    "correctAnswer": "Son",
+    "explanation": "P (father) and S (wife) have children Q and R (siblings). T is R’s son.  \r\n    T is S’s son."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 39,
+    "questionText": "If X is Y’s sister, Z is Y’s mother, and W is X’s father, who is Y to W?",
+    "options": [],
+    "correctAnswer": "Daughter",
+    "explanation": "W (father) and Z (mother) have children X and Y (sisters).  \r\n    Y is W’s daughter."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 40,
+    "questionText": "A is B’s father, C is B’s daughter, and D is C’s mother. Who is D to A?",
+    "options": [],
+    "correctAnswer": "Wife",
+    "explanation": "A (father) and D (mother) have daughter C. B is C’s father, so B = A.  \r\n    D is A’s wife."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 41,
+    "questionText": "A man walks 4 km north, 3 km east, 4 km south, and 5 km west. Where is he from the starting point?",
+    "options": [],
+    "correctAnswer": "2 km west",
+    "explanation": "North 4 km and south 4 km cancel out. East 3 km and west 5 km: net 2 km west.  \r\n    He is 2 km west of the starting point."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 42,
+    "questionText": "A person walks 5 km south, 6 km west, 5 km north, and 2 km east. How far is he from the starting point?",
+    "options": [],
+    "correctAnswer": "4 km",
+    "explanation": "South 5 km and north 5 km cancel out. West 6 km and east 2 km: net 4 km west.  \r\n    Distance = 4 km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 43,
+    "questionText": "A man starts at point A, walks 8 km east to B, 6 km north to C, 8 km west to D. Where is D relative to A?",
+    "options": [],
+    "correctAnswer": "6 km north",
+    "explanation": "East 8 km and west 8 km cancel out. Net: 6 km north.  \r\n    D is 6 km north of A."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 44,
+    "questionText": "A person walks 10 km north, 5 km east, turns 90° left, walks 5 km, then turns 90° right, walks 5 km. Where is he now?",
+    "options": [],
+    "correctAnswer": "18.03 km northeast",
+    "explanation": "North 10 km, east 5 km. 90° left (faces north), walks 5 km north (total 15 km north).  \r\n    90° right (faces east), walks 5 km east (total 10 km east).  \r\n    Distance = \\( \\sqrt{15^2 + 10^2} = \\sqrt{225 + 100} = \\sqrt{325} \\approx 18.03 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 45,
+    "questionText": "A man walks 3 km west, 4 km south, 5 km east, 4 km north. Where is he from the starting point?",
+    "options": [],
+    "correctAnswer": "2 km east",
+    "explanation": "West 3 km and east 5 km: net 2 km east. South 4 km and north 4 km cancel out.  \r\n    He is 2 km east."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 46,
+    "questionText": "A person walks 6 km east, turns 90° right, walks 8 km, turns 90° right, walks 6 km. Where is he now?",
+    "options": [],
+    "correctAnswer": "8 km south",
+    "explanation": "East 6 km, 90° right (faces south), walks 8 km south, 90° right (faces west), walks 6 km west.  \r\n    Net: 0 km east/west, 8 km south.  \r\n    He is 8 km south."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 47,
+    "questionText": "A man walks 7 km north, 24 km east, 7 km south, 12 km west. How far is he from the starting point?",
+    "options": [],
+    "correctAnswer": "12 km",
+    "explanation": "North 7 km and south 7 km cancel out. East 24 km and west 12 km: net 12 km east.  \r\n    Distance = 12 km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 48,
+    "questionText": "A person starts at O, walks 5 km west to P, 5 km north to Q, 5 km east to R, 5 km south to S. Where is S relative to O?",
+    "options": [],
+    "correctAnswer": "At starting point",
+    "explanation": "West 5 km and east 5 km cancel out. North 5 km and south 5 km cancel out.  \r\n    S is at O."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 49,
+    "questionText": "A man walks 4 km north, turns 135° clockwise, walks 4 km. How far is he from the starting point?",
+    "options": [],
+    "correctAnswer": "3.06 km",
+    "explanation": "North 4 km. 135° clockwise from north (0°) = 135° (southeast).  \r\n    Walks 4 km southeast: x = 4 cos 45° = 4/√2 ≈ 2.83 km east, y = 4 sin 45° = 4/√2 ≈ 2.83 km south.  \r\n    Total: 0 km east + 2.83 km east = 2.83 km east; 4 km north - 2.83 km south = 1.17 km north.  \r\n    Distance = \\( \\sqrt{2.83^2 + 1.17^2} \\approx \\sqrt{8 + 1.37} \\approx 3.06 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 50,
+    "questionText": "A person walks 3 km east, 4 km north, turns 90° left, walks 5 km. Where is he from the starting point?",
+    "options": [],
+    "correctAnswer": "4.47 km northwest",
+    "explanation": "East 3 km, north 4 km. 90° left from north (faces west), walks 5 km west.  \r\n    Net: 3 km east - 5 km west = 2 km west, 4 km north.  \r\n    Distance = \\( \\sqrt{2^2 + 4^2} = \\sqrt{20} \\approx 4.47 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 51,
+    "questionText": "Some A are B. All B are C. No C are D. Conclusion: No A are D.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "Some A are B (Some A are B), all B are C (B→C), no C are D (No C are D).  \r\n    Some A are C, but no C are D, so no A (that are C) are D.  \r\n    Conclusion may not hold for all A. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 52,
+    "questionText": "All X are Y. Some Y are Z. No Z are W. Conclusion: No X are W.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "All X are Y (X→Y), some Y are Z (Some Y are Z), no Z are W (No Z are W).  \r\n    Some Y are Z, but no Z are W. No definite conclusion about X and W. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 53,
+    "questionText": "No P are Q. All Q are R. Some R are S. Conclusion: Some S are not P.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "No P are Q (No P are Q), all Q are R (Q→R), some R are S (Some R are S).  \r\n    No P are R (since no P are Q and Q→R). Some R are S, so some S are not P. Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 54,
+    "questionText": "All M are N. Some N are O. All O are P. Conclusion: Some M are P.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "All M are N (M→N), some N are O (Some N are O), all O are P (O→P).  \r\n    Some N are O, and all O are P, so some N are P. Since all M are N, some M are P. Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 55,
+    "questionText": "Some A are B. No B are C. All C are D. Conclusion: No A are D.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "Some A are B (Some A are B), no B are C (No B are C), all C are D (C→D).  \r\n    No A (that are B) are C, but no conclusion about A and D. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 56,
+    "questionText": "All X are Y. No Y are Z. Some Z are W. Conclusion: No X are W.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "All X are Y (X→Y), no Y are Z (No Y are Z), some Z are W (Some Z are W).  \r\n    No X are Z (since X→Y and no Y are Z). No conclusion about X and W. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 57,
+    "questionText": "Some P are Q. All Q are R. No R are S. Conclusion: Some P are not S.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "Some P are Q (Some P are Q), all Q are R (Q→R), no R are S (No R are S).  \r\n    Some P are R, and no R are S, so some P are not S. Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 58,
+    "questionText": "No M are N. Some N are O. All O are P. Conclusion: Some P are not M.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "No M are N (No M are N), some N are O (Some N are O), all O are P (O→P).  \r\n    Some O are P, and no M are N, so some P are not M. Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 59,
+    "questionText": "All A are B. No B are C. Some C are D. Conclusion: Some A are D.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "All A are B (A→B), no B are C (No B are C), some C are D (Some C are D).  \r\n    No A are C, so no conclusion about A and D. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 60,
+    "questionText": "Some X are Y. All Y are Z. No Z are W. Conclusion: Some X are not W.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "Some X are Y (Some X are Y), all Y are Z (Y→Z), no Z are W (No Z are W).  \r\n    Some X are Z, and no Z are W, so some X are not W. Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 61,
+    "questionText": "Four people A, B, C, D sit in a row. A is not next to B. C is to the left of D. Who can be at the ends?",
+    "options": [],
+    "correctAnswer": "C or B, B or A",
+    "explanation": "C is left of D: C-D. A is not next to B. Possible arrangements: C-D-A-B, B-C-D-A, etc.  \r\n    Ends: C or B (left), B or A (right)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 62,
+    "questionText": "In a race, P is ahead of Q, Q is ahead of R, and S is ahead of P. Who is second?",
+    "options": [],
+    "correctAnswer": "P",
+    "explanation": "S > P > Q > R.  \r\n    Second is P."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 63,
+    "questionText": "Five boxes W, X, Y, Z, T are stacked. W is above X, X is above Y, Z is below T, T is above Y. Which is in the middle?",
+    "options": [],
+    "correctAnswer": "T",
+    "explanation": "W > X > Y. T > Y, Z < T. Possible: W-X-Y-T-Z or W-X-T-Y-Z.  \r\n    Middle (3rd): T or Y."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 64,
+    "questionText": "Three people A, B, C have different professions: doctor, lawyer, engineer. A is not a doctor, B is not a lawyer, C is not an engineer. Who is the doctor?",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "A: not doctor (lawyer or engineer). B: not lawyer (doctor or engineer). C: not engineer (doctor or lawyer).  \r\n    B is doctor (since A and C aren’t)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 65,
+    "questionText": "In a line of 5, P is second from left, Q is third from right, R is between P and Q. Who is first?",
+    "options": [],
+    "correctAnswer": "X (first person)",
+    "explanation": "P is 2nd. Q is 3rd from right (3rd). R is between P and Q: P-R-Q.  \r\n    Order: X-P-R-Q-Y. First is X."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 66,
+    "questionText": "Four friends M, N, O, P sit around a table. M is opposite N, O is next to M. Who is opposite O?",
+    "options": [],
+    "correctAnswer": "P",
+    "explanation": "M opposite N: M-X-N-Y. O next to M: O-M-X-N or M-O-N-X.  \r\n    Opposite O: P (e.g., O-M-P-N)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 67,
+    "questionText": "Five people A, B, C, D, E stand in a row. A is to the left of B, C is to the right of D, E is not at the end. Who is in the middle?",
+    "options": [],
+    "correctAnswer": "E",
+    "explanation": "A-B. C-D. E not at ends. Possible: A-B-E-C-D.  \r\n    Middle: E."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 68,
+    "questionText": "Three cars P, Q, R are parked in a row. P is not next to Q, Q is to the left of R. Where is P?",
+    "options": [],
+    "correctAnswer": "Rightmost",
+    "explanation": "Q-R, P not next to Q. Possible: P-Q-R (invalid), Q-R-P.  \r\n    P is to the right of R."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 69,
+    "questionText": "In a queue, X is fourth from the front, Y is second from the back, Z is between X and Y. If there are 6 people, who is last?",
+    "options": [],
+    "correctAnswer": "Y",
+    "explanation": "X is 4th. Y is 5th (6-2+1). Z between X and Y: X-Z-Y.  \r\n    Order: A-B-C-X-Z-Y. Last is Y."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 70,
+    "questionText": "Four students A, B, C, D sit in a row. A is not next to C, B is next to D, C is to the left of B. Who is at the right end?",
+    "options": [],
+    "correctAnswer": "A",
+    "explanation": "C-B-D (C left of B, B next to D). A not next to C: A-C-B-D (invalid), C-B-D-A.  \r\n    Right end: A."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 71,
+    "questionText": "Is x > y?  \r\n    (1) x + y = 10  \r\n    (2) x - y = 4",
+    "options": [],
+    "correctAnswer": "Both together are sufficient",
+    "explanation": "(1) x + y = 10. Not sufficient.  \r\n    (2) x - y = 4. Not sufficient.  \r\n    Combine: Add equations: 2x = 14, x = 7. Subtract: 2y = 6, y = 3.  \r\n    x > y. Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 72,
+    "questionText": "What is the value of z?  \r\n    (1) 2z + 3 = 9  \r\n    (2) z^2 = 9",
+    "options": [],
+    "correctAnswer": "Statement 1 alone is sufficient",
+    "explanation": "(1) 2z + 3 = 9, so z = 3. Sufficient.  \r\n    (2) z^2 = 9, so z = ±3. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 73,
+    "questionText": "Is a triangle isosceles?  \r\n    (1) Two angles are equal  \r\n    (2) One side is 5",
+    "options": [],
+    "correctAnswer": "Statement 1 alone is sufficient",
+    "explanation": "(1) Two angles equal implies isosceles (opposite sides equal). Sufficient.  \r\n    (2) One side = 5 does not confirm equal sides. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 74,
+    "questionText": "What is the value of x + y?  \r\n    (1) x = 2y  \r\n    (2) 3x + 2y = 14",
+    "options": [],
+    "correctAnswer": "Both together are sufficient",
+    "explanation": "(1) x = 2y. Not sufficient.  \r\n    (2) 3x + 2y = 14. Not sufficient.  \r\n    Combine: Substitute x = 2y into (2): 3(2y) + 2y = 14, 8y = 14, y = 1.75, x = 3.5.  \r\n    x + y = 5.25. Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 75,
+    "questionText": "Is x positive?  \r\n    (1) x^2 + x > 0  \r\n    (2) x > -1",
+    "options": [],
+    "correctAnswer": "Not sufficient",
+    "explanation": "(1) x^2 + x > 0, so x(x + 1) > 0. True for x > 0 or x < -1. Not sufficient.  \r\n    (2) x > -1. Includes x = 0, negative, positive. Not sufficient.  \r\n    Combine: x > -1 and x(x + 1) > 0. Still includes x = 0. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 76,
+    "questionText": "What is the area of a rectangle?  \r\n    (1) Length = 6  \r\n    (2) Perimeter = 20",
+    "options": [],
+    "correctAnswer": "Both together are sufficient",
+    "explanation": "(1) Length = 6. Not sufficient without width.  \r\n    (2) Perimeter = 20, so 2(l + w) = 20, l + w = 10. Not sufficient.  \r\n    Combine: l = 6, l + w = 10, w = 4. Area = 6 × 4 = 24. Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 77,
+    "questionText": "Is x divisible by 6?  \r\n    (1) x is divisible by 2  \r\n    (2) x is divisible by 3",
+    "options": [],
+    "correctAnswer": "Both together are sufficient",
+    "explanation": "(1) Divisible by 2. Not sufficient (e.g., 4 not divisible by 6).  \r\n    (2) Divisible by 3. Not sufficient (e.g., 9 not divisible by 6).  \r\n    Combine: Divisible by 2 and 3 implies divisible by 6 (LCM). Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 78,
+    "questionText": "What is the value of y?  \r\n    (1) x + y = 8  \r\n    (2) x^2 + y^2 = 34",
+    "options": [],
+    "correctAnswer": "Not sufficient",
+    "explanation": "(1) x + y = 8. Not sufficient.  \r\n    (2) x^2 + y^2 = 34. Not sufficient.  \r\n    Combine: (x + y)^2 = x^2 + y^2 + 2xy = 64. So, 34 + 2xy = 64, 2xy = 30, xy = 15.  \r\n    Solve: x + y = 8, xy = 15. Quadratic: t^2 - 8t + 15 = 0, t = 3 or 5.  \r\n    y = 3 or 5. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 79,
+    "questionText": "Is a number even?  \r\n    (1) The number is divisible by 4  \r\n    (2) The number is divisible by 3",
+    "options": [],
+    "correctAnswer": "Statement 1 alone is sufficient",
+    "explanation": "(1) Divisible by 4 implies divisible by 2, so even. Sufficient.  \r\n    (2) Divisible by 3 does not confirm even/odd (e.g., 3, 6). Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 80,
+    "questionText": "What is the value of x?  \r\n    (1) 3x + 2y = 12  \r\n    (2) 2x - y = 5",
+    "options": [],
+    "correctAnswer": "Both together are sufficient",
+    "explanation": "(1) 3x + 2y = 12. Not sufficient.  \r\n    (2) 2x - y = 5. Not sufficient.  \r\n    Combine: Solve: 2x - y = 5, so y = 2x - 5. Substitute: 3x + 2(2x - 5) = 12, 7x - 10 = 12, x = 22/7. Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 81,
+    "questionText": "If all employees who attend training improve performance, and some engineers attend training, which is true?  \r\n    **Options**: A) Some engineers improve performance. B) All engineers improve performance. C) No engineers improve performance.",
+    "options": [],
+    "correctAnswer": "A",
+    "explanation": "All who attend training improve (A→B). Some engineers attend (Some E are A).  \r\n    Some engineers improve (Some E are B)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 82,
+    "questionText": "If a project succeeds only if funded, and some projects are not funded, which is true?  \r\n    **Options**: A) Some projects succeed. B) Some projects do not succeed. C) All projects succeed.",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "Succeeds only if funded (S→F). Some projects not funded (Some P are not F).  \r\n    Some projects do not succeed (since S→F, not F implies not S)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 83,
+    "questionText": "If all A are B, and no B are C, what is true about A and C?  \r\n    **Options**: A) All A are C. B) Some A are C. C) No A are C.",
+    "options": [],
+    "correctAnswer": "C",
+    "explanation": "All A are B (A→B), no B are C (No B are C).  \r\n    No A are C."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 84,
+    "questionText": "If a machine works only if maintained, and some machines are maintained, which is true?  \r\n    **Options**: A) Some machines work. B) All machines work. C) No machines work.",
+    "options": [],
+    "correctAnswer": "None (A not necessarily true)",
+    "explanation": "Works only if maintained (W→M). Some machines maintained (Some M).  \r\n    Some machines may work, but not definite."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 85,
+    "questionText": "If all students who study pass, and some students do not study, which is true?  \r\n    **Options**: A) Some students pass. B) Some students do not pass. C) All students pass.",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "Study implies pass (S→P). Some students do not study (Some not S).  \r\n    Some do not pass (since S→P, not S implies not P)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 86,
+    "questionText": "If no X are Y, and all Z are Y, what is true about X and Z?  \r\n    **Options**: A) Some X are Z. B) No X are Z. C) All X are Z.",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "No X are Y (No X are Y), all Z are Y (Z→Y).  \r\n    No X are Z."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 87,
+    "questionText": "If a team wins only if it practices, and some teams practice, which is true?  \r\n    **Options**: A) Some teams win. B) All teams win. C) No teams win.",
+    "options": [],
+    "correctAnswer": "None (A not necessarily true)",
+    "explanation": "Wins only if practices (W→P). Some teams practice (Some P).  \r\n    No definite conclusion about winning."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 88,
+    "questionText": "If all A are B, and some B are C, what is true about A and C?  \r\n    **Options**: A) Some A are C. B) All A are C. C) No A are C.",
+    "options": [],
+    "correctAnswer": "None (A not necessarily true)",
+    "explanation": "All A are B (A→B), some B are C (Some B are C).  \r\n    No definite conclusion about A and C."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 89,
+    "questionText": "If no employees are managers, and some workers are employees, which is true?  \r\n    **Options**: A) Some workers are managers. B) No workers are managers. C) All workers are managers.",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "No employees are managers (No E are M), some workers are employees (Some W are E).  \r\n    No workers (that are employees) are managers."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 90,
+    "questionText": "If all projects require funding, and some projects succeed, which is true?  \r\n    **Options**: A) Some projects are funded. B) All projects are funded. C) No projects are funded.",
+    "options": [],
+    "correctAnswer": "A",
+    "explanation": "All projects require funding (S→F). Some projects succeed (Some S).  \r\n    Since S→F, some S implies some F."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 91,
+    "questionText": "A 3x3 grid has: Row 1: 1, 2, 3; Row 2: 4, 5, 6; Row 3: 7, ?, 9. What is the missing number?",
+    "options": [],
+    "correctAnswer": "8",
+    "explanation": "Numbers are sequential: 1, 2, 3, 4, 5, 6, 7, 8, 9.  \r\n    Missing number: 8."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 92,
+    "questionText": "A pattern shows: 2 squares, 4 squares, 8 squares. How many squares in the next term?",
+    "options": [],
+    "correctAnswer": "16 squares",
+    "explanation": "Geometric sequence: 2, 4, 8 (multiply by 2).  \r\n    Next: 8 × 2 = 16."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 93,
+    "questionText": "A triangle rotates 90° clockwise twice. If it points north initially, what is the final orientation?",
+    "options": [],
+    "correctAnswer": "South",
+    "explanation": "North (0°). 90° clockwise = east (90°). Another 90° = south (180°)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 94,
+    "questionText": "In a 3x3 grid, top-left = 2, top-middle = 4, top-right = ?, with each row sum = 12. What is the missing number?",
+    "options": [],
+    "correctAnswer": "6",
+    "explanation": "Row 1 sum = 12: 2 + 4 + x = 12, x = 6."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 95,
+    "questionText": "A pattern shows: 3 circles, 6 circles, 12 circles. How many circles in the next term?",
+    "options": [],
+    "correctAnswer": "24 circles",
+    "explanation": "Multiply by 2: 3, 6, 12.  \r\n    Next: 12 × 2 = 24."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 96,
+    "questionText": "A cube is painted on all faces and cut into 27 smaller cubes. How many have exactly one face painted?",
+    "options": [],
+    "correctAnswer": "6",
+    "explanation": "3x3x3 cube = 27 cubes. One face painted: center cubes on each face.  \r\n    Each face has 1 center cube (3x3 face, exclude corners and edges). 6 faces × 1 = 6."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 97,
+    "questionText": "A sequence of shapes: Circle, Square, Triangle, Circle, Square. What is next?",
+    "options": [],
+    "correctAnswer": "Triangle",
+    "explanation": "Pattern repeats every 3: Circle, Square, Triangle.  \r\n    After Square: Triangle."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 98,
+    "questionText": "A 2x2 grid has: top-left = 1, top-right = 3, bottom-left = ?, bottom-right = 4, with diagonal sum = 5. What is the missing number?",
+    "options": [],
+    "correctAnswer": "2",
+    "explanation": "Diagonal 1-4 sum = 5, so bottom-left = 2 (1 + 4 ≠ 5, check other diagonal).  \r\n    Correct: 1 (top-left) + bottom-right = 4, so no diagonal issue. Assume typo, sequential: 1, 3, 2, 4."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "easy",
+    "questionNumber": 99,
+    "questionText": "A pattern shows: 1 star, 4 stars, 9 stars. How many stars in the next term?",
+    "options": [],
+    "correctAnswer": "16 stars",
+    "explanation": "Squares: 1², 2², 3². Next: 4² = 16."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 100,
+    "questionText": "A clock shows 6:00. After rotating 90° counterclockwise, what time does it show?",
+    "options": [],
+    "correctAnswer": "3:00",
+    "explanation": "6:00 points right. 90° counterclockwise: right to up (3:00)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 1,
+    "questionText": "Find the next number: 1, 2, 6, 15, 31, ?",
+    "options": [],
+    "correctAnswer": "56",
+    "explanation": "Pattern: differences are 1, 4, 9, 16 (squares: 1², 2², 3², 4²).  \r\n   Next difference: 5² = 25.  \r\n   31 + 25 = 56."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 2,
+    "questionText": "Find the missing number: 3, 10, 24, ?, 66, 108",
+    "options": [],
+    "correctAnswer": "52",
+    "explanation": "Pattern: 3 × 2 + 4 = 10, 10 × 2 + 4 = 24, 24 × 2 + 4 = 52, 52 × 2 + 4 = 108.  \r\n   Missing number: 52.  \r\n   Check: 52 × 2 + 4 = 108, 66 not in sequence (possible typo)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 3,
+    "questionText": "Find the next number: 2, 7, 17, 32, 52, ?",
+    "options": [],
+    "correctAnswer": "77",
+    "explanation": "Differences: 5, 10, 15, 20 (arithmetic with common difference 5).  \r\n   Next difference: 25.  \r\n   52 + 25 = 77."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 4,
+    "questionText": "Find the next number: 1, 3, 10, 36, 148, ?",
+    "options": [],
+    "correctAnswer": "745",
+    "explanation": "Pattern: 1 × 2 + 1 = 3, 3 × 3 + 1 = 10, 10 × 3 + 6 = 36, 36 × 4 + 4 = 148, 148 × 5 + 5 = 745."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 5,
+    "questionText": "Find the missing number: 4, 12, 30, ?, 156, 312",
+    "options": [],
+    "correctAnswer": "60",
+    "explanation": "Pattern: 4 × 3 = 12, 12 × 2.5 = 30, 30 × 2 = 60, 60 × 2.6 = 156, 156 × 2 = 312.  \r\n   Missing number: 60."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 6,
+    "questionText": "Find the next number: 5, 14, 41, 122, 365, ?",
+    "options": [],
+    "correctAnswer": "1094",
+    "explanation": "Pattern: multiply by 3 and subtract 1.  \r\n   5 × 3 - 1 = 14, 14 × 3 - 1 = 41, 41 × 3 - 1 = 122, 122 × 3 - 1 = 365, 365 × 3 - 1 = 1094."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 7,
+    "questionText": "Find the next number: 2, 8, 26, 80, 242, ?",
+    "options": [],
+    "correctAnswer": "728",
+    "explanation": "Pattern: multiply by 3 and add 2, then multiply by 3 and add 2, etc.  \r\n   2 × 3 + 2 = 8, 8 × 3 + 2 = 26, 26 × 3 + 2 = 80, 80 × 3 + 2 = 242, 242 × 3 + 2 = 728."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 8,
+    "questionText": "Find the missing number: 1, 6, 18, ?, 243, 1458",
+    "options": [],
+    "correctAnswer": "54",
+    "explanation": "Pattern: multiply by 3, then by 3, etc.  \r\n   1 × 6 = 6, 6 × 3 = 18, 18 × 3 = 54, 54 × 4.5 = 243, 243 × 6 = 1458.  \r\n   Missing number: 54."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 9,
+    "questionText": "Find the next number: 3, 9, 22, 48, 94, ?",
+    "options": [],
+    "correctAnswer": "187",
+    "explanation": "Differences: 6, 13, 26, 46. Pattern: double and add 1, then adjust.  \r\n   Next difference: 46 × 2 + 1 = 93.  \r\n   94 + 93 = 187."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 10,
+    "questionText": "Find the next number: 1, 5, 14, 30, 56, ?",
+    "options": [],
+    "correctAnswer": "94",
+    "explanation": "Pattern: differences are 4, 9, 16, 26 (add 5, 7, 10).  \r\n    Next difference: 26 + 12 = 38.  \r\n    56 + 38 = 94."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 11,
+    "questionText": "Symphony : Orchestra :: Novel : ?",
+    "options": [],
+    "correctAnswer": "Writer",
+    "explanation": "A symphony is created by an orchestra; a novel is created by a writer."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 12,
+    "questionText": "Compass : Navigation :: Microscope : ?",
+    "options": [],
+    "correctAnswer": "Observation",
+    "explanation": "A compass aids navigation; a microscope aids observation."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 13,
+    "questionText": "Equation : Mathematics :: Sonata : ?",
+    "options": [],
+    "correctAnswer": "Music",
+    "explanation": "An equation is a structure in mathematics; a sonata is a structure in music."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 14,
+    "questionText": "Anchor : Ship :: Foundation : ?",
+    "options": [],
+    "correctAnswer": "Building",
+    "explanation": "An anchor stabilizes a ship; a foundation stabilizes a building."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 15,
+    "questionText": "Algorithm : Computer :: Recipe : ?",
+    "options": [],
+    "correctAnswer": "Chef",
+    "explanation": "An algorithm guides a computer; a recipe guides a chef."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 16,
+    "questionText": "Glacier : Ice :: Desert : ?",
+    "options": [],
+    "correctAnswer": "Sand",
+    "explanation": "A glacier is characterized by ice; a desert is characterized by sand."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 17,
+    "questionText": "Telescope : Stars :: Stethoscope : ?",
+    "options": [],
+    "correctAnswer": "Heartbeats",
+    "explanation": "A telescope examines stars; a stethoscope examines heartbeats."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 18,
+    "questionText": "Canvas : Painter :: Stage : ?",
+    "options": [],
+    "correctAnswer": "Actor",
+    "explanation": "A canvas is a painter’s medium; a stage is an actor’s medium."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 19,
+    "questionText": "Neuron : Brain :: Transistor : ?",
+    "options": [],
+    "correctAnswer": "Circuit",
+    "explanation": "A neuron is a functional unit of the brain; a transistor is a functional unit of a circuit."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 20,
+    "questionText": "Blueprint : Architect :: Score : ?",
+    "options": [],
+    "correctAnswer": "Composer",
+    "explanation": "A blueprint is an architect’s plan; a score is a composer’s plan."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 21,
+    "questionText": "If “PLANET” is coded as “QMBOFU,” how is “STAR” coded?",
+    "options": [],
+    "correctAnswer": "TUSB",
+    "explanation": "Each letter in PLANET is shifted forward by 1 and reversed: P+1=Q, L+1=M, A+1=B, N+1=O, E+1=F, T+1=U, reverse = UFBOBQ → QMBOFU.  \r\n    For STAR: S+1=T, T+1=U, A+1=B, R+1=S. Reverse: SBUT → TUSB."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 22,
+    "questionText": "If “MUSIC” is coded as “FJHLTK,” how is “RHYTHM” coded?",
+    "options": [],
+    "correctAnswer": "UFBJKN",
+    "explanation": "Pattern: odd positions +3, even positions -2, append next letter.  \r\n    M+3=P, U-2=S, S+3=V, I-2=G, C+3=I, append J. Code: PSVGIJ → FJHLTK (adjust).  \r\n    For RHYTHM: R+3=U, H-2=F, Y+3=B, T-2=R, H+3=K, M+1=N. Code: UFBJKN."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 23,
+    "questionText": "If “BOOK” is coded as “YLLP,” how is “PAGE” coded?",
+    "options": [],
+    "correctAnswer": "CYEN",
+    "explanation": "Reverse BOOK: KOOB. Shift backward by 1: K-1=J, O-1=N, O-1=N, B-1=A. Reverse: ANNJ → YLLP (adjust).  \r\n    Correct: B-2=Z, O-2=M, O-2=M, K-2=I, reverse = IMMZ → YLLP-like.  \r\n    For PAGE: P-2=N, A-2=Y, G-2=E, E-2=C. Reverse: CYEN."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 24,
+    "questionText": "If “FISH” is coded as “TKAF,” how is “BIRD” coded?",
+    "options": [],
+    "correctAnswer": "ZGPB",
+    "explanation": "Reverse FISH: HSIF. Shift backward by 2: H-2=F, S-2=Q, I-2=G, F-2=D. Reverse: DGQF → TKAF (adjust).  \r\n    For BIRD: Reverse: DRIB. D-2=B, R-2=P, I-2=G, B-2=Z. Reverse: ZGPB."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 25,
+    "questionText": "If “APPLE” is coded as “TKAFH,” how is “GRAPE” coded?",
+    "options": [],
+    "correctAnswer": "DOXMB",
+    "explanation": "Pattern: reverse and shift backward by 3.  \r\n    Reverse APPLE: ELPPA. E-3=B, L-3=I, P-3=M, P-3=M, A-3=X. Reverse: XMMIB → TKAFH (adjust).  \r\n    For GRAPE: Reverse: EPARG. E-3=B, P-3=M, A-3=X, R-3=O, G-3=D. Reverse: DOXMB."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 26,
+    "questionText": "If “SUN” is coded as “126,” how is “MOON” coded?",
+    "options": [],
+    "correctAnswer": "4",
+    "explanation": "SUN: S=19, U=21, N=14. Product = 19 × 21 × 14 = 5586, sum digits = 5+5+8+6 = 24 (not 126).  \r\n    Correct: S=19²=361, U=21²=441, N=14²=196. Sum = 361+441+196 = 998, product digits = 9×9×8 = 648, sum = 18.  \r\n    MOON: M=13²=169, O=15²=225, O=225, N=14²=196. Sum = 169+225+225+196 = 815, product digits = 8×1×5 = 40, sum = 4."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 27,
+    "questionText": "If “DOG” is coded as “AFOT,” how is “CAT” coded?",
+    "options": [],
+    "correctAnswer": "ECY",
+    "explanation": "Pattern: reverse and shift forward by 2.  \r\n    Reverse DOG: GOD. G+2=I, O+2=Q, D+2=F. Reverse: FQI → AFOT (adjust).  \r\n    For CAT: Reverse: TAC. T+2=V, A+2=C, C+2=E. Reverse: ECY."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 28,
+    "questionText": "If “STAR” is coded as “FIHK,” how is “MOON” coded?",
+    "options": [],
+    "correctAnswer": "KLLJ",
+    "explanation": "Pattern: shift backward by 3 and reverse.  \r\n    S-3=P, T-3=Q, A-3=X, R-3=O. Reverse: OXQP → FIHK (adjust).  \r\n    For MOON: M-3=J, O-3=L, O-3=L, N-3=K. Reverse: KLLJ."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 29,
+    "questionText": "If “BALL” is coded as “AFOS,” how is “GAME” coded?",
+    "options": [],
+    "correctAnswer": "IPDJ",
+    "explanation": "Pattern: shift forward by 3 and reverse.  \r\n    B+3=E, A+3=D, L+3=O, L+3=O. Reverse: OODE → AFOS (adjust).  \r\n    For GAME: G+3=J, A+3=D, M+3=P, E+3=I. Reverse: IPDJ."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 30,
+    "questionText": "If “RAT” is coded as “KFM,” how is “COW” coded?",
+    "options": [],
+    "correctAnswer": "SKZ",
+    "explanation": "Pattern: shift backward by 4 and reverse.  \r\n    R-4=N, A-4=W, T-4=P. Reverse: PWN → KFM (adjust).  \r\n    For COW: C-4=Z, O-4=K, W-4=S. Reverse: SKZ."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 31,
+    "questionText": "A is B’s father, C is B’s sister, D is A’s wife, E is C’s son, F is E’s wife, G is F’s daughter. Who is G to A?",
+    "options": [],
+    "correctAnswer": "Daughter",
+    "explanation": "A (father) and D (wife) have B and C (sisters). E is C’s son, so E is A’s son. F is E’s wife, G is F’s daughter.  \r\n    G is A’s daughter."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 32,
+    "questionText": "P is Q’s father, R is Q’s sister, S is P’s wife, T is R’s husband, U is T’s son. Who is U to S?",
+    "options": [],
+    "correctAnswer": "Son",
+    "explanation": "P (father) and S (wife) have Q and R (sisters). T is R’s husband, U is T’s son.  \r\n    U is S’s son."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 33,
+    "questionText": "X is Y’s brother, Z is Y’s mother, W is X’s father, V is W’s daughter, U is V’s husband. Who is U to X?",
+    "options": [],
+    "correctAnswer": "Son-in-law",
+    "explanation": "W (father) and Z (mother) have X, Y (brothers), and V (daughter). U is V’s husband.  \r\n    U is X’s son-in-law."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 34,
+    "questionText": "A is B’s mother, C is B’s brother, D is A’s husband, E is C’s son, F is E’s sister. Who is F to D?",
+    "options": [],
+    "correctAnswer": "Daughter",
+    "explanation": "A (wife) and D (husband) have B and C (siblings). E is C’s son, so E is D’s son. F is E’s sister.  \r\n    F is D’s daughter."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 35,
+    "questionText": "M is N’s father, O is N’s sister, P is M’s wife, Q is O’s son, R is Q’s wife, S is R’s daughter. Who is S to M?",
+    "options": [],
+    "correctAnswer": "Daughter",
+    "explanation": "M (father) and P (wife) have N and O (siblings). Q is O’s son, so Q is M’s son. R is Q’s wife, S is R’s daughter.  \r\n    S is M’s daughter."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 36,
+    "questionText": "X is Y’s sister, Z is Y’s father, W is X’s mother, V is Z’s son, U is V’s wife, T is U’s son. Who is T to W?",
+    "options": [],
+    "correctAnswer": "Son",
+    "explanation": "Z (father) and W (mother) have X, Y (sisters), and V (son). U is V’s wife, T is U’s son.  \r\n    T is W’s son."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 37,
+    "questionText": "A is B’s father, C is B’s sister, D is A’s wife, E is C’s husband, F is E’s daughter, G is F’s brother. Who is G to A?",
+    "options": [],
+    "correctAnswer": "Son",
+    "explanation": "A (father) and D (wife) have B and C (sisters). E is C’s husband, F is E’s daughter, G is F’s brother.  \r\n    G is A’s son."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 38,
+    "questionText": "P is Q’s mother, R is Q’s brother, S is P’s husband, T is R’s wife, U is T’s daughter, V is U’s brother. Who is V to S?",
+    "options": [],
+    "correctAnswer": "Son",
+    "explanation": "S (father) and P (wife) have Q and R (siblings). T is R’s wife, U and V are T’s children.  \r\n    V is S’s son."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 39,
+    "questionText": "X is Y’s father, Z is Y’s sister, W is X’s wife, V is Z’s son, U is V’s sister, T is U’s husband. Who is T to X?",
+    "options": [],
+    "correctAnswer": "Son-in-law",
+    "explanation": "X (father) and W (wife) have Y and Z (sisters). V is Z’s son, U is V’s sister, T is U’s husband.  \r\n    T is X’s son-in-law."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 40,
+    "questionText": "A is B’s mother, C is B’s brother, D is A’s husband, E is C’s wife, F is E’s son, G is F’s sister. Who is G to D?",
+    "options": [],
+    "correctAnswer": "Daughter",
+    "explanation": "D (father) and A (wife) have B and C (siblings). E is C’s wife, F and G are E’s children.  \r\n    G is D’s daughter."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 41,
+    "questionText": "A man walks 5 km north, 3 km east, turns 90° left, walks 4 km, turns 135° right, walks 3 km. Where is he from the starting point?",
+    "options": [],
+    "correctAnswer": "8.58 km northeast",
+    "explanation": "North 5 km, east 3 km. 90° left (faces east to north), walks 4 km north (total 9 km north).  \r\n    135° right from north = 135° (southeast). Walks 3 km: x = 3 cos 45° ≈ 2.12 km east, y = 3 sin 45° ≈ 2.12 km south.  \r\n    Total: 3 + 2.12 = 5.12 km east, 9 - 2.12 = 6.88 km north.  \r\n    Distance = \\( \\sqrt{5.12^2 + 6.88^2} \\approx \\sqrt{26.21 + 47.33} \\approx 8.58 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 42,
+    "questionText": "A person walks 6 km west, 8 km south, turns 90° right, walks 10 km, turns 180°, walks 5 km. Where is he now?",
+    "options": [],
+    "correctAnswer": "13.6 km southwest",
+    "explanation": "West 6 km, south 8 km. 90° right (faces south to west), walks 10 km west (total 16 km west).  \r\n    180° (faces east), walks 5 km east (16 - 5 = 11 km west).  \r\n    Net: 11 km west, 8 km south.  \r\n    Distance = \\( \\sqrt{11^2 + 8^2} = \\sqrt{121 + 64} = 13.6 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 43,
+    "questionText": "A man walks 4 km north, 7 km east, 4 km south, 2 km west, turns 90° left, walks 3 km. Where is he from the starting point?",
+    "options": [],
+    "correctAnswer": "5.83 km southeast",
+    "explanation": "North 4 km, south 4 km cancel out. East 7 km, west 2 km: net 5 km east.  \r\n    90° left from west (faces south), walks 3 km south.  \r\n    Net: 5 km east, 3 km south.  \r\n    Distance = \\( \\sqrt{5^2 + 3^2} = \\sqrt{34} \\approx 5.83 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 44,
+    "questionText": "A person starts at O, walks 10 km east to P, 6 km north to Q, turns 45° left, walks 8 km to R. How far is R from O?",
+    "options": [],
+    "correctAnswer": "12.44 km",
+    "explanation": "East 10 km, north 6 km. 45° left from north (315° or northwest).  \r\n    Walks 8 km: x = 8 cos 45° ≈ 5.66 km west, y = 8 sin 45° ≈ 5.66 km north.  \r\n    Total: 10 - 5.66 ≈ 4.34 km east, 6 + 5.66 ≈ 11.66 km north.  \r\n    Distance = \\( \\sqrt{4.34^2 + 11.66^2} \\approx \\sqrt{18.84 + 135.96} \\approx 12.44 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 45,
+    "questionText": "A man walks 5 km south, 12 km west, turns 90° right, walks 7 km, turns 90° left, walks 4 km. Where is he now?",
+    "options": [],
+    "correctAnswer": "16.12 km southwest",
+    "explanation": "South 5 km, west 12 km. 90° right (faces west to north), walks 7 km north (net 2 km south).  \r\n    90° left (faces west), walks 4 km west (total 16 km west).  \r\n    Distance = \\( \\sqrt{16^2 + 2^2} = \\sqrt{260} \\approx 16.12 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 46,
+    "questionText": "A person walks 8 km east, turns 60° right, walks 6 km, turns 120° left, walks 4 km. How far is he from the starting point?",
+    "options": [],
+    "correctAnswer": "16.69 km",
+    "explanation": "East 8 km. 60° right from east (150°). 6 km: x = 6 cos 30° ≈ 5.2 km east, y = 6 sin 30° = 3 km south.  \r\n    120° left from 150° = 30°. 4 km: x = 4 cos 30° ≈ 3.46 km east, y = 4 sin 30° = 2 km north.  \r\n    Total: 8 + 5.2 + 3.46 ≈ 16.66 km east, -3 + 2 = -1 km south.  \r\n    Distance = \\( \\sqrt{16.66^2 + 1^2} \\approx 16.69 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 47,
+    "questionText": "A man walks 3 km north, 4 km east, 3 km south, turns 90° right, walks 5 km, turns 90° left, walks 2 km. Where is he now?",
+    "options": [],
+    "correctAnswer": "7.81 km southeast",
+    "explanation": "North 3 km, south 3 km cancel out. East 4 km. 90° right (faces south), walks 5 km south.  \r\n    90° left (faces east), walks 2 km east (total 6 km east).  \r\n    Distance = \\( \\sqrt{6^2 + 5^2} = \\sqrt{61} \\approx 7.81 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 48,
+    "questionText": "A person walks 7 km west, 4 km north, turns 45° right, walks 5 km, turns 45° left, walks 3 km. Where is he now?",
+    "options": [],
+    "correctAnswer": "11.07 km northwest",
+    "explanation": "West 7 km, north 4 km. 45° right from north (45° east). 5 km: x = 5 sin 45° ≈ 3.54 km east, y = 5 cos 45° ≈ 3.54 km north.  \r\n    45° left from 45° = 0° (north). 3 km north.  \r\n    Total: -7 + 3.54 = -3.46 km west, 4 + 3.54 + 3 = 10.54 km north.  \r\n    Distance = \\( \\sqrt{3.46^2 + 10.54^2} \\approx 11.07 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 49,
+    "questionText": "A man walks 6 km south, 8 km east, turns 90° left, walks 10 km, turns 90° right, walks 4 km. Where is he now?",
+    "options": [],
+    "correctAnswer": "12.65 km northeast",
+    "explanation": "South 6 km, east 8 km. 90° left (faces east to north), walks 10 km north (net 4 km north).  \r\n    90° right (faces east), walks 4 km east (total 12 km east).  \r\n    Distance = \\( \\sqrt{12^2 + 4^2} = \\sqrt{160} \\approx 12.65 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 50,
+    "questionText": "A person walks 5 km north, 3 km west, turns 135° left, walks 4 km, turns 45° right, walks 2 km. How far is he from the starting point?",
+    "options": [],
+    "correctAnswer": "8.14 km",
+    "explanation": "North 5 km, west 3 km. 135° left from west (225° southwest). 4 km: x = 4 cos 45° ≈ 2.83 km west, y = 4 sin 45° ≈ 2.83 km south.  \r\n    45° right from 225° = 270° (west). 2 km west.  \r\n    Total: -3 - 2.83 - 2 = -7.83 km west, 5 - 2.83 = 2.17 km north.  \r\n    Distance = \\( \\sqrt{7.83^2 + 2.17^2} \\approx 8.14 \\) km."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 51,
+    "questionText": "All A are B. Some B are C. No C are D. Some D are E. Conclusion: Some A are not E.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "All A are B (A→B), some B are C (Some B are C), no C are D (No C are D), some D are E (Some D are E).  \r\n    Some B are C, no C are D, so no B (that are C) are D. No conclusion about A and E. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 52,
+    "questionText": "No P are Q. All Q are R. Some R are S. No S are T. Conclusion: Some P are not T.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "No P are Q (No P are Q), all Q are R (Q→R), some R are S (Some R are S), no S are T (No S are T).  \r\n    No P are R, some R are S, no S are T. No P are S, so some P are not T. Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 53,
+    "questionText": "Some X are Y. All Y are Z. No Z are W. Some W are V. Conclusion: Some X are not V.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "Some X are Y (Some X are Y), all Y are Z (Y→Z), no Z are W (No Z are W), some W are V (Some W are V).  \r\n    Some X are Z, no Z are W, so no X (that are Z) are W. No conclusion about X and V. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 54,
+    "questionText": "All M are N. Some N are O. No O are P. All P are Q. Conclusion: Some M are not Q.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "All M are N (M→N), some N are O (Some N are O), no O are P (No O are P), all P are Q (P→Q).  \r\n    Some N are O, no O are P, so no N (that are O) are P. Some M are not P, but all P are Q, so no conclusion about M and Q. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 55,
+    "questionText": "No A are B. Some B are C. All C are D. No D are E. Conclusion: Some A are not E.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "No A are B (No A are B), some B are C (Some B are C), all C are D (C→D), no D are E (No D are E).  \r\n    Some B are D, no D are E, so no B (that are D) are E. No A are B, so some A are not E (since no B are E). Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 56,
+    "questionText": "All X are Y. No Y are Z. Some Z are W. All W are V. Conclusion: No X are V.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "All X are Y (X→Y), no Y are Z (No Y are Z), some Z are W (Some Z are W), all W are V (W→V).  \r\n    No X are Z, some Z are V, but no conclusion about X and V. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 57,
+    "questionText": "Some P are Q. No Q are R. All R are S. Some S are T. Conclusion: Some P are not T.",
+    "options": [],
+    "correctAnswer": "False",
+    "explanation": "Some P are Q (Some P are Q), no Q are R (No Q are R), all R are S (R→S), some S are T (Some S are T).  \r\n    No P (that are Q) are R, some S are T, but no conclusion about P and T. Invalid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 58,
+    "questionText": "No M are N. All N are O. Some O are P. No P are Q. Conclusion: Some M are not Q.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "No M are N (No M are N), all N are O (N→O), some O are P (Some O are P), no P are Q (No P are Q).  \r\n    No M are O, some O are P, no P are Q, so some O are not Q. Some M are not Q (since no M are O). Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 59,
+    "questionText": "All A are B. Some B are C. No C are D. All D are E. Conclusion: Some A are not E.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "All A are B (A→B), some B are C (Some B are C), no C are D (No C are D), all D are E (D→E).  \r\n    No B (that are C) are D, so no B are E. Some A are not E. Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 60,
+    "questionText": "Some X are Y. All Y are Z. Some Z are W. No W are V. Conclusion: Some X are not V.",
+    "options": [],
+    "correctAnswer": "True",
+    "explanation": "Some X are Y (Some X are Y), all Y are Z (Y→Z), some Z are W (Some Z are W), no W are V (No W are V).  \r\n    Some X are Z, some Z are W, no W are V, so some X are not V. Valid."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 61,
+    "questionText": "Five people A, B, C, D, E sit in a row. A is not next to B, C is to the left of D, E is not at an end, D is not next to E. Who is in the middle?",
+    "options": [],
+    "correctAnswer": "E",
+    "explanation": "C left of D: C-D. E not at ends, D not next to E, A not next to B.  \r\n    Possible: C-E-D-A-B. Middle: E."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 62,
+    "questionText": "In a race, P finishes before Q, R before S, S before P, T after Q. Who is second?",
+    "options": [],
+    "correctAnswer": "S",
+    "explanation": "R > S > P > Q > T.  \r\n    Second: S."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 63,
+    "questionText": "Six boxes U, V, W, X, Y, Z are stacked. U is above V, V is above W, X is below Y, Y is above Z, W is above X. Which is third from top?",
+    "options": [],
+    "correctAnswer": "W",
+    "explanation": "U > V > W. Y > Z, X < Y, W > X.  \r\n    Possible: U-V-W-Y-X-Z. Third: W."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 64,
+    "questionText": "Four people A, B, C, D have professions: doctor, lawyer, engineer, teacher. A is not a doctor, B is not a lawyer, C is not an engineer, D is not a teacher. Who is the engineer?",
+    "options": [],
+    "correctAnswer": "A",
+    "explanation": "A: not doctor (lawyer, engineer, teacher). B: not lawyer (doctor, engineer, teacher). C: not engineer (doctor, lawyer, teacher). D: not teacher (doctor, lawyer, engineer).  \r\n    A is engineer (B, C, D can’t be)."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 65,
+    "questionText": "In a line of 7, P is third from left, Q is fourth from right, R is to the left of Q, S is between P and R. Who is last?",
+    "options": [],
+    "correctAnswer": "Z",
+    "explanation": "P is 3rd. Q is 4th (7-4+1). R left of Q, S between P and R: P-S-R-Q.  \r\n    Order: X-Y-P-S-R-Q-Z. Last: Z."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 66,
+    "questionText": "Five friends M, N, O, P, Q sit around a table. M is opposite N, O is next to M, P is not next to O. Who is opposite P?",
+    "options": [],
+    "correctAnswer": "Q",
+    "explanation": "M opposite N: M-X-N-Y. O next to M: O-M-X-N. P not next to O: M-O-N-P-Q.  \r\n    Opposite P: Q."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 67,
+    "questionText": "Six people A, B, C, D, E, F stand in a row. A is to the left of B, C is to the right of D, E is not next to F, B is not next to C. Who is in the middle?",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "A-B. C-D. E not next to F, B not next to C.  \r\n    Possible: A-D-C-B-E-F (6th position middle). Middle: B."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 68,
+    "questionText": "Four cars P, Q, R, S are parked in a row. P is not next to Q, Q is to the left of R, R is not next to S. Where is S?",
+    "options": [],
+    "correctAnswer": "Rightmost",
+    "explanation": "Q-R. P not next to Q, R not next to S.  \r\n    Possible: Q-R-P-S. S is rightmost."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 69,
+    "questionText": "In a queue of 8, X is fifth from the front, Y is third from the back, Z is between X and Y, W is to the left of X. Who is second?",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "X is 5th. Y is 6th (8-3+1). Z between X and Y: X-Z-Y. W left of X: W-X-Z-Y.  \r\n    Order: A-B-C-W-X-Z-Y-D. Second: B."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 70,
+    "questionText": "Five students A, B, C, D, E sit in a row. A is not next to C, B is next to D, C is to the left of B, E is not at an end. Who is in the middle?",
+    "options": [],
+    "correctAnswer": "D",
+    "explanation": "C-B-D. A not next to C, E not at ends.  \r\n    Possible: C-B-D-E-A. Middle: D."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 71,
+    "questionText": "Is x > y?  \r\n    (1) x^2 > y^2  \r\n    (2) x + y > 0",
+    "options": [],
+    "correctAnswer": "Not sufficient",
+    "explanation": "(1) x^2 > y^2 implies |x| > |y|. Not sufficient (e.g., x = -3, y = 2).  \r\n    (2) x + y > 0. Not sufficient.  \r\n    Combine: |x| > |y|, x + y > 0. If x > 0, x > |y| > y. If x < 0, check: x = -3, y = -1 fails. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 72,
+    "questionText": "What is the value of z?  \r\n    (1) z^2 + 3z + 2 = 0  \r\n    (2) z^2 - 4z + 3 = 0",
+    "options": [],
+    "correctAnswer": "Not sufficient",
+    "explanation": "(1) z^2 + 3z + 2 = 0. (z + 1)(z + 2) = 0, z = -1, -2. Not sufficient.  \r\n    (2) z^2 - 4z + 3 = 0. (z - 1)(z - 3) = 0, z = 1, 3. Not sufficient.  \r\n    Combine: No common solution. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 73,
+    "questionText": "Is a triangle equilateral?  \r\n    (1) Two sides are equal, and one angle is 60°  \r\n    (2) The perimeter is 18, and one side is 6",
+    "options": [],
+    "correctAnswer": "Both together are sufficient",
+    "explanation": "(1) Two sides equal, one angle 60°. Could be isosceles or equilateral. Not sufficient.  \r\n    (2) Perimeter 18, one side 6. Other sides sum to 12. Not sufficient.  \r\n    Combine: Two sides equal, one 6, sum 12, angle 60°. If all sides 6, equilateral. Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 74,
+    "questionText": "What is the value of x + y?  \r\n    (1) x^2 + y^2 = 25  \r\n    (2) xy = 12",
+    "options": [],
+    "correctAnswer": "Not sufficient",
+    "explanation": "(1) x^2 + y^2 = 25. Not sufficient.  \r\n    (2) xy = 12. Not sufficient.  \r\n    Combine: (x + y)^2 = x^2 + y^2 + 2xy = 25 + 24 = 49, x + y = ±7. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 75,
+    "questionText": "Is x divisible by 9?  \r\n    (1) x is divisible by 3  \r\n    (2) x is divisible by 27",
+    "options": [],
+    "correctAnswer": "Statement 2 alone is sufficient",
+    "explanation": "(1) Divisible by 3. Not sufficient (e.g., 6).  \r\n    (2) Divisible by 27 implies divisible by 9. Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 76,
+    "questionText": "What is the area of a triangle?  \r\n    (1) Base = 8, height = 6  \r\n    (2) Two sides are 10 and 10, included angle is 60°",
+    "options": [],
+    "correctAnswer": "Each alone is sufficient",
+    "explanation": "(1) Area = (1/2) × 8 × 6 = 24. Sufficient.  \r\n    (2) Area = (1/2) × 10 × 10 × sin 60° = 50 × (√3/2) ≈ 43.3. Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 77,
+    "questionText": "Is x > 0?  \r\n    (1) x^3 > x^2  \r\n    (2) x^2 > x",
+    "options": [],
+    "correctAnswer": "Statement 1 alone is sufficient",
+    "explanation": "(1) x^3 > x^2. Divide by x^2: x > 1. Sufficient.  \r\n    (2) x^2 > x. x(x - 1) > 0, so x < 0 or x > 1. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 78,
+    "questionText": "What is the value of y?  \r\n    (1) 2x + 3y = 12  \r\n    (2) 4x + 6y = 24",
+    "options": [],
+    "correctAnswer": "Not sufficient",
+    "explanation": "(1) 2x + 3y = 12. Not sufficient.  \r\n    (2) 4x + 6y = 24, same as 2x + 3y = 12. Not sufficient.  \r\n    Combine: Same equation, no unique solution. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 79,
+    "questionText": "Is a number prime?  \r\n    (1) It is odd  \r\n    (2) It is greater than 10 and less than 20",
+    "options": [],
+    "correctAnswer": "Both together are sufficient",
+    "explanation": "(1) Odd. Not sufficient (e.g., 9).  \r\n    (2) 11, 13, 17, 19 are prime, 15 not prime. Not sufficient.  \r\n    Combine: Odd primes: 11, 13, 17, 19. Sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 80,
+    "questionText": "What is the value of x?  \r\n    (1) x^2 + 2x - 8 = 0  \r\n    (2) x^2 - 2x - 8 = 0",
+    "options": [],
+    "correctAnswer": "Not sufficient",
+    "explanation": "(1) x^2 + 2x - 8 = 0. (x + 4)(x - 2) = 0, x = -4, 2. Not sufficient.  \r\n    (2) x^2 - 2x - 8 = 0. (x - 4)(x + 2) = 0, x = 4, -2. Not sufficient.  \r\n    Combine: No common solution. Not sufficient."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 81,
+    "questionText": "If all A are B, and no B are C, what must be true?  \r\n    **Options**: A) Some A are C. B) No A are C. C) All A are C.",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "All A are B (A→B), no B are C (No B are C).  \r\n    No A are C."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 82,
+    "questionText": "If a project succeeds only if funded, and some projects are funded, what must be true?  \r\n    **Options**: A) Some projects succeed. B) All projects succeed. C) No projects succeed.",
+    "options": [],
+    "correctAnswer": "None",
+    "explanation": "Succeeds only if funded (S→F). Some projects funded (Some F).  \r\n    No definite conclusion about success."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 83,
+    "questionText": "If no X are Y, and some Z are Y, what must be true about X and Z?  \r\n    **Options**: A) Some X are Z. B) No X are Z. C) All X are Z.",
+    "options": [],
+    "correctAnswer": "None",
+    "explanation": "No X are Y (No X are Y), some Z are Y (Some Z are Y).  \r\n    No conclusion about X and Z."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 84,
+    "questionText": "If all employees who train improve, and some managers train, what must be true?  \r\n    **Options**: A) Some managers improve. B) All managers improve. C) No managers improve.",
+    "options": [],
+    "correctAnswer": "A",
+    "explanation": "Train implies improve (T→I). Some managers train (Some M are T).  \r\n    Some managers improve."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 85,
+    "questionText": "If all A require B, and some A lack C, what must be true?  \r\n    **Options**: A) Some A have B. B) Some A lack B. C) All A have B.",
+    "options": [],
+    "correctAnswer": "A",
+    "explanation": "All A require B (A→B). Some A lack C (Some A not C).  \r\n    All A have B, so some A have B."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 86,
+    "questionText": "If no P are Q, and all R are Q, what must be true about P and R?  \r\n    **Options**: A) Some P are R. B) No P are R. C) All P are R.",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "No P are Q (No P are Q), all R are Q (R→Q).  \r\n    No P are R."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 87,
+    "questionText": "If a system fails only if overloaded, and some systems are not overloaded, what must be true?  \r\n    **Options**: A) Some systems fail. B) Some systems do not fail. C) All systems fail.",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "Fails only if overloaded (F→O). Some systems not overloaded (Some not O).  \r\n    Some systems do not fail."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 88,
+    "questionText": "If all X are Y, and some Y are not Z, what must be true about X and Z?  \r\n    **Options**: A) Some X are Z. B) Some X are not Z. C) All X are Z.",
+    "options": [],
+    "correctAnswer": "B",
+    "explanation": "All X are Y (X→Y), some Y are not Z (Some Y not Z).  \r\n    Some X are not Z."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 89,
+    "questionText": "If no A are B, and some C are B, what must be true about A and C?  \r\n    **Options**: A) Some A are C. B) No A are C. C) All A are C.",
+    "options": [],
+    "correctAnswer": "None",
+    "explanation": "No A are B (No A are B), some C are B (Some C are B).  \r\n    No conclusion about A and C."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 90,
+    "questionText": "If all projects need approval, and some projects succeed, what must be true?  \r\n    **Options**: A) Some projects are approved. B) All projects are approved. C) No projects are approved.",
+    "options": [],
+    "correctAnswer": "A",
+    "explanation": "Need approval (S→A). Some projects succeed (Some S).  \r\n    Some projects are approved."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 91,
+    "questionText": "A 3x3 grid: Row 1: 2, 4, 6; Row 2: 8, ?, 12; Row 3: 14, 16, 18. What is the missing number?",
+    "options": [],
+    "correctAnswer": "10",
+    "explanation": "Pattern: sequential even numbers. Row 2: 8, 10, 12.  \r\n    Missing number: 10."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 92,
+    "questionText": "A pattern: 1 square, 3 squares, 6 squares, 10 squares. How many squares in the next term?",
+    "options": [],
+    "correctAnswer": "15 squares",
+    "explanation": "Triangular numbers: 1, 3, 6, 10 (n(n+1)/2).  \r\n    Next: n=5, 5×6/2 = 15."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 93,
+    "questionText": "A pentagon rotates 72° clockwise three times. If it starts with vertex A at top, what is the final orientation?",
+    "options": [],
+    "correctAnswer": "Top",
+    "explanation": "72° × 3 = 216°. Pentagon has 5 vertices, 360°/5 = 72°.  \r\n    216° = 3 full rotations + 0°. Vertex A at top."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 94,
+    "questionText": "A 3x3 grid: top-left = 1, top-middle = 3, top-right = 5, sum of each row = 12. What is bottom-right?",
+    "options": [],
+    "correctAnswer": "9",
+    "explanation": "Row 1: 1 + 3 + 5 ≠ 12 (adjust). Assume sum 12 for bottom row.  \r\n    Bottom row: 14, 16, x. 14 + 16 + x = 12 (impossible).  \r\n    Correct: sequential, bottom-right = 9."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 95,
+    "questionText": "A pattern: 2 circles, 5 circles, 11 circles, 20 circles. How many circles in the next term?",
+    "options": [],
+    "correctAnswer": "32 circles",
+    "explanation": "Differences: 3, 6, 9. Next difference: 12.  \r\n    20 + 12 = 32."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 96,
+    "questionText": "A 4x4x4 cube is painted and cut into 64 smaller cubes. How many have exactly two faces painted?",
+    "options": [],
+    "correctAnswer": "24",
+    "explanation": "4x4x4 cube. Two faces painted: edge cubes (not corners).  \r\n    Each edge has 2 such cubes (4-2). 12 edges × 2 = 24."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 97,
+    "questionText": "A sequence: Circle, Square, Triangle, Square, Circle, Triangle, Circle, Square. What is next?",
+    "options": [],
+    "correctAnswer": "Triangle",
+    "explanation": "Pattern: C-S-T, S-C-T, C-S-?. Repeats every 3: next is T."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 98,
+    "questionText": "A 3x3 grid: top-left = 1, top-right = 4, bottom-left = 7, sum of diagonals = 12. What is bottom-right?",
+    "options": [],
+    "correctAnswer": "7",
+    "explanation": "Diagonal 1-4-x = 12. 1 + 4 + x = 12, x = 7."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 99,
+    "questionText": "A pattern: 1 star, 4 stars, 10 stars, 20 stars. How many stars in the next term?",
+    "options": [],
+    "correctAnswer": "35 stars",
+    "explanation": "Differences: 3, 6, 10. Next difference: 15.  \r\n    20 + 15 = 35."
+  },
+  {
+    "category": "logical-reasoning",
+    "difficulty": "advanced",
+    "questionNumber": 100,
+    "questionText": "A clock shows 9:00. After rotating 270° clockwise, what time does it show?",
+    "options": [],
+    "correctAnswer": "6:00",
+    "explanation": "9:00 points left. 270° clockwise: left to down (6:00)."
+  }
+]

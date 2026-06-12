@@ -1,0 +1,1607 @@
+# 100 Verbal Ability Practice Questions (Basic Level) with Solutions
+
+This file contains **100 basic-level practice questions** for Verbal Ability, designed to strengthen your foundational skills for fresher job aptitude tests, especially for AI/ML roles. Each question includes a detailed solution to enhance your understanding. Topics include synonyms, antonyms, sentence completion, spotting errors, sentence correction, reading comprehension, jumbled sentences, cloze tests, idioms/phrases, and analogy-based verbal reasoning.
+
+## Synonyms
+1. **Question**: Choose the synonym for "Abundant": A) Scarce B) Plentiful C) Limited D) Rare  
+   **Solution**:  
+   Abundant means existing in large quantities. Plentiful is the closest synonym.  
+   **Answer**: B) Plentiful
+
+2. **Question**: Find the synonym for "Candid": A) Deceptive B) Honest C) Reserved D) Shy  
+   **Solution**:  
+   Candid means truthful and straightforward. Honest is the closest synonym.  
+   **Answer**: B) Honest
+
+3. **Question**: Synonym for "Eloquent": A) Silent B) Articulate C) Hesitant D) Vague  
+   **Solution**:  
+   Eloquent means fluent or persuasive in speech. Articulate is the closest synonym.  
+   **Answer**: B) Articulate
+
+4. **Question**: Choose the synonym for "Fragile": A) Sturdy B) Delicate C) Strong D) Robust  
+   **Solution**:  
+   Fragile means easily broken. Delicate is the closest synonym.  
+   **Answer**: B) Delicate
+
+5. **Question**: Synonym for "Zealous": A) Indifferent B) Enthusiastic C) Lazy D) Apathetic  
+   **Solution**:  
+   Zealous means passionate or fervent. Enthusiastic is the closest synonym.  
+   **Answer**: B) Enthusiastic
+
+6. **Question**: Find the synonym for "Obscure": A) Clear B) Hidden C) Obvious D) Transparent  
+   **Solution**:  
+   Obscure means unclear or concealed. Hidden is the closest synonym.  
+   **Answer**: B) Hidden
+
+7. **Question**: Synonym for "Meticulous": A) Careless B) Precise C) Hasty D) Negligent  
+   **Solution**:  
+   Meticulous means showing great attention to detail. Precise is the closest synonym.  
+   **Answer**: B) Precise
+
+8. **Question**: Choose the synonym for "Vivid": A) Dull B) Bright C) Faint D) Pale  
+   **Solution**:  
+   Vivid means clear and striking. Bright is the closest synonym.  
+   **Answer**: B) Bright
+
+9. **Question**: Synonym for "Prudent": A) Reckless B) Cautious C) Impulsive D) Rash  
+   **Solution**:  
+   Prudent means careful and sensible. Cautious is the closest synonym.  
+   **Answer**: B) Cautious
+
+10. **Question**: Find the synonym for "Amicable": A) Hostile B) Friendly C) Cold D) Distant  
+    **Solution**:  
+    Amicable means characterized by friendliness. Friendly is the closest synonym.  
+    **Answer**: B) Friendly
+
+## Antonyms
+11. **Question**: Choose the antonym for "Big": A) Large B) Small C) Huge D) Vast  
+    **Solution**:  
+    Big means large in size. Small is the opposite.  
+    **Answer**: B) Small
+
+12. **Question**: Find the antonym for "Bright": A) Radiant B) Dim C) Shiny D) Glowing  
+    **Solution**:  
+    Bright means full of light. Dim means lacking light.  
+    **Answer**: B) Dim
+
+13. **Question**: Antonym for "Fast": A) Quick B) Slow C) Rapid D) Swift  
+    **Solution**:  
+    Fast means moving quickly. Slow is the opposite.  
+    **Answer**: B) Slow
+
+14. **Question**: Choose the antonym for "Happy": A) Joyful B) Sad C) Cheerful D) Delighted  
+    **Solution**:  
+    Happy means feeling pleasure. Sad is the opposite.  
+    **Answer**: B) Sad
+
+15. **Question**: Antonym for "Strong": A) Powerful B) Weak C) Sturdy D) Robust  
+    **Solution**:  
+    Strong means having power. Weak is the opposite.  
+    **Answer**: B) Weak
+
+16. **Question**: Find the antonym for "Open": A) Unlocked B) Closed C) Accessible D) Free  
+    **Solution**:  
+    Open means not shut. Closed is the opposite.  
+    **Answer**: B) Closed
+
+17. **Question**: Antonym for "Old": A) Ancient B) New C) Aged D) Vintage  
+    **Solution**:  
+    Old means having existed for a long time. New is the opposite.  
+    **Answer**: B) New
+
+18. **Question**: Choose the antonym for "Rich": A) Wealthy B) Poor C) Affluent D) Prosperous  
+    **Solution**:  
+    Rich means having wealth. Poor is the opposite.  
+    **Answer**: B) Poor
+
+19. **Question**: Antonym for "Tall": A) High B) Short C) Long D) Elevated  
+    **Solution**:  
+    Tall means having great height. Short is the opposite.  
+    **Answer**: B) Short
+
+20. **Question**: Find the antonym for "Easy": A) Simple B) Difficult C) Effortless D) Smooth  
+    **Solution**:  
+    Easy means not hard. Difficult is the opposite.  
+    **Answer**: B) Difficult
+
+## Sentence Completion
+21. **Question**: She was ______ to attend the meeting due to her busy schedule.  
+    A) Able B) Unable C) Willing D) Eager  
+    **Solution**:  
+    The context suggests she couldn’t attend due to busyness. Unable fits best.  
+    **Answer**: B) Unable
+
+22. **Question**: His ______ attitude made everyone feel welcome.  
+    A) Cold B) Friendly C) Rude D) Distant  
+    **Solution**:  
+    Feeling welcome implies a positive attitude. Friendly is appropriate.  
+    **Answer**: B) Friendly
+
+23. **Question**: The team worked ______ to complete the project on time.  
+    A) Lazily B) Diligently C) Carelessly D) Slowly  
+    **Solution**:  
+    Completing on time suggests hard work. Diligently fits best.  
+    **Answer**: B) Diligently
+
+24. **Question**: The movie was so ______ that I fell asleep.  
+    A) Exciting B) Boring C) Thrilling D) Engaging  
+    **Solution**:  
+    Falling asleep implies lack of interest. Boring is appropriate.  
+    **Answer**: B) Boring
+
+25. **Question**: He spoke with such ______ that everyone listened attentively.  
+    A) Confusion B) Clarity C) Hesitation D) Doubt  
+    **Solution**:  
+    Attentive listening suggests clear speech. Clarity fits best.  
+    **Answer**: B) Clarity
+
+26. **Question**: The instructions were ______ and easy to follow.  
+    A) Vague B) Clear C) Complex D) Confusing  
+    **Solution**:  
+    Easy to follow implies simplicity. Clear is appropriate.  
+    **Answer**: B) Clear
+
+27. **Question**: She felt ______ after receiving the award.  
+    A) Sad B) Elated C) Angry D) Tired  
+    **Solution**:  
+    Receiving an award suggests happiness. Elated fits best.  
+    **Answer**: B) Elated
+
+28. **Question**: The room was ______ after the children left.  
+    A) Tidy B) Messy C) Clean D) Organized  
+    **Solution**:  
+    Children leaving often implies disorder. Messy is appropriate.  
+    **Answer**: B) Messy
+
+29. **Question**: His ______ behavior annoyed everyone.  
+    A) Polite B) Rude C) Kind D) Gentle  
+    **Solution**:  
+    Annoying suggests negative behavior. Rude fits best.  
+    **Answer**: B) Rude
+
+30. **Question**: The weather was ______ for a picnic.  
+    A) Terrible B) Perfect C) Cold D) Rainy  
+    **Solution**:  
+    A picnic implies good weather. Perfect is appropriate.  
+    **Answer**: B) Perfect
+
+## Spotting Errors
+31. **Question**: Identify the error: She *go* to school every day.  
+    **Solution**:  
+    Subject "She" (third person singular) requires "goes." Error: *go*.  
+    **Answer**: go → goes
+
+32. **Question**: Find the error: The boys *is* playing football.  
+    **Solution**:  
+    Plural subject "boys" requires "are." Error: *is*.  
+    **Answer**: is → are
+
+33. **Question**: Spot the error: He *don’t* like to read books.  
+    **Solution**:  
+    Third person singular "He" requires "doesn’t." Error: *don’t*.  
+    **Answer**: don’t → doesn’t
+
+34. **Question**: Identify the error: I saw *a elephant* in the zoo.  
+    **Solution**:  
+    "Elephant" starts with a vowel sound, so use "an." Error: *a*.  
+    **Answer**: a → an
+
+35. **Question**: Find the error: She is *more taller* than her brother.  
+    **Solution**:  
+    Comparative "taller" doesn’t need "more." Error: *more*.  
+    **Answer**: more → remove more
+
+36. **Question**: Spot the error: They *was* waiting for the bus.  
+    **Solution**:  
+    Plural subject "They" requires "were." Error: *was*.  
+    **Answer**: was → were
+
+37. **Question**: Identify the error: The book *is* on the tables.  
+    **Solution**:  
+    Singular "book" implies one table. Error: *tables*.  
+    **Answer**: tables → table
+
+38. **Question**: Find the error: He *run* very fast yesterday.  
+    **Solution**:  
+    Past tense requires "ran." Error: *run*.  
+    **Answer**: run → ran
+
+39. **Question**: Spot the error: This is *mines* book.  
+    **Solution**:  
+    Possessive pronoun is "mine," not "mines." Error: *mines*.  
+    **Answer**: mines → mine
+
+40. **Question**: Identify the error: We *goes* to the park on Sundays.  
+    **Solution**:  
+    Plural subject "We" requires "go." Error: *goes*.  
+    **Answer**: goes → go
+
+## Sentence Correction
+41. **Question**: Correct the sentence: She sing beautiful.  
+    **Solution**:  
+    Third person singular "She" requires "sings." Add adverb form "beautifully."  
+    **Corrected**: She sings beautifully.
+
+42. **Question**: Correct: The childrens are playing.  
+    **Solution**:  
+    "Children" is plural of child. Subject "children" requires "are."  
+    **Corrected**: The children are playing.
+
+43. **Question**: Correct: He don’t have no money.  
+    **Solution**:  
+    "He" requires "doesn’t." Double negative "don’t…no" becomes "any."  
+    **Corrected**: He doesn’t have any money.
+
+44. **Question**: Correct: I seen a movie yesterday.  
+    **Solution**:  
+    Past perfect of "see" is "saw" for simple past.  
+    **Corrected**: I saw a movie yesterday.
+
+45. **Question**: Correct: This books are heavy.  
+    **Solution**:  
+    Singular "This" requires singular "book." Adjust verb to "is."  
+    **Corrected**: This book is heavy.
+
+46. **Question**: Correct: She is more smarter than him.  
+    **Solution**:  
+    Comparative "smarter" doesn’t need "more." Use "he" for subject comparison.  
+    **Corrected**: She is smarter than he.
+
+47. **Question**: Correct: They was at the party.  
+    **Solution**:  
+    Plural "They" requires "were."  
+    **Corrected**: They were at the party.
+
+48. **Question**: Correct: Me and him went to store.  
+    **Solution**:  
+    Use subject pronouns "I" and "he." Add article "the."  
+    **Corrected**: He and I went to the store.
+
+49. **Question**: Correct: The dog run fastly.  
+    **Solution**:  
+    Third person singular "dog" requires "runs." "Fast" is an adverb, not "fastly."  
+    **Corrected**: The dog runs fast.
+
+50. **Question**: Correct: I has two cats.  
+    **Solution**:  
+    First person singular "I" requires "have."  
+    **Corrected**: I have two cats.
+
+## Reading Comprehension
+**Passage (Questions 51–55)**:  
+The sun is a star at the center of our solar system. It provides energy for Earth, enabling life to exist. Plants use sunlight for photosynthesis, producing oxygen. The sun’s gravity keeps planets in orbit. It is about 4.6 billion years old and expected to last another 5 billion years.
+
+51. **Question**: What is the sun’s role in the solar system?  
+    **Solution**:  
+    The passage states the sun is at the center and keeps planets in orbit via gravity.  
+    **Answer**: It is the central star and maintains planetary orbits.
+
+52. **Question**: How do plants use sunlight?  
+    **Solution**:  
+    Plants use sunlight for photosynthesis, producing oxygen.  
+    **Answer**: For photosynthesis to produce oxygen.
+
+53. **Question**: What enables life on Earth according to the passage?  
+    **Solution**:  
+    The sun provides energy, enabling life.  
+    **Answer**: The sun’s energy.
+
+54. **Question**: How old is the sun?  
+    **Solution**:  
+    The passage states it is about 4.6 billion years old.  
+    **Answer**: 4.6 billion years.
+
+55. **Question**: How long is the sun expected to last?  
+    **Solution**:  
+    It will last another 5 billion years.  
+    **Answer**: 5 billion years.
+
+**Passage (Questions 56–60)**:  
+Books are a source of knowledge and entertainment. They allow readers to explore new worlds and ideas. Reading improves vocabulary and critical thinking. Libraries provide access to books for free, encouraging learning. Digital books are also popular now.
+
+56. **Question**: What are books a source of?  
+    **Solution**:  
+    Books are a source of knowledge and entertainment.  
+    **Answer**: Knowledge and entertainment.
+
+57. **Question**: What do books allow readers to do?  
+    **Solution**:  
+    Explore new worlds and ideas.  
+    **Answer**: Explore new worlds and ideas.
+
+58. **Question**: How does reading benefit readers?  
+    **Solution**:  
+    Improves vocabulary and critical thinking.  
+    **Answer**: Improves vocabulary and critical thinking.
+
+59. **Question**: What do libraries provide?  
+    **Solution**:  
+    Free access to books.  
+    **Answer**: Free access to books.
+
+60. **Question**: What is mentioned about digital books?  
+    **Solution**:  
+    They are popular now.  
+    **Answer**: They are popular.
+
+## Jumbled Sentences
+61. **Question**: Arrange: (A) to school (B) every day (C) she (D) walks  
+    **Solution**:  
+    Subject-verb-object: She walks to school every day.  
+    **Answer**: C-D-A-B
+
+62. **Question**: Arrange: (A) the cat (B) on the mat (C) sleeps (D) quietly  
+    **Solution**:  
+    Subject-verb-place-adverb: The cat sleeps on the mat quietly.  
+    **Answer**: A-C-B-D
+
+63. **Question**: Arrange: (A) a book (B) he (C) reads (D) daily  
+    **Solution**:  
+    Subject-verb-object-adverb: He reads a book daily.  
+    **Answer**: B-C-A-D
+
+64. **Question**: Arrange: (A) in the park (B) they (C) play (D) football  
+    **Solution**:  
+    Subject-verb-object-place: They play football in the park.  
+    **Answer**: B-C-D-A
+
+65. **Question**: Arrange: (A) is (B) the sky (C) blue (D) today  
+    **Solution**:  
+    Subject-verb-complement-adverb: The sky is blue today.  
+    **Answer**: B-A-C-D
+
+66. **Question**: Arrange: (A) every morning (B) she (C) jogs (D) in the park  
+    **Solution**:  
+    Subject-verb-place-time: She jogs in the park every morning.  
+    **Answer**: B-C-D-A
+
+67. **Question**: Arrange: (A) the dog (B) barks (C) at strangers (D) loudly  
+    **Solution**:  
+    Subject-verb-object-adverb: The dog barks at strangers loudly.  
+    **Answer**: A-B-C-D
+
+68. **Question**: Arrange: (A) to the store (B) I (C) went (D) yesterday  
+    **Solution**:  
+    Subject-verb-place-time: I went to the store yesterday.  
+    **Answer**: B-C-A-D
+
+69. **Question**: Arrange: (A) is (B) the flower (C) beautiful (D) very  
+    **Solution**:  
+    Subject-verb-complement-adverb: The flower is very beautiful.  
+    **Answer**: B-A-D-C
+
+70. **Question**: Arrange: (A) at night (B) he (C) studies (D) quietly  
+    **Solution**:  
+    Subject-verb-adverb-place: He studies quietly at night.  
+    **Answer**: B-C-D-A
+
+## Cloze Test
+**Passage (Questions 71–75)**:  
+The boy __71__ to the park every evening. He __72__ his dog with him. They __73__ for an hour. The dog loves to __74__ the ball. They return home __75__ happy.
+
+71. **Question**: Choose the word for __71__: A) Runs B) Goes C) Walks D) Jumps  
+    **Solution**:  
+    "To the park" suggests movement. Goes is most appropriate.  
+    **Answer**: B) Goes
+
+72. **Question**: Choose the word for __72__: A) Takes B) Brings C) Carries D) Holds  
+    **Solution**:  
+    Bringing a dog implies Takes.  
+    **Answer**: A) Takes
+
+73. **Question**: Choose the word for __73__: A) Sit B) Play C) Sleep D) Eat  
+    **Solution**:  
+    An hour in the park suggests Play.  
+    **Answer**: B) Play
+
+74. **Question**: Choose the word for __74__: A) Kick B) Chase C) Throw D) Catch  
+    **Solution**:  
+    Dogs typically chase balls.  
+    **Answer**: B) Chase
+
+75. **Question**: Choose the word for __75__: A) Sadly B) Very C) Never D) Always  
+    **Solution**:  
+    Returning happy suggests Always.  
+    **Answer**: D) Always
+
+**Passage (Questions 76–80)**:  
+Reading is a __76__ habit. It helps you __77__ new things. Books are like __78__ who guide you. You can read __79__ you want. It makes life __80__.
+
+76. **Question**: Choose the word for __76__: A) Bad B) Good C) Poor D) Weak  
+    **Solution**:  
+    Reading is positive. Good fits best.  
+    **Answer**: B) Good
+
+77. **Question**: Choose the word for __77__: A) Forget B) Learn C) Ignore D) Lose  
+    **Solution**:  
+    Reading leads to learning.  
+    **Answer**: B) Learn
+
+78. **Question**: Choose the word for __78__: A) Enemies B) Friends C) Strangers D) Foes  
+    **Solution**:  
+    Guides are positive, like Friends.  
+    **Answer**: B) Friends
+
+79. **Question**: Choose the word for __79__: A) Never B) Wherever C) Rarely D) Seldom  
+    **Solution**:  
+    Freedom to read suggests Wherever.  
+    **Answer**: B) Wherever
+
+80. **Question**: Choose the word for __80__: A) Dull B) Rich C) Poor D) Sad  
+    **Solution**:  
+    Reading enhances life, so Rich.  
+    **Answer**: B) Rich
+
+## Idioms/Phrases
+81. **Question**: Meaning of “Break the ice”: A) Cause trouble B) Start a conversation C) End a fight D) Make a mistake  
+    **Solution**:  
+    Break the ice means to initiate conversation.  
+    **Answer**: B) Start a conversation
+
+82. **Question**: Meaning of “Piece of cake”: A) Difficult task B) Easy task C) Expensive item D) Rare event  
+    **Solution**:  
+    Piece of cake means something easy.  
+    **Answer**: B) Easy task
+
+83. **Question**: Meaning of “Spill the beans”: A) Reveal a secret B) Cook food C) Make a mess D) Share money  
+    **Solution**:  
+    Spill the beans means to disclose a secret.  
+    **Answer**: A) Reveal a secret
+
+84. **Question**: Meaning of “Bite the bullet”: A) Avoid pain B) Face a challenge C) Run away D) Eat quickly  
+    **Solution**:  
+    Bite the bullet means to endure a difficult situation.  
+    **Answer**: B) Face a challenge
+
+85. **Question**: Meaning of “Under the weather”: A) Feeling well B) Feeling unwell C) Traveling D) Working hard  
+    **Solution**:  
+    Under the weather means feeling sick.  
+    **Answer**: B) Feeling unwell
+
+86. **Question**: Meaning of “Kick the bucket”: A) Die B) Start a fight C) Win a game D) Begin work  
+    **Solution**:  
+    Kick the bucket is a euphemism for dying.  
+    **Answer**: A) Die
+
+87. **Question**: Meaning of “Let the cat out of the bag”: A) Buy a pet B) Reveal a secret C) Start a project D) End a meeting  
+    **Solution**:  
+    Let the cat out of the bag means to reveal a secret.  
+    **Answer**: B) Reveal a secret
+
+88. **Question**: Meaning of “Hit the nail on the head”: A) Make a mistake B) Be exactly right C) Start a fight D) Build something  
+    **Solution**:  
+    Hit the nail on the head means to be precise.  
+    **Answer**: B) Be exactly right
+
+89. **Question**: Meaning of “Bark up the wrong tree”: A) Make a mistake B) Climb a tree C) Win a prize D) Start a business  
+    **Solution**:  
+    Bark up the wrong tree means to be mistaken about something.  
+    **Answer**: A) Make a mistake
+
+90. **Question**: Meaning of “A dime a dozen”: A) Very rare B) Very common C) Expensive D) Unique  
+    **Solution**:  
+    A dime a dozen means very common.  
+    **Answer**: B) Very common
+
+## Verbal Analogies
+91. **Question**: Big : Small :: High : ?  
+    **Solution**:  
+    Big is the opposite of small. High’s opposite is low.  
+    **Answer**: Low
+
+92. **Question**: Cat : Kitten :: Dog : ?  
+    **Solution**:  
+    Kitten is a young cat. Puppy is a young dog.  
+    **Answer**: Puppy
+
+93. **Question**: Pen : Write :: Brush : ?  
+    **Solution**:  
+    A pen is used to write. A brush is used to paint.  
+    **Answer**: Paint
+
+94. **Question**: Book : Page :: House : ?  
+    **Solution**:  
+    A book contains pages. A house contains rooms.  
+    **Answer**: Room
+
+95. **Question**: Teacher : Classroom :: Chef : ?  
+    **Solution**:  
+    A teacher works in a classroom. A chef works in a kitchen.  
+    **Answer**: Kitchen
+
+96. **Question**: Sun : Day :: Moon : ?  
+    **Solution**:  
+    The sun is associated with day. The moon is associated with night.  
+    **Answer**: Night
+
+97. **Question**: Car : Wheel :: Table : ?  
+    **Solution**:  
+    A car has wheels as parts. A table has legs as parts.  
+    **Answer**: Leg
+
+98. **Question**: Bird : Fly :: Fish : ?  
+    **Solution**:  
+    A bird moves by flying. A fish moves by swimming.  
+    **Answer**: Swim
+
+99. **Question**: Clock : Time :: Thermometer : ?  
+    **Solution**:  
+    A clock measures time. A thermometer measures temperature.  
+    **Answer**: Temperature
+
+100. **Question**: Tree : Leaf :: Flower : ?  
+    **Solution**:  
+    A tree has leaves as parts. A flower has petals as parts.  
+    **Answer**: Petal
+
+# 100 Verbal Ability Practice Questions (Intermediate Level) with Solutions
+
+This file contains **100 intermediate-level practice questions** for Verbal Ability, designed to advance your verbal reasoning skills for fresher job aptitude tests, especially for AI/ML roles. Each question includes a detailed solution to deepen your understanding. Topics include synonyms, antonyms, sentence completion, spotting errors, sentence correction, reading comprehension, jumbled sentences, cloze tests, idioms/phrases, and verbal analogies.
+
+## Synonyms
+1. **Question**: Choose the synonym for "Ephemeral": A) Permanent B) Transient C) Enduring D) Lasting  
+   **Solution**:  
+   Ephemeral means short-lived. Transient is the closest synonym.  
+   **Answer**: B) Transient
+
+2. **Question**: Find the synonym for "Perspicuous": A) Vague B) Clear C) Obscure D) Complex  
+   **Solution**:  
+   Perspicuous means clearly expressed. Clear is the closest synonym.  
+   **Answer**: B) Clear
+
+3. **Question**: Synonym for "Tenacious": A) Yielding B) Persistent C) Weak D) Flexible  
+   **Solution**:  
+   Tenacious means holding firm. Persistent is the closest synonym.  
+   **Answer**: B) Persistent
+
+4. **Question**: Choose the synonym for "Obstreperous": A) Quiet B) Noisy C) Calm D) Submissive  
+   **Solution**:  
+   Obstreperous means difficult to control and noisy. Noisy is the closest synonym.  
+   **Answer**: B) Noisy
+
+5. **Question**: Synonym for "Proclivity": A) Aversion B) Tendency C) Dislike D) Opposition  
+   **Solution**:  
+   Proclivity means a natural inclination. Tendency is the closest synonym.  
+   **Answer**: B) Tendency
+
+6. **Question**: Find the synonym for "Ebullient": A) Depressed B) Enthusiastic C) Reserved D) Somber  
+   **Solution**:  
+   Ebullient means cheerful and full of energy. Enthusiastic is the closest synonym.  
+   **Answer**: B) Enthusiastic
+
+7. **Question**: Synonym for "Fastidious": A) Careless B) Meticulous C) Hasty D) Negligent  
+   **Solution**:  
+   Fastidious means very attentive to detail. Meticulous is the closest synonym.  
+   **Answer**: B) Meticulous
+
+8. **Question**: Choose the synonym for "Quixotic": A) Practical B) Unrealistic C) Sensible D) Rational  
+   **Solution**:  
+   Quixotic means impractical or unrealistic. Unrealistic is the closest synonym.  
+   **Answer**: B) Unrealistic
+
+9. **Question**: Synonym for "Sagacious": A) Foolish B) Wise C) Ignorant D) Naive  
+   **Solution**:  
+   Sagacious means having keen judgment. Wise is the closest synonym.  
+   **Answer**: B) Wise
+
+10. **Question**: Find the synonym for "Taciturn": A) Talkative B) Reserved C) Outgoing D) Loquacious  
+    **Solution**:  
+    Taciturn means silent or reserved in speech. Reserved is the closest synonym.  
+    **Answer**: B) Reserved
+
+## Antonyms
+11. **Question**: Choose the antonym for "Candid": A) Honest B) Deceptive C) Sincere D) Open  
+    **Solution**:  
+    Candid means truthful. Deceptive means misleading, the opposite.  
+    **Answer**: B) Deceptive
+
+12. **Question**: Find the antonym for "Austere": A) Harsh B) Luxurious C) Severe D) Plain  
+    **Solution**:  
+    Austere means simple or severe. Luxurious is the opposite.  
+    **Answer**: B) Luxurious
+
+13. **Question**: Antonym for "Eminent": A) Prominent B) Obscure C) Notable D) Distinguished  
+    **Solution**:  
+    Eminent means well-known. Obscure means unknown, the opposite.  
+    **Answer**: B) Obscure
+
+14. **Question**: Choose the antonym for "Prodigal": A) Wasteful B) Frugal C) Extravagant D) Lavish  
+    **Solution**:  
+    Prodigal means wasteful. Frugal means economical, the opposite.  
+    **Answer**: B) Frugal
+
+15. **Question**: Antonym for "Verbose": A) Wordy B) Concise C) Talkative D) Loquacious  
+    **Solution**:  
+    Verbose means using too many words. Concise means brief, the opposite.  
+    **Answer**: B) Concise
+
+16. **Question**: Find the antonym for "Obsolete": A) Outdated B) Modern C) Old D) Ancient  
+    **Solution**:  
+    Obsolete means no longer in use. Modern is the opposite.  
+    **Answer**: B) Modern
+
+17. **Question**: Antonym for "Zeal": A) Passion B) Apathy C) Enthusiasm D) Fervor  
+    **Solution**:  
+    Zeal means great enthusiasm. Apathy means lack of interest, the opposite.  
+    **Answer**: B) Apathy
+
+18. **Question**: Choose the antonym for "Vindictive": A) Spiteful B) Forgiving C) Malicious D) Revengeful  
+    **Solution**:  
+    Vindictive means seeking revenge. Forgiving is the opposite.  
+    **Answer**: B) Forgiving
+
+19. **Question**: Antonym for "Candid": A) Frank B) Secretive C) Honest D) Straightforward  
+    **Solution**:  
+    Candid means open and honest. Secretive means withholding information, the opposite.  
+    **Answer**: B) Secretive
+
+20. **Question**: Find the antonym for "Transient": A) Fleeting B) Permanent C) Temporary D) Brief  
+    **Solution**:  
+    Transient means short-lived. Permanent is the opposite.  
+    **Answer**: B) Permanent
+
+## Sentence Completion
+21. **Question**: Despite his ______ demeanor, he was deeply concerned about the project’s success.  
+    A) Enthusiastic B) Nonchalant C) Passionate D) Eager  
+    **Solution**:  
+    Contrast with “deeply concerned” suggests a lack of outward emotion. Nonchalant (carefree) fits best.  
+    **Answer**: B) Nonchalant
+
+22. **Question**: The lecture was so ______ that many students lost interest.  
+    A) Engaging B) Tedious C) Inspiring D) Lively  
+    **Solution**:  
+    Losing interest implies boring content. Tedious is appropriate.  
+    **Answer**: B) Tedious
+
+23. **Question**: Her ______ approach to problem-solving earned her respect from colleagues.  
+    A) Hasty B) Methodical C) Careless D) Impulsive  
+    **Solution**:  
+    Earning respect suggests careful work. Methodical fits best.  
+    **Answer**: B) Methodical
+
+24. **Question**: The manager’s ______ decision led to unexpected profits.  
+    A) Reckless B) Astute C) Foolish D) Hasty  
+    **Solution**:  
+    Unexpected profits imply a smart choice. Astute (shrewd) is appropriate.  
+    **Answer**: B) Astute
+
+25. **Question**: The novel’s ______ plot kept readers engaged until the last page.  
+    A) Predictable B) Intricate C) Simple D) Boring  
+    **Solution**:  
+    Keeping readers engaged suggests complexity. Intricate fits best.  
+    **Answer**: B) Intricate
+
+26. **Question**: His ______ remarks offended the audience.  
+    A) Polite B) Caustic C) Kind D) Gentle  
+    **Solution**:  
+    Offending suggests harsh words. Caustic (biting) is appropriate.  
+    **Answer**: B) Caustic
+
+27. **Question**: The team’s ______ efforts resulted in a flawless presentation.  
+    A) Disorganized B) Concerted C) Haphazard D) Careless  
+    **Solution**:  
+    Flawless suggests coordinated work. Concerted fits best.  
+    **Answer**: B) Concerted
+
+28. **Question**: She handled the crisis with ______ composure.  
+    A) Nervous B) Remarkable C) Fragile D) Unsteady  
+    **Solution**:  
+    Handling a crisis well suggests calmness. Remarkable fits best.  
+    **Answer**: B) Remarkable
+
+29. **Question**: The politician’s ______ promises failed to convince voters.  
+    A) Sincere B) Hollow C) Genuine D) Heartfelt  
+    **Solution**:  
+    Failing to convince suggests lack of sincerity. Hollow is appropriate.  
+    **Answer**: B) Hollow
+
+30. **Question**: His ______ attitude made negotiations difficult.  
+    A) Flexible B) Inflexible C) Cooperative D) Amiable  
+    **Solution**:  
+    Difficult negotiations suggest rigidity. Inflexible fits best.  
+    **Answer**: B) Inflexible
+
+## Spotting Errors
+31. **Question**: Identify the error: Neither of the boys *have* finished their work.  
+    **Solution**:  
+    “Neither” is singular, requiring “has.” Error: *have*.  
+    **Answer**: have → has
+
+32. **Question**: Find the error: She *lay* the book on the table yesterday.  
+    **Solution**:  
+    Past tense of “lie” (recline) is “lay”; for “place,” use “laid.” Error: *lay*.  
+    **Answer**: lay → laid
+
+33. **Question**: Spot the error: The team *comprises* of five members.  
+    **Solution**:  
+    “Comprises” means includes, not followed by “of.” Error: *of*.  
+    **Answer**: of → remove of
+
+34. **Question**: Identify the error: He is *more* interested in games than *study*.  
+    **Solution**:  
+    Parallel structure requires “studying” or “studies.” Error: *study*.  
+    **Answer**: study → studying
+
+35. **Question**: Find the error: Each of the students *were* given a book.  
+    **Solution**:  
+    “Each” is singular, requiring “was.” Error: *were*.  
+    **Answer**: were → was
+
+36. **Question**: Spot the error: She *has been* working here *since* five years.  
+    **Solution**:  
+    “Since” refers to a point in time, not duration. Use “for.” Error: *since*.  
+    **Answer**: since → for
+
+37. **Question**: Identify the error: The data *is* insufficient to draw conclusions.  
+    **Solution**:  
+    “Data” is plural, requiring “are.” Error: *is*.  
+    **Answer**: is → are
+
+38. **Question**: Find the error: He *insisted* to attend the meeting.  
+    **Solution**:  
+    “Insist” is followed by “on” or a clause, not “to.” Error: *to*.  
+    **Answer**: to → on
+
+39. **Question**: Spot the error: The boy, along with his friends, *were* playing.  
+    **Solution**:  
+    Subject “boy” is singular, requiring “was.” Error: *were*.  
+    **Answer**: were → was
+
+40. **Question**: Identify the error: This is *one of the best book* I have read.  
+    **Solution**:  
+    “One of” refers to singular “book.” Error: *book*.  
+    **Answer**: book → books
+
+## Sentence Correction
+41. **Question**: Correct the sentence: He *enjoys to play* football on weekends.  
+    **Solution**:  
+    “Enjoy” is followed by a gerund.  
+    **Corrected**: He enjoys playing football on weekends.
+
+42. **Question**: Correct: Less *people* attended the event this year.  
+    **Solution**:  
+    “Fewer” is used for countable nouns like “people.”  
+    **Corrected**: Fewer people attended the event this year.
+
+43. **Question**: Correct: She *don’t mind* working late hours.  
+    **Solution**:  
+    Third person singular “She” requires “doesn’t.”  
+    **Corrected**: She doesn’t mind working late hours.
+
+44. **Question**: Correct: The committee *have* decided to postpone the meeting.  
+    **Solution**:  
+    “Committee” is singular, requiring “has.”  
+    **Corrected**: The committee has decided to postpone the meeting.
+
+45. **Question**: Correct: I *could of* attended the seminar.  
+    **Solution**:  
+    “Could of” is incorrect; use “could have.”  
+    **Corrected**: I could have attended the seminar.
+
+46. **Question**: Correct: He is *taller than me*.  
+    **Solution**:  
+    Use subject pronoun “I” after “than” for comparisons.  
+    **Corrected**: He is taller than I.
+
+47. **Question**: Correct: The news *were* shocking to everyone.  
+    **Solution**:  
+    “News” is singular, requiring “was.”  
+    **Corrected**: The news was shocking to everyone.
+
+48. **Question**: Correct: She *laid* in bed all day.  
+    **Solution**:  
+    “Lie” (recline) past tense is “lay”; “laid” is for “lay” (place).  
+    **Corrected**: She lay in bed all day.
+
+49. **Question**: Correct: Everyone *have* to submit their assignments.  
+    **Solution**:  
+    “Everyone” is singular, requiring “has.”  
+    **Corrected**: Everyone has to submit their assignments.
+
+50. **Question**: Correct: He *insisted* that she *leaves* early.  
+    **Solution**:  
+    Subjunctive mood after “insist” requires “leave.”  
+    **Corrected**: He insisted that she leave early.
+
+## Reading Comprehension
+**Passage (Questions 51–55)**:  
+Technology has transformed education. Online platforms offer courses from top universities, making learning accessible. However, digital learning lacks the personal interaction of traditional classrooms. Studies show that blended learning, combining online and in-person methods, is most effective. Teachers must adapt to these changes to stay relevant.
+
+51. **Question**: How has technology impacted education?  
+    **Solution**:  
+    It has transformed education by offering accessible online courses.  
+    **Answer**: It has made learning more accessible through online platforms.
+
+52. **Question**: What is a drawback of digital learning?  
+    **Solution**:  
+    It lacks personal interaction of traditional classrooms.  
+    **Answer**: Lack of personal interaction.
+
+53. **Question**: What is the most effective learning method according to studies?  
+    **Solution**:  
+    Blended learning, combining online and in-person methods.  
+    **Answer**: Blended learning.
+
+54. **Question**: What must teachers do to stay relevant?  
+    **Solution**:  
+    Adapt to technological changes.  
+    **Answer**: Adapt to changes.
+
+55. **Question**: What do online platforms offer?  
+    **Solution**:  
+    Courses from top universities.  
+    **Answer**: Courses from top universities.
+
+**Passage (Questions 56–60)**:  
+Climate change is a pressing global issue. Rising temperatures lead to extreme weather events like floods and droughts. Governments must implement policies to reduce carbon emissions. Individuals can contribute by using public transport and reducing waste. Collective action is essential to mitigate its effects.
+
+56. **Question**: What is climate change described as?  
+    **Solution**:  
+    A pressing global issue.  
+    **Answer**: A pressing global issue.
+
+57. **Question**: What are the effects of rising temperatures?  
+    **Solution**:  
+    Extreme weather events like floods and droughts.  
+    **Answer**: Floods and droughts.
+
+58. **Question**: What should governments do to address climate change?  
+    **Solution**:  
+    Implement policies to reduce carbon emissions.  
+    **Answer**: Reduce carbon emissions through policies.
+
+59. **Question**: How can individuals contribute to fighting climate change?  
+    **Solution**:  
+    Use public transport and reduce waste.  
+    **Answer**: Use public transport and reduce waste.
+
+60. **Question**: What is essential to mitigate climate change effects?  
+    **Solution**:  
+    Collective action.  
+    **Answer**: Collective action.
+
+## Jumbled Sentences
+61. **Question**: Arrange: (A) delivered (B) the speaker (C) an inspiring (D) speech  
+    **Solution**:  
+    Subject-verb-object-adjective: The speaker delivered an inspiring speech.  
+    **Answer**: B-A-C-D
+
+62. **Question**: Arrange: (A) the project (B) successfully (C) they (D) completed  
+    **Solution**:  
+    Subject-verb-object-adverb: They completed the project successfully.  
+    **Answer**: C-D-A-B
+
+63. **Question**: Arrange: (A) in the garden (B) blooms (C) the rose (D) beautifully  
+    **Solution**:  
+    Subject-verb-place-adverb: The rose blooms beautifully in the garden.  
+    **Answer**: C-B-D-A
+
+64. **Question**: Arrange: (A) every weekend (B) she (C) visits (D) her grandparents  
+    **Solution**:  
+    Subject-verb-object-time: She visits her grandparents every weekend.  
+    **Answer**: B-C-D-A
+
+65. **Question**: Arrange: (A) with confidence (B) he (C) spoke (D) at the conference  
+    **Solution**:  
+    Subject-verb-place-adverb: He spoke at the conference with confidence.  
+    **Answer**: B-C-D-A
+
+66. **Question**: Arrange: (A) the book (B) carefully (C) she (D) read  
+    **Solution**:  
+    Subject-verb-object-adverb: She read the book carefully.  
+    **Answer**: C-D-A-B
+
+67. **Question**: Arrange: (A) to the team (B) the manager (C) gave (D) instructions  
+    **Solution**:  
+    Subject-verb-object-recipient: The manager gave instructions to the team.  
+    **Answer**: B-C-D-A
+
+68. **Question**: Arrange: (A) in the sky (B) brightly (C) the stars (D) shine  
+    **Solution**:  
+    Subject-verb-place-adverb: The stars shine brightly in the sky.  
+    **Answer**: C-D-B-A
+
+69. **Question**: Arrange: (A) the exam (B) with ease (C) he (D) passed  
+    **Solution**:  
+    Subject-verb-object-adverb: He passed the exam with ease.  
+    **Answer**: C-D-A-B
+
+70. **Question**: Arrange: (A) every morning (B) the birds (C) sing (D) melodiously  
+    **Solution**:  
+    Subject-verb-adverb-time: The birds sing melodiously every morning.  
+    **Answer**: B-C-D-A
+
+## Cloze Test
+**Passage (Questions 71–75)**:  
+Travelling is a great way to __71__ new cultures. It __72__ your perspective and teaches you to __73__ differences. However, it can be __74__ if not planned well. Always research your __75__ before starting your journey.
+
+71. **Question**: Choose the word for __71__: A) Ignore B) Explore C) Avoid D) Reject  
+    **Solution**:  
+    Travelling involves discovering cultures. Explore fits best.  
+    **Answer**: B) Explore
+
+72. **Question**: Choose the word for __72__: A) Narrows B) Broadens C) Limits D) Restricts  
+    **Solution**:  
+    New experiences expand views. Broadens is appropriate.  
+    **Answer**: B) Broadens
+
+73. **Question**: Choose the word for __73__: A) Dislike B) Appreciate C) Criticize D) Ignore  
+    **Solution**:  
+    Learning suggests positive regard. Appreciate fits best.  
+    **Answer**: B) Appreciate
+
+74. **Question**: Choose the word for __74__: A) Easy B) Challenging C) Simple D) Effortless  
+    **Solution**:  
+    Poor planning leads to difficulties. Challenging is appropriate.  
+    **Answer**: B) Challenging
+
+75. **Question**: Choose the word for __75__: A) Budget B) Destination C) Luggage D) Schedule  
+    **Solution**:  
+    Researching a place suggests destination.  
+    **Answer**: B) Destination
+
+**Passage (Questions 76–80)**:  
+Teamwork is __76__ in achieving success. It requires __77__ and mutual respect. Effective teams __78__ ideas openly. Conflicts may arise, but they can be __79__ through communication. A strong team __80__ great results.
+
+76. **Question**: Choose the word for __76__: A) Irrelevant B) Crucial C) Optional D) Unnecessary  
+    **Solution**:  
+    Teamwork is key to success. Crucial fits best.  
+    **Answer**: B) Crucial
+
+77. **Question**: Choose the word for __77__: A) Competition B) Collaboration C) Rivalry D) Isolation  
+    **Solution**:  
+    Teamwork involves working together. Collaboration is appropriate.  
+    **Answer**: B) Collaboration
+
+78. **Question**: Choose the word for __78__: A) Suppress B) Share C) Hide D) Ignore  
+    **Solution**:  
+    Effective teams exchange ideas. Share fits best.  
+    **Answer**: B) Share
+
+79. **Question**: Choose the word for __79__: A) Ignored B) Resolved C) Avoided D) Escalated  
+    **Solution**:  
+    Communication handles conflicts. Resolved is appropriate.  
+    **Answer**: B) Resolved
+
+80. **Question**: Choose the word for __80__: A) Fails B) Delivers C) Misses D) Avoids  
+    **Solution**:  
+    Strong teams succeed. Delivers fits best.  
+    **Answer**: B) Delivers
+
+## Idioms/Phrases
+81. **Question**: Meaning of “Burn the midnight oil”: A) Waste time B) Work late C) Start early D) Avoid work  
+    **Solution**:  
+    Burn the midnight oil means working late into the night.  
+    **Answer**: B) Work late
+
+82. **Question**: Meaning of “Beat around the bush”: A) Speak directly B) Avoid the main topic C) Solve quickly D) Act boldly  
+    **Solution**:  
+    Beat around the bush means avoiding the main issue.  
+    **Answer**: B) Avoid the main topic
+
+83. **Question**: Meaning of “The apple doesn’t fall far from the tree”: A) Children are independent B) Children resemble parents C) Family is distant D) Parents are strict  
+    **Solution**:  
+    Means children are similar to parents.  
+    **Answer**: B) Children resemble parents
+
+84. **Question**: Meaning of “Put your best foot forward”: A) Make a mistake B) Make a strong effort C) Run away D) Ignore tasks  
+    **Solution**:  
+    Means to make your best effort.  
+    **Answer**: B) Make a strong effort
+
+85. **Question**: Meaning of “Bite off more than you can chew”: A) Take small tasks B) Take on too much C) Eat quickly D) Share work  
+    **Solution**:  
+    Means taking on more than you can handle.  
+    **Answer**: B) Take on too much
+
+86. **Question**: Meaning of “Cry over spilt milk”: A) Plan ahead B) Regret the past C) Celebrate success D) Ignore mistakes  
+    **Solution**:  
+    Means regretting something unchangeable.  
+    **Answer**: B) Regret the past
+
+87. **Question**: Meaning of “Every cloud has a silver lining”: A) Problems are unsolvable B) Every problem has a positive aspect C) Storms are dangerous D) Optimism is foolish  
+    **Solution**:  
+    Means every difficulty has a hopeful aspect.  
+    **Answer**: B) Every problem has a positive aspect
+
+88. **Question**: Meaning of “Throw in the towel”: A) Keep fighting B) Give up C) Start over D) Work harder  
+    **Solution**:  
+    Means to surrender or quit.  
+    **Answer**: B) Give up
+
+89. **Question**: Meaning of “Cut corners”: A) Work thoroughly B) Take shortcuts C) Plan carefully D) Be honest  
+    **Solution**:  
+    Means to do something in a cheaper or easier way.  
+    **Answer**: B) Take shortcuts
+
+90. **Question**: Meaning of “On the ball”: A) Confused B) Alert and efficient C) Lazy D) Distracted  
+    **Solution**:  
+    Means being quick and competent.  
+    **Answer**: B) Alert and efficient
+
+## Verbal Analogies
+91. **Question**: Symphony : Composer :: Painting : ?  
+    **Solution**:  
+    A symphony is created by a composer. A painting is created by a painter.  
+    **Answer**: Painter
+
+92. **Question**: Feather : Bird :: Scale : ?  
+    **Solution**:  
+    Feathers cover birds; scales cover fish.  
+    **Answer**: Fish
+
+93. **Question**: Library : Books :: Museum : ?  
+    **Solution**:  
+    A library contains books; a museum contains artifacts.  
+    **Answer**: Artifacts
+
+94. **Question**: Hammer : Nail :: Screwdriver : ?  
+    **Solution**:  
+    A hammer drives a nail; a screwdriver drives a screw.  
+    **Answer**: Screw
+
+95. **Question**: Doctor : Patient :: Lawyer : ?  
+    **Solution**:  
+    A doctor treats a patient; a lawyer represents a client.  
+    **Answer**: Client
+
+96. **Question**: Ocean : Wave :: Desert : ?  
+    **Solution**:  
+    Oceans have waves as features. Deserts have dunes.  
+    **Answer**: Dune
+
+97. **Question**: Key : Piano :: String : ?  
+    **Solution**:  
+    Keys are used to play a piano. Strings are used to play a guitar.  
+    **Answer**: Guitar
+
+98. **Question**: Telescope : Astronomer :: Microscope : ?  
+    **Solution**:  
+    A telescope is used by an astronomer. A microscope is used by a biologist.  
+    **Answer**: Biologist
+
+99. **Question**: Map : Geography :: Blueprint : ?  
+    **Solution**:  
+    A map is a tool for geography. A blueprint is a tool for architecture.  
+    **Answer**: Architecture
+
+100. **Question**: Seed : Plant :: Egg : ?  
+     **Solution**:  
+     A seed grows into a plant. An egg develops into a bird.  
+     **Answer**: Bird
+
+# 100 Verbal Ability Practice Questions (Advanced Level) with Solutions
+
+This file contains **100 advanced-level practice questions** for Verbal Ability, designed to rigorously test your verbal reasoning skills for fresher job aptitude tests, especially for AI/ML roles. Each question includes a detailed solution to enhance your analytical and linguistic proficiency. Topics include sophisticated synonyms/antonyms, nuanced sentence completion, subtle error spotting, complex sentence correction, intricate reading comprehension, elaborate jumbled sentences, advanced cloze tests, obscure idioms/phrases, and abstract verbal analogies.
+
+## Synonyms
+1. **Question**: Choose the synonym for "Acerbic": A) Sweet B) Caustic C) Mild D) Gentle  
+   **Solution**:  
+   Acerbic means sharp or biting in tone. Caustic, meaning harshly critical, is the closest synonym.  
+   **Answer**: B) Caustic
+
+2. **Question**: Find the synonym for "Esoteric": A) Common B) Arcane C) Accessible D) Obvious  
+   **Solution**:  
+   Esoteric means understood by few. Arcane, meaning mysterious or secret, is the closest synonym.  
+   **Answer**: B) Arcane
+
+3. **Question**: Synonym for "Nefarious": A) Virtuous B) Wicked C) Honorable D) Ethical  
+   **Solution**:  
+   Nefarious means despicable or evil. Wicked is the closest synonym.  
+   **Answer**: B) Wicked
+
+4. **Question**: Choose the synonym for "Obfuscate": A) Clarify B) Confuse C) Simplify D) Illuminate  
+   **Solution**:  
+   Obfuscate means to make unclear. Confuse is the closest synonym.  
+   **Answer**: B) Confuse
+
+5. **Question**: Synonym for "Propinquity": A) Distance B) Proximity C) Isolation D) Separation  
+   **Solution**:  
+   Propinquity means nearness or kinship. Proximity is the closest synonym.  
+   **Answer**: B) Proximity
+
+6. **Question**: Find the synonym for "Recalcitrant": A) Compliant B) Defiant C) Obedient D) Submissive  
+   **Solution**:  
+   Recalcitrant means stubbornly resistant. Defiant is the closest synonym.  
+   **Answer**: B) Defiant
+
+7. **Question**: Synonym for "Supercilious": A) Humble B) Arrogant C) Modest D) Courteous  
+   **Solution**:  
+   Supercilious means haughty or disdainful. Arrogant is the closest synonym.  
+   **Answer**: B) Arrogant
+
+8. **Question**: Choose the synonym for "Temerity": A) Caution B) Audacity C) Prudence D) Restraint  
+   **Solution**:  
+   Temerity means reckless boldness. Audacity is the closest synonym.  
+   **Answer**: B) Audacity
+
+9. **Question**: Synonym for "Ubiquitous": A) Rare B) Omnipresent C) Scarce D) Limited  
+   **Solution**:  
+   Ubiquitous means present everywhere. Omnipresent is the closest synonym.  
+   **Answer**: B) Omnipresent
+
+10. **Question**: Find the synonym for "Vituperative": A) Complimentary B) Abusive C) Flattering D) Kind  
+    **Solution**:  
+    Vituperative means bitterly critical. Abusive is the closest synonym.  
+    **Answer**: B) Abusive
+
+## Antonyms
+11. **Question**: Choose the antonym for "Aplomb": A) Confidence B) Fluster C) Poise D) Assurance  
+    **Solution**:  
+    Aplomb means self-confidence. Fluster, meaning nervous agitation, is the opposite.  
+    **Answer**: B) Fluster
+
+12. **Question**: Find the antonym for "Cacophony": A) Discord B) Harmony C) Noise D) Clamor  
+    **Solution**:  
+    Cacophony means harsh sound. Harmony, meaning pleasant sound, is the opposite.  
+    **Answer**: B) Harmony
+
+13. **Question**: Antonym for "Epiphany": A) Revelation B) Ignorance C) Insight D) Realization  
+    **Solution**:  
+    Epiphany means sudden understanding. Ignorance, meaning lack of knowledge, is the opposite.  
+    **Answer**: B) Ignorance
+
+14. **Question**: Choose the antonym for "Magnanimous": A) Generous B) Petty C) Noble D) Charitable  
+    **Solution**:  
+    Magnanimous means generous in spirit. Petty, meaning small-minded, is the opposite.  
+    **Answer**: B) Petty
+
+15. **Question**: Antonym for "Pernicious": A) Harmful B) Beneficial C) Destructive D) Toxic  
+    **Solution**:  
+    Pernicious means harmful. Beneficial, meaning helpful, is the opposite.  
+    **Answer**: B) Beneficial
+
+16. **Question**: Find the antonym for "Quell": A) Suppress B) Incite C) Pacify D) Subdue  
+    **Solution**:  
+    Quell means to calm or suppress. Incite, meaning to stir up, is the opposite.  
+    **Answer**: B) Incite
+
+17. **Question**: Antonym for "Reticent": A) Reserved B) Talkative C) Silent D) Restrained  
+    **Solution**:  
+    Reticent means reluctant to speak. Talkative is the opposite.  
+    **Answer**: B) Talkative
+
+18. **Question**: Choose the antonym for "Soporific": A) Sleep-inducing B) Stimulating C) Sedative D) Lulling  
+    **Solution**:  
+    Soporific means causing sleep. Stimulating, meaning energizing, is the opposite.  
+    **Answer**: B) Stimulating
+
+19. **Question**: Antonym for "Turgid": A) Swollen B) Concise C) Inflated D) Bloated  
+    **Solution**:  
+    Turgid means overly complex or swollen. Concise, meaning brief, is the opposite.  
+    **Answer**: B) Concise
+
+20. **Question**: Find the antonym for "Voracious": A) Greedy B) Restrained C) Ravenous D) Insatiable  
+    **Solution**:  
+    Voracious means excessively eager. Restrained, meaning controlled, is the opposite.  
+    **Answer**: B) Restrained
+
+## Sentence Completion
+21. **Question**: Her ______ critique, though harsh, was instrumental in refining the proposal.  
+    A) Flattering B) Incisive C) Vague D) Ambiguous  
+    **Solution**:  
+    Harsh but refining suggests sharp analysis. Incisive (penetrating) fits best.  
+    **Answer**: B) Incisive
+
+22. **Question**: The politician’s ______ rhetoric failed to address the economic concerns.  
+    A) Cogent B) Grandiloquent C) Lucid D) Persuasive  
+    **Solution**:  
+    Failing to address concerns suggests exaggerated speech. Grandiloquent (pompous) fits best.  
+    **Answer**: B) Grandiloquent
+
+23. **Question**: His ______ demeanor belied the complexity of his strategic thinking.  
+    A) Arrogant B) Unassuming C) Ostentatious D) Haughty  
+    **Solution**:  
+    Contrast with complex thinking suggests simplicity. Unassuming fits best.  
+    **Answer**: B) Unassuming
+
+24. **Question**: The novel’s ______ prose captivated readers with its depth and nuance.  
+    A) Pedestrian B) Eloquent C) Trite D) Banal  
+    **Solution**:  
+    Captivating suggests expressive language. Eloquent fits best.  
+    **Answer**: B) Eloquent
+
+25. **Question**: The scientist’s ______ hypothesis was met with skepticism by peers.  
+    A) Conventional B) Audacious C) Orthodox D) Traditional  
+    **Solution**:  
+    Skepticism suggests boldness. Audacious (daring) fits best.  
+    **Answer**: B) Audacious
+
+26. **Question**: Her ______ refusal to compromise frustrated the negotiators.  
+    A) Flexible B) Adamant C) Amicable D) Conciliatory  
+    **Solution**:  
+    Frustration suggests inflexibility. Adamant fits best.  
+    **Answer**: B) Adamant
+
+27. **Question**: The ______ atmosphere in the room made open discussion impossible.  
+    A) Cordial B) Acrimonious C) Harmonious D) Amiable  
+    **Solution**:  
+    Impossible discussion suggests hostility. Acrimonious fits best.  
+    **Answer**: B) Acrimonious
+
+28. **Question**: His ______ wit often diffused tense situations.  
+    A) Caustic B) Disarming C) Sarcastic D) Biting  
+    **Solution**:  
+    Diffusing tension suggests charm. Disarming fits best.  
+    **Answer**: B) Disarming
+
+29. **Question**: The policy’s ______ implications were overlooked during its hasty adoption.  
+    A) Benign B) Deleterious C) Neutral D) Beneficial  
+    **Solution**:  
+    Overlooked suggests negative outcomes. Deleterious (harmful) fits best.  
+    **Answer**: B) Deleterious
+
+30. **Question**: Her ______ approach to leadership fostered innovation among her team.  
+    A) Autocratic B) Visionary C) Bureaucratic D) Restrictive  
+    **Solution**:  
+    Fostering innovation suggests foresight. Visionary fits best.  
+    **Answer**: B) Visionary
+
+## Spotting Errors
+31. **Question**: Identify the error: The phenomena *is* being studied extensively.  
+    **Solution**:  
+    “Phenomena” is plural, requiring “are.” Error: *is*.  
+    **Answer**: is → are
+
+32. **Question**: Find the error: He *implied* that she was not *capable to* lead.  
+    **Solution**:  
+    “Capable” is followed by “of,” not “to.” Error: *to*.  
+    **Answer**: to → of
+
+33. **Question**: Spot the error: Neither the manager nor the employees *was* informed.  
+    **Solution**:  
+    “Neither…nor” takes verb agreement with the closer subject “employees” (plural), requiring “were.” Error: *was*.  
+    **Answer**: was → were
+
+34. **Question**: Identify the error: The company *has lain* dormant for years.  
+    **Solution**:  
+    “Lie” (recline) past participle is “lain”; for “lay” (place), use “laid.” Error: *lain*.  
+    **Answer**: lain → laid
+
+35. **Question**: Find the error: Who *did* you *speak* with yesterday?  
+    **Solution**:  
+    “Who” is correct, but “with” should precede “whom” in formal usage. Error: *who*.  
+    **Answer**: who → whom
+
+36. **Question**: Spot the error: The data *suggests* a strong correlation.  
+    **Solution**:  
+    “Data” is plural, requiring “suggest.” Error: *suggests*.  
+    **Answer**: suggests → suggest
+
+37. **Question**: Identify the error: She is *one of those* who *prefers* solitude.  
+    **Solution**:  
+    “Who” refers to “those” (plural), requiring “prefer.” Error: *prefers*.  
+    **Answer**: prefers → prefer
+
+38. **Question**: Find the error: He *alluded* that the plan was flawed.  
+    **Solution**:  
+    “Allude” is intransitive, requiring “to.” Error: *alluded*.  
+    **Answer**: alluded → alluded to
+
+39. **Question**: Spot the error: The criteria *was* not met by the proposal.  
+    **Solution**:  
+    “Criteria” is plural, requiring “were.” Error: *was*.  
+    **Answer**: was → were
+
+40. **Question**: Identify the error: Less *workers* are needed due to automation.  
+    **Solution**:  
+    “Fewer” is used for countable nouns like “workers.” Error: *less*.  
+    **Answer**: less → fewer
+
+## Sentence Correction
+41. **Question**: Correct: The team *were* unable to reach *a* consensus.  
+    **Solution**:  
+    “Team” is singular, requiring “was.” Use “consensus” without “a.”  
+    **Corrected**: The team was unable to reach consensus.
+
+42. **Question**: Correct: His argument *lacks* of credibility.  
+    **Solution**:  
+    “Lacks” is not followed by “of.”  
+    **Corrected**: His argument lacks credibility.
+
+43. **Question**: Correct: She *insisted* that he *is* present.  
+    **Solution**:  
+    Subjunctive mood after “insist” requires “be.”  
+    **Corrected**: She insisted that he be present.
+
+44. **Question**: Correct: The professor, *together with* his students, *were* conducting research.  
+    **Solution**:  
+    Subject “professor” is singular, requiring “was.”  
+    **Corrected**: The professor, together with his students, was conducting research.
+
+45. **Question**: Correct: He *should of* reviewed the document.  
+    **Solution**:  
+    “Should of” is incorrect; use “should have.”  
+    **Corrected**: He should have reviewed the document.
+
+46. **Question**: Correct: The phenomena *is* observable under specific conditions.  
+    **Solution**:  
+    “Phenomena” is plural, requiring “are.”  
+    **Corrected**: The phenomena are observable under specific conditions.
+
+47. **Question**: Correct: Who *did* she *collaborate* with on the project?  
+    **Solution**:  
+    “Who” should be “whom” as the object of “with.”  
+    **Corrected**: Whom did she collaborate with on the project?
+
+48. **Question**: Correct: The policy *affects* the employees’ morale adverse.  
+    **Solution**:  
+    “Adverse” should be “adversely” (adverb).  
+    **Corrected**: The policy affects the employees’ morale adversely.
+
+49. **Question**: Correct: Neither of the solutions *are* viable.  
+    **Solution**:  
+    “Neither” is singular, requiring “is.”  
+    **Corrected**: Neither of the solutions is viable.
+
+50. **Question**: Correct: The data *was* analyzed thoroughly.  
+    **Solution**:  
+    “Data” is plural, requiring “were.”  
+    **Corrected**: The data were analyzed thoroughly.
+
+## Reading Comprehension
+**Passage (Questions 51–55)**:  
+Artificial Intelligence (AI) is reshaping industries. Machine learning models, trained on vast datasets, enable predictive analytics. However, ethical concerns, such as bias in algorithms and data privacy, pose challenges. Regulatory frameworks are evolving to address these issues, but global consensus remains elusive. AI’s potential to augment human capabilities is immense, provided its deployment is responsible.
+
+51. **Question**: What is AI doing to industries?  
+    **Solution**:  
+    It is reshaping industries.  
+    **Answer**: Reshaping industries.
+
+52. **Question**: What enables predictive analytics in AI?  
+    **Solution**:  
+    Machine learning models trained on vast datasets.  
+    **Answer**: Machine learning models.
+
+53. **Question**: What are the ethical concerns mentioned?  
+    **Solution**:  
+    Bias in algorithms and data privacy.  
+    **Answer**: Bias and privacy issues.
+
+54. **Question**: What is the status of regulatory frameworks for AI?  
+    **Solution**:  
+    They are evolving, but global consensus is elusive.  
+    **Answer**: Evolving without global consensus.
+
+55. **Question**: What is AI’s potential if deployed responsibly?  
+    **Solution**:  
+    To augment human capabilities.  
+    **Answer**: Augment human capabilities.
+
+**Passage (Questions 56–60)**:  
+Globalization has interconnected economies, fostering trade and cultural exchange. However, it exacerbates income inequality and environmental degradation. Critics argue that multinational corporations exploit developing nations, while proponents claim globalization drives innovation. Balancing economic growth with sustainability requires nuanced policies and international cooperation.
+
+56. **Question**: What has globalization done to economies?  
+    **Solution**:  
+    Interconnected them, fostering trade and cultural exchange.  
+    **Answer**: Interconnected economies.
+
+57. **Question**: What negative effects does globalization have?  
+    **Solution**:  
+    Exacerbates income inequality and environmental degradation.  
+    **Answer**: Increases inequality and environmental harm.
+
+58. **Question**: What do critics say about multinational corporations?  
+    **Solution**:  
+    They exploit developing nations.  
+    **Answer**: Exploit developing nations.
+
+59. **Question**: What do proponents of globalization claim?  
+    **Solution**:  
+    It drives innovation.  
+    **Answer**: Drives innovation.
+
+60. **Question**: What is required to balance economic growth and sustainability?  
+    **Solution**:  
+    Nuanced policies and international cooperation.  
+    **Answer**: Nuanced policies and cooperation.
+
+## Jumbled Sentences
+61. **Question**: Arrange: (A) with remarkable (B) the scientist (C) presented (D) clarity, (E) her findings  
+    **Solution**:  
+    Subject-verb-object-adverb: The scientist presented her findings with remarkable clarity.  
+    **Answer**: B-C-E-A-D
+
+62. **Question**: Arrange: (A) despite (B) succeeded, (C) the team (D) challenges, (E) formidable  
+    **Solution**:  
+    Subject-verb-adverb-object: The team succeeded despite formidable challenges.  
+    **Answer**: C-B-A-E-D
+
+63. **Question**: Arrange: (A) the novel, (B) with intricate (C) captivated (D) readers, (E) plots  
+    **Solution**:  
+    Subject-verb-object-adverb: The novel, with intricate plots, captivated readers.  
+    **Answer**: A-B-E-C-D
+
+64. **Question**: Arrange: (A) in crisis, (B) with composure, (C) she (D) handled (E) situations  
+    **Solution**:  
+    Subject-verb-object-adverb: She handled situations in crisis with composure.  
+    **Answer**: C-D-E-A-B
+
+65. **Question**: Arrange: (A) the policy, (B) with unintended (C) consequences, (D) was implemented, (E) severe  
+    **Solution**:  
+    Subject-verb-adverb-object: The policy was implemented with unintended severe consequences.  
+    **Answer**: A-D-B-E-C
+
+66. **Question**: Arrange: (A) the artist, (B) with bold (C) created, (D) strokes, (E) a masterpiece  
+    **Solution**:  
+    Subject-verb-object-adverb: The artist, with bold strokes, created a masterpiece.  
+    **Answer**: A-B-D-C-E
+
+67. **Question**: Arrange: (A) the lecture, (B) with profound (C) inspired, (D) insights, (E) students  
+    **Solution**:  
+    Subject-verb-object-adverb: The lecture, with profound insights, inspired students.  
+    **Answer**: A-B-D-C-E
+
+68. **Question**: Arrange: (A) with unwavering (B) he (C) pursued, (D) determination, (E) his goals  
+    **Solution**:  
+    Subject-verb-object-adverb: He pursued his goals with unwavering determination.  
+    **Answer**: B-C-E-A-D
+
+69. **Question**: Arrange: (A) the decision, (B) with far-reaching (C) was made, (D) implications, (E) hastily  
+    **Solution**:  
+    Subject-verb-adverb-object: The decision was made hastily with far-reaching implications.  
+    **Answer**: A-C-E-B-D
+
+70. **Question**: Arrange: (A) the debate, (B) with compelling (C) arguments, (D) concluded, (E) decisively  
+    **Solution**:  
+    Subject-verb-adverb-object: The debate concluded decisively with compelling arguments.  
+    **Answer**: A-D-E-B-C
+
+## Cloze Test
+**Passage (Questions 71–75)**:  
+Leadership is not about authority but about __71__ others to achieve a shared vision. Effective leaders __72__ trust and foster collaboration. They navigate __73__ with resilience, adapting to change. However, leadership demands __74__ to ethical principles. Without integrity, a leader’s influence is __75__.
+
+71. **Question**: Choose the word for __71__: A) Commanding B) Inspiring C) Controlling D) Directing  
+    **Solution**:  
+    Shared vision suggests motivation. Inspiring fits best.  
+    **Answer**: B) Inspiring
+
+72. **Question**: Choose the word for __72__: A) Undermine B) Cultivate C) Ignore D) Suppress  
+    **Solution**:  
+    Trust is built actively. Cultivate is appropriate.  
+    **Answer**: B) Cultivate
+
+73. **Question**: Choose the word for __73__: A) Stability B) Challenges C) Routine D) Predictability  
+    **Solution**:  
+    Resilience implies difficulties. Challenges fits best.  
+    **Answer**: B) Challenges
+
+74. **Question**: Choose the word for __74__: A) Indifference B) Adherence C) Resistance D) Deviation  
+    **Solution**:  
+    Ethics requires commitment. Adherence is appropriate.  
+    **Answer**: B) Adherence
+
+75. **Question**: Choose the word for __75__: A) Amplified B) Diminished C) Sustained D) Enhanced  
+    **Solution**:  
+    Lack of integrity weakens influence. Diminished fits best.  
+    **Answer**: B) Diminished
+
+**Passage (Questions 76–80)**:  
+Innovation drives progress but often __76__ resistance. New ideas challenge __77__ norms, causing discomfort. Successful innovators __78__ this opposition by demonstrating value. However, innovation must be __79__ with caution to avoid unintended consequences. Ultimately, it __80__ society forward.
+
+76. **Question**: Choose the word for __76__: A) Eliminates B) Encounters C) Ignores D) Bypasses  
+    **Solution**:  
+    Innovation faces obstacles. Encounters fits best.  
+    **Answer**: B) Encounters
+
+77. **Question**: Choose the word for __77__: A) Flexible B) Established C) Temporary D) Evolving  
+    **Solution**:  
+    Norms resisted are set. Established is appropriate.  
+    **Answer**: B) Established
+
+78. **Question**: Choose the word for __78**: A) Avoid B) Overcome C) Accept D) Dismiss  
+    **Solution**:  
+    Innovators address opposition. Overcome fits best.  
+    **Answer**: B) Overcome
+
+79. **Question**: Choose the word for __79**: A) Pursued B) Tempered C) Ignored D) Accelerated  
+    **Solution**:  
+    Caution balances innovation. Tempered is appropriate.  
+    **Answer**: B) Tempered
+
+80. **Question**: Choose the word for __80__: A) Stagnates B) Propels C) Hinders D) Delays  
+    **Solution**:  
+    Innovation advances society. Propels fits best.  
+    **Answer**: B) Propels
+
+## Idioms/Phrases
+81. **Question**: Meaning of “Cast pearls before swine”: A) Share wisdom with the wise B) Waste value on the unworthy C) Teach valuable lessons D) Reward the undeserving  
+    **Solution**:  
+    Means giving something valuable to those who don’t appreciate it.  
+    **Answer**: B) Waste value on the unworthy
+
+82. **Question**: Meaning of “Gild the lily”: A) Improve something simple B) Overembellish something already beautiful C) Simplify a complex issue D) Clarify a misunderstanding  
+    **Solution**:  
+    Means adding unnecessary adornment.  
+    **Answer**: B) Overembellish something already beautiful
+
+83. **Question**: Meaning of “Hobson’s choice”: A) Multiple options B) No real choice C) Best option D) Risky decision  
+    **Solution**:  
+    Means a choice where only one option is offered.  
+    **Answer**: B) No real choice
+
+84. **Question**: Meaning of “In the doldrums”: A) Highly active B) In a slump C) Full of energy D) Making progress  
+    **Solution**:  
+    Means in a state of stagnation or depression.  
+    **Answer**: B) In a slump
+
+85. **Question**: Meaning of “Take the bull by the horns”: A) Avoid confrontation B) Face a problem directly C) Delay action D) Delegate responsibility  
+    **Solution**:  
+    Means to tackle a challenge head-on.  
+    **Answer**: B) Face a problem directly
+
+86. **Question**: Meaning of “A Pyrrhic victory”: A) Decisive win B) Victory at great cost C) Easy triumph D) Shared success  
+    **Solution**:  
+    Means a win that inflicts heavy losses.  
+    **Answer**: B) Victory at great cost
+
+87. **Question**: Meaning of “Bête noire”: A) Close friend B) Object of dislike C) Favorite hobby D) Trusted ally  
+    **Solution**:  
+    Means something or someone strongly disliked.  
+    **Answer**: B) Object of dislike
+
+88. **Question**: Meaning of “Run the gauntlet”: A) Escape danger B) Face severe criticism C) Win easily D) Avoid challenges  
+    **Solution**:  
+    Means enduring harsh trials or criticism.  
+    **Answer**: B) Face severe criticism
+
+89. **Question**: Meaning of “Turn a blind eye”: A) Pay close attention B) Ignore deliberately C) Investigate thoroughly D) Act cautiously  
+    **Solution**:  
+    Means to pretend not to notice.  
+    **Answer**: B) Ignore deliberately
+
+90. **Question**: Meaning of “Wear your heart on your sleeve”: A) Hide emotions B) Show emotions openly C) Act rationally D) Suppress feelings  
+    **Solution**:  
+    Means to display emotions openly.  
+    **Answer**: B) Show emotions openly
+
+## Verbal Analogies
+91. **Question**: Lexicon : Words :: Palette : ?  
+    **Solution**:  
+    A lexicon contains words for language; a palette contains colors for painting.  
+    **Answer**: Colors
+
+92. **Question**: Symphony : Orchestra :: Theorem : ?  
+    **Solution**:  
+    A symphony is performed by an orchestra; a theorem is developed by a mathematician.  
+    **Answer**: Mathematician
+
+93. **Question**: Compass : Navigation :: Sextant : ?  
+    **Solution**:  
+    A compass aids navigation; a sextant aids astronomy (for navigation).  
+    **Answer**: Astronomy
+
+94. **Question**: Glacier : Ice :: Volcano : ?  
+    **Solution**:  
+    A glacier is composed of ice; a volcano is composed of lava.  
+    **Answer**: Lava
+
+95. **Question**: Canvas : Painter :: Manuscript : ?  
+    **Solution**:  
+    A canvas is a painter’s medium; a manuscript is a writer’s medium.  
+    **Answer**: Writer
+
+96. **Question**: Neuron : Brain :: Circuit : ?  
+    **Solution**:  
+    Neurons are units of the brain; circuits are units of a computer.  
+    **Answer**: Computer
+
+97. **Question**: Rudder : Ship :: Joystick : ?  
+    **Solution**:  
+    A rudder controls a ship’s direction; a joystick controls an aircraft’s direction.  
+    **Answer**: Aircraft
+
+98. **Question**: Microscope : Cell :: Telescope : ?  
+    **Solution**:  
+    A microscope reveals cells; a telescope reveals stars.  
+    **Answer**: Stars
+
+99. **Question**: Algorithm : Programming :: Recipe : ?  
+    **Solution**:  
+    An algorithm is a procedure in programming; a recipe is a procedure in cooking.  
+    **Answer**: Cooking
+
+100. **Question**: Anvil : Blacksmith :: Beaker : ?  
+     **Solution**:  
+     An anvil is a tool for a blacksmith; a beaker is a tool for a chemist.  
+     **Answer**: Chemist

@@ -1,0 +1,2432 @@
+[
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 1,
+    "questionText": "Choose the synonym for \"Abundant\": A) Scarce B) Plentiful C) Limited D) Rare",
+    "options": [],
+    "correctAnswer": "B) Plentiful",
+    "explanation": "Abundant means existing in large quantities. Plentiful is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 2,
+    "questionText": "Find the synonym for \"Candid\": A) Deceptive B) Honest C) Reserved D) Shy",
+    "options": [],
+    "correctAnswer": "B) Honest",
+    "explanation": "Candid means truthful and straightforward. Honest is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 3,
+    "questionText": "Synonym for \"Eloquent\": A) Silent B) Articulate C) Hesitant D) Vague",
+    "options": [],
+    "correctAnswer": "B) Articulate",
+    "explanation": "Eloquent means fluent or persuasive in speech. Articulate is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 4,
+    "questionText": "Choose the synonym for \"Fragile\": A) Sturdy B) Delicate C) Strong D) Robust",
+    "options": [],
+    "correctAnswer": "B) Delicate",
+    "explanation": "Fragile means easily broken. Delicate is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 5,
+    "questionText": "Synonym for \"Zealous\": A) Indifferent B) Enthusiastic C) Lazy D) Apathetic",
+    "options": [],
+    "correctAnswer": "B) Enthusiastic",
+    "explanation": "Zealous means passionate or fervent. Enthusiastic is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 6,
+    "questionText": "Find the synonym for \"Obscure\": A) Clear B) Hidden C) Obvious D) Transparent",
+    "options": [],
+    "correctAnswer": "B) Hidden",
+    "explanation": "Obscure means unclear or concealed. Hidden is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 7,
+    "questionText": "Synonym for \"Meticulous\": A) Careless B) Precise C) Hasty D) Negligent",
+    "options": [],
+    "correctAnswer": "B) Precise",
+    "explanation": "Meticulous means showing great attention to detail. Precise is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 8,
+    "questionText": "Choose the synonym for \"Vivid\": A) Dull B) Bright C) Faint D) Pale",
+    "options": [],
+    "correctAnswer": "B) Bright",
+    "explanation": "Vivid means clear and striking. Bright is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 9,
+    "questionText": "Synonym for \"Prudent\": A) Reckless B) Cautious C) Impulsive D) Rash",
+    "options": [],
+    "correctAnswer": "B) Cautious",
+    "explanation": "Prudent means careful and sensible. Cautious is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 10,
+    "questionText": "Find the synonym for \"Amicable\": A) Hostile B) Friendly C) Cold D) Distant",
+    "options": [],
+    "correctAnswer": "B) Friendly",
+    "explanation": "Amicable means characterized by friendliness. Friendly is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 11,
+    "questionText": "Choose the antonym for \"Big\": A) Large B) Small C) Huge D) Vast",
+    "options": [],
+    "correctAnswer": "B) Small",
+    "explanation": "Big means large in size. Small is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 12,
+    "questionText": "Find the antonym for \"Bright\": A) Radiant B) Dim C) Shiny D) Glowing",
+    "options": [],
+    "correctAnswer": "B) Dim",
+    "explanation": "Bright means full of light. Dim means lacking light."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 13,
+    "questionText": "Antonym for \"Fast\": A) Quick B) Slow C) Rapid D) Swift",
+    "options": [],
+    "correctAnswer": "B) Slow",
+    "explanation": "Fast means moving quickly. Slow is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 14,
+    "questionText": "Choose the antonym for \"Happy\": A) Joyful B) Sad C) Cheerful D) Delighted",
+    "options": [],
+    "correctAnswer": "B) Sad",
+    "explanation": "Happy means feeling pleasure. Sad is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 15,
+    "questionText": "Antonym for \"Strong\": A) Powerful B) Weak C) Sturdy D) Robust",
+    "options": [],
+    "correctAnswer": "B) Weak",
+    "explanation": "Strong means having power. Weak is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 16,
+    "questionText": "Find the antonym for \"Open\": A) Unlocked B) Closed C) Accessible D) Free",
+    "options": [],
+    "correctAnswer": "B) Closed",
+    "explanation": "Open means not shut. Closed is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 17,
+    "questionText": "Antonym for \"Old\": A) Ancient B) New C) Aged D) Vintage",
+    "options": [],
+    "correctAnswer": "B) New",
+    "explanation": "Old means having existed for a long time. New is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 18,
+    "questionText": "Choose the antonym for \"Rich\": A) Wealthy B) Poor C) Affluent D) Prosperous",
+    "options": [],
+    "correctAnswer": "B) Poor",
+    "explanation": "Rich means having wealth. Poor is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 19,
+    "questionText": "Antonym for \"Tall\": A) High B) Short C) Long D) Elevated",
+    "options": [],
+    "correctAnswer": "B) Short",
+    "explanation": "Tall means having great height. Short is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 20,
+    "questionText": "Find the antonym for \"Easy\": A) Simple B) Difficult C) Effortless D) Smooth",
+    "options": [],
+    "correctAnswer": "B) Difficult",
+    "explanation": "Easy means not hard. Difficult is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 21,
+    "questionText": "She was ______ to attend the meeting due to her busy schedule.  \r\n    A) Able B) Unable C) Willing D) Eager",
+    "options": [],
+    "correctAnswer": "B) Unable",
+    "explanation": "The context suggests she couldn’t attend due to busyness. Unable fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 22,
+    "questionText": "His ______ attitude made everyone feel welcome.  \r\n    A) Cold B) Friendly C) Rude D) Distant",
+    "options": [],
+    "correctAnswer": "B) Friendly",
+    "explanation": "Feeling welcome implies a positive attitude. Friendly is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 23,
+    "questionText": "The team worked ______ to complete the project on time.  \r\n    A) Lazily B) Diligently C) Carelessly D) Slowly",
+    "options": [],
+    "correctAnswer": "B) Diligently",
+    "explanation": "Completing on time suggests hard work. Diligently fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 24,
+    "questionText": "The movie was so ______ that I fell asleep.  \r\n    A) Exciting B) Boring C) Thrilling D) Engaging",
+    "options": [],
+    "correctAnswer": "B) Boring",
+    "explanation": "Falling asleep implies lack of interest. Boring is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 25,
+    "questionText": "He spoke with such ______ that everyone listened attentively.  \r\n    A) Confusion B) Clarity C) Hesitation D) Doubt",
+    "options": [],
+    "correctAnswer": "B) Clarity",
+    "explanation": "Attentive listening suggests clear speech. Clarity fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 26,
+    "questionText": "The instructions were ______ and easy to follow.  \r\n    A) Vague B) Clear C) Complex D) Confusing",
+    "options": [],
+    "correctAnswer": "B) Clear",
+    "explanation": "Easy to follow implies simplicity. Clear is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 27,
+    "questionText": "She felt ______ after receiving the award.  \r\n    A) Sad B) Elated C) Angry D) Tired",
+    "options": [],
+    "correctAnswer": "B) Elated",
+    "explanation": "Receiving an award suggests happiness. Elated fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 28,
+    "questionText": "The room was ______ after the children left.  \r\n    A) Tidy B) Messy C) Clean D) Organized",
+    "options": [],
+    "correctAnswer": "B) Messy",
+    "explanation": "Children leaving often implies disorder. Messy is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 29,
+    "questionText": "His ______ behavior annoyed everyone.  \r\n    A) Polite B) Rude C) Kind D) Gentle",
+    "options": [],
+    "correctAnswer": "B) Rude",
+    "explanation": "Annoying suggests negative behavior. Rude fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 30,
+    "questionText": "The weather was ______ for a picnic.  \r\n    A) Terrible B) Perfect C) Cold D) Rainy",
+    "options": [],
+    "correctAnswer": "B) Perfect",
+    "explanation": "A picnic implies good weather. Perfect is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 31,
+    "questionText": "Identify the error: She *go* to school every day.",
+    "options": [],
+    "correctAnswer": "go → goes",
+    "explanation": "Subject \"She\" (third person singular) requires \"goes.\" Error: *go*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 32,
+    "questionText": "Find the error: The boys *is* playing football.",
+    "options": [],
+    "correctAnswer": "is → are",
+    "explanation": "Plural subject \"boys\" requires \"are.\" Error: *is*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 33,
+    "questionText": "Spot the error: He *don’t* like to read books.",
+    "options": [],
+    "correctAnswer": "don’t → doesn’t",
+    "explanation": "Third person singular \"He\" requires \"doesn’t.\" Error: *don’t*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 34,
+    "questionText": "Identify the error: I saw *a elephant* in the zoo.",
+    "options": [],
+    "correctAnswer": "a → an",
+    "explanation": "\"Elephant\" starts with a vowel sound, so use \"an.\" Error: *a*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 35,
+    "questionText": "Find the error: She is *more taller* than her brother.",
+    "options": [],
+    "correctAnswer": "more → remove more",
+    "explanation": "Comparative \"taller\" doesn’t need \"more.\" Error: *more*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 36,
+    "questionText": "Spot the error: They *was* waiting for the bus.",
+    "options": [],
+    "correctAnswer": "was → were",
+    "explanation": "Plural subject \"They\" requires \"were.\" Error: *was*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 37,
+    "questionText": "Identify the error: The book *is* on the tables.",
+    "options": [],
+    "correctAnswer": "tables → table",
+    "explanation": "Singular \"book\" implies one table. Error: *tables*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 38,
+    "questionText": "Find the error: He *run* very fast yesterday.",
+    "options": [],
+    "correctAnswer": "run → ran",
+    "explanation": "Past tense requires \"ran.\" Error: *run*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 39,
+    "questionText": "Spot the error: This is *mines* book.",
+    "options": [],
+    "correctAnswer": "mines → mine",
+    "explanation": "Possessive pronoun is \"mine,\" not \"mines.\" Error: *mines*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 40,
+    "questionText": "Identify the error: We *goes* to the park on Sundays.",
+    "options": [],
+    "correctAnswer": "goes → go",
+    "explanation": "Plural subject \"We\" requires \"go.\" Error: *goes*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 51,
+    "questionText": "What is the sun’s role in the solar system?",
+    "options": [],
+    "correctAnswer": "It is the central star and maintains planetary orbits.",
+    "explanation": "The passage states the sun is at the center and keeps planets in orbit via gravity."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 52,
+    "questionText": "How do plants use sunlight?",
+    "options": [],
+    "correctAnswer": "For photosynthesis to produce oxygen.",
+    "explanation": "Plants use sunlight for photosynthesis, producing oxygen."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 53,
+    "questionText": "What enables life on Earth according to the passage?",
+    "options": [],
+    "correctAnswer": "The sun’s energy.",
+    "explanation": "The sun provides energy, enabling life."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 54,
+    "questionText": "How old is the sun?",
+    "options": [],
+    "correctAnswer": "4.6 billion years.",
+    "explanation": "The passage states it is about 4.6 billion years old."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 55,
+    "questionText": "How long is the sun expected to last?",
+    "options": [],
+    "correctAnswer": "5 billion years.",
+    "explanation": "It will last another 5 billion years."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 56,
+    "questionText": "What are books a source of?",
+    "options": [],
+    "correctAnswer": "Knowledge and entertainment.",
+    "explanation": "Books are a source of knowledge and entertainment."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 57,
+    "questionText": "What do books allow readers to do?",
+    "options": [],
+    "correctAnswer": "Explore new worlds and ideas.",
+    "explanation": "Explore new worlds and ideas."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 58,
+    "questionText": "How does reading benefit readers?",
+    "options": [],
+    "correctAnswer": "Improves vocabulary and critical thinking.",
+    "explanation": "Improves vocabulary and critical thinking."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 59,
+    "questionText": "What do libraries provide?",
+    "options": [],
+    "correctAnswer": "Free access to books.",
+    "explanation": "Free access to books."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 60,
+    "questionText": "What is mentioned about digital books?",
+    "options": [],
+    "correctAnswer": "They are popular.",
+    "explanation": "They are popular now."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 61,
+    "questionText": "Arrange: (A) to school (B) every day (C) she (D) walks",
+    "options": [],
+    "correctAnswer": "C-D-A-B",
+    "explanation": "Subject-verb-object: She walks to school every day."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 62,
+    "questionText": "Arrange: (A) the cat (B) on the mat (C) sleeps (D) quietly",
+    "options": [],
+    "correctAnswer": "A-C-B-D",
+    "explanation": "Subject-verb-place-adverb: The cat sleeps on the mat quietly."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 63,
+    "questionText": "Arrange: (A) a book (B) he (C) reads (D) daily",
+    "options": [],
+    "correctAnswer": "B-C-A-D",
+    "explanation": "Subject-verb-object-adverb: He reads a book daily."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 64,
+    "questionText": "Arrange: (A) in the park (B) they (C) play (D) football",
+    "options": [],
+    "correctAnswer": "B-C-D-A",
+    "explanation": "Subject-verb-object-place: They play football in the park."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 65,
+    "questionText": "Arrange: (A) is (B) the sky (C) blue (D) today",
+    "options": [],
+    "correctAnswer": "B-A-C-D",
+    "explanation": "Subject-verb-complement-adverb: The sky is blue today."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 66,
+    "questionText": "Arrange: (A) every morning (B) she (C) jogs (D) in the park",
+    "options": [],
+    "correctAnswer": "B-C-D-A",
+    "explanation": "Subject-verb-place-time: She jogs in the park every morning."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 67,
+    "questionText": "Arrange: (A) the dog (B) barks (C) at strangers (D) loudly",
+    "options": [],
+    "correctAnswer": "A-B-C-D",
+    "explanation": "Subject-verb-object-adverb: The dog barks at strangers loudly."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 68,
+    "questionText": "Arrange: (A) to the store (B) I (C) went (D) yesterday",
+    "options": [],
+    "correctAnswer": "B-C-A-D",
+    "explanation": "Subject-verb-place-time: I went to the store yesterday."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 69,
+    "questionText": "Arrange: (A) is (B) the flower (C) beautiful (D) very",
+    "options": [],
+    "correctAnswer": "B-A-D-C",
+    "explanation": "Subject-verb-complement-adverb: The flower is very beautiful."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 70,
+    "questionText": "Arrange: (A) at night (B) he (C) studies (D) quietly",
+    "options": [],
+    "correctAnswer": "B-C-D-A",
+    "explanation": "Subject-verb-adverb-place: He studies quietly at night."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 71,
+    "questionText": "Choose the word for __71__: A) Runs B) Goes C) Walks D) Jumps",
+    "options": [],
+    "correctAnswer": "B) Goes",
+    "explanation": "\"To the park\" suggests movement. Goes is most appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 72,
+    "questionText": "Choose the word for __72__: A) Takes B) Brings C) Carries D) Holds",
+    "options": [],
+    "correctAnswer": "A) Takes",
+    "explanation": "Bringing a dog implies Takes."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 73,
+    "questionText": "Choose the word for __73__: A) Sit B) Play C) Sleep D) Eat",
+    "options": [],
+    "correctAnswer": "B) Play",
+    "explanation": "An hour in the park suggests Play."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 74,
+    "questionText": "Choose the word for __74__: A) Kick B) Chase C) Throw D) Catch",
+    "options": [],
+    "correctAnswer": "B) Chase",
+    "explanation": "Dogs typically chase balls."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 75,
+    "questionText": "Choose the word for __75__: A) Sadly B) Very C) Never D) Always",
+    "options": [],
+    "correctAnswer": "D) Always",
+    "explanation": "Returning happy suggests Always."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 76,
+    "questionText": "Choose the word for __76__: A) Bad B) Good C) Poor D) Weak",
+    "options": [],
+    "correctAnswer": "B) Good",
+    "explanation": "Reading is positive. Good fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 77,
+    "questionText": "Choose the word for __77__: A) Forget B) Learn C) Ignore D) Lose",
+    "options": [],
+    "correctAnswer": "B) Learn",
+    "explanation": "Reading leads to learning."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 78,
+    "questionText": "Choose the word for __78__: A) Enemies B) Friends C) Strangers D) Foes",
+    "options": [],
+    "correctAnswer": "B) Friends",
+    "explanation": "Guides are positive, like Friends."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 79,
+    "questionText": "Choose the word for __79__: A) Never B) Wherever C) Rarely D) Seldom",
+    "options": [],
+    "correctAnswer": "B) Wherever",
+    "explanation": "Freedom to read suggests Wherever."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 80,
+    "questionText": "Choose the word for __80__: A) Dull B) Rich C) Poor D) Sad",
+    "options": [],
+    "correctAnswer": "B) Rich",
+    "explanation": "Reading enhances life, so Rich."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 81,
+    "questionText": "Meaning of “Break the ice”: A) Cause trouble B) Start a conversation C) End a fight D) Make a mistake",
+    "options": [],
+    "correctAnswer": "B) Start a conversation",
+    "explanation": "Break the ice means to initiate conversation."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 82,
+    "questionText": "Meaning of “Piece of cake”: A) Difficult task B) Easy task C) Expensive item D) Rare event",
+    "options": [],
+    "correctAnswer": "B) Easy task",
+    "explanation": "Piece of cake means something easy."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 83,
+    "questionText": "Meaning of “Spill the beans”: A) Reveal a secret B) Cook food C) Make a mess D) Share money",
+    "options": [],
+    "correctAnswer": "A) Reveal a secret",
+    "explanation": "Spill the beans means to disclose a secret."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 84,
+    "questionText": "Meaning of “Bite the bullet”: A) Avoid pain B) Face a challenge C) Run away D) Eat quickly",
+    "options": [],
+    "correctAnswer": "B) Face a challenge",
+    "explanation": "Bite the bullet means to endure a difficult situation."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 85,
+    "questionText": "Meaning of “Under the weather”: A) Feeling well B) Feeling unwell C) Traveling D) Working hard",
+    "options": [],
+    "correctAnswer": "B) Feeling unwell",
+    "explanation": "Under the weather means feeling sick."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 86,
+    "questionText": "Meaning of “Kick the bucket”: A) Die B) Start a fight C) Win a game D) Begin work",
+    "options": [],
+    "correctAnswer": "A) Die",
+    "explanation": "Kick the bucket is a euphemism for dying."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 87,
+    "questionText": "Meaning of “Let the cat out of the bag”: A) Buy a pet B) Reveal a secret C) Start a project D) End a meeting",
+    "options": [],
+    "correctAnswer": "B) Reveal a secret",
+    "explanation": "Let the cat out of the bag means to reveal a secret."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 88,
+    "questionText": "Meaning of “Hit the nail on the head”: A) Make a mistake B) Be exactly right C) Start a fight D) Build something",
+    "options": [],
+    "correctAnswer": "B) Be exactly right",
+    "explanation": "Hit the nail on the head means to be precise."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 89,
+    "questionText": "Meaning of “Bark up the wrong tree”: A) Make a mistake B) Climb a tree C) Win a prize D) Start a business",
+    "options": [],
+    "correctAnswer": "A) Make a mistake",
+    "explanation": "Bark up the wrong tree means to be mistaken about something."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 90,
+    "questionText": "Meaning of “A dime a dozen”: A) Very rare B) Very common C) Expensive D) Unique",
+    "options": [],
+    "correctAnswer": "B) Very common",
+    "explanation": "A dime a dozen means very common."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 91,
+    "questionText": "Big : Small :: High : ?",
+    "options": [],
+    "correctAnswer": "Low",
+    "explanation": "Big is the opposite of small. High’s opposite is low."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 92,
+    "questionText": "Cat : Kitten :: Dog : ?",
+    "options": [],
+    "correctAnswer": "Puppy",
+    "explanation": "Kitten is a young cat. Puppy is a young dog."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 93,
+    "questionText": "Pen : Write :: Brush : ?",
+    "options": [],
+    "correctAnswer": "Paint",
+    "explanation": "A pen is used to write. A brush is used to paint."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 94,
+    "questionText": "Book : Page :: House : ?",
+    "options": [],
+    "correctAnswer": "Room",
+    "explanation": "A book contains pages. A house contains rooms."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 95,
+    "questionText": "Teacher : Classroom :: Chef : ?",
+    "options": [],
+    "correctAnswer": "Kitchen",
+    "explanation": "A teacher works in a classroom. A chef works in a kitchen."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 96,
+    "questionText": "Sun : Day :: Moon : ?",
+    "options": [],
+    "correctAnswer": "Night",
+    "explanation": "The sun is associated with day. The moon is associated with night."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 97,
+    "questionText": "Car : Wheel :: Table : ?",
+    "options": [],
+    "correctAnswer": "Leg",
+    "explanation": "A car has wheels as parts. A table has legs as parts."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 98,
+    "questionText": "Bird : Fly :: Fish : ?",
+    "options": [],
+    "correctAnswer": "Swim",
+    "explanation": "A bird moves by flying. A fish moves by swimming."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "easy",
+    "questionNumber": 99,
+    "questionText": "Clock : Time :: Thermometer : ?",
+    "options": [],
+    "correctAnswer": "Temperature",
+    "explanation": "A clock measures time. A thermometer measures temperature."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 100,
+    "questionText": "Tree : Leaf :: Flower : ?",
+    "options": [],
+    "correctAnswer": "Petal",
+    "explanation": "A tree has leaves as parts. A flower has petals as parts."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 1,
+    "questionText": "Choose the synonym for \"Ephemeral\": A) Permanent B) Transient C) Enduring D) Lasting",
+    "options": [],
+    "correctAnswer": "B) Transient",
+    "explanation": "Ephemeral means short-lived. Transient is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 2,
+    "questionText": "Find the synonym for \"Perspicuous\": A) Vague B) Clear C) Obscure D) Complex",
+    "options": [],
+    "correctAnswer": "B) Clear",
+    "explanation": "Perspicuous means clearly expressed. Clear is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 3,
+    "questionText": "Synonym for \"Tenacious\": A) Yielding B) Persistent C) Weak D) Flexible",
+    "options": [],
+    "correctAnswer": "B) Persistent",
+    "explanation": "Tenacious means holding firm. Persistent is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 4,
+    "questionText": "Choose the synonym for \"Obstreperous\": A) Quiet B) Noisy C) Calm D) Submissive",
+    "options": [],
+    "correctAnswer": "B) Noisy",
+    "explanation": "Obstreperous means difficult to control and noisy. Noisy is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 5,
+    "questionText": "Synonym for \"Proclivity\": A) Aversion B) Tendency C) Dislike D) Opposition",
+    "options": [],
+    "correctAnswer": "B) Tendency",
+    "explanation": "Proclivity means a natural inclination. Tendency is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 6,
+    "questionText": "Find the synonym for \"Ebullient\": A) Depressed B) Enthusiastic C) Reserved D) Somber",
+    "options": [],
+    "correctAnswer": "B) Enthusiastic",
+    "explanation": "Ebullient means cheerful and full of energy. Enthusiastic is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 7,
+    "questionText": "Synonym for \"Fastidious\": A) Careless B) Meticulous C) Hasty D) Negligent",
+    "options": [],
+    "correctAnswer": "B) Meticulous",
+    "explanation": "Fastidious means very attentive to detail. Meticulous is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 8,
+    "questionText": "Choose the synonym for \"Quixotic\": A) Practical B) Unrealistic C) Sensible D) Rational",
+    "options": [],
+    "correctAnswer": "B) Unrealistic",
+    "explanation": "Quixotic means impractical or unrealistic. Unrealistic is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 9,
+    "questionText": "Synonym for \"Sagacious\": A) Foolish B) Wise C) Ignorant D) Naive",
+    "options": [],
+    "correctAnswer": "B) Wise",
+    "explanation": "Sagacious means having keen judgment. Wise is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 10,
+    "questionText": "Find the synonym for \"Taciturn\": A) Talkative B) Reserved C) Outgoing D) Loquacious",
+    "options": [],
+    "correctAnswer": "B) Reserved",
+    "explanation": "Taciturn means silent or reserved in speech. Reserved is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 11,
+    "questionText": "Choose the antonym for \"Candid\": A) Honest B) Deceptive C) Sincere D) Open",
+    "options": [],
+    "correctAnswer": "B) Deceptive",
+    "explanation": "Candid means truthful. Deceptive means misleading, the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 12,
+    "questionText": "Find the antonym for \"Austere\": A) Harsh B) Luxurious C) Severe D) Plain",
+    "options": [],
+    "correctAnswer": "B) Luxurious",
+    "explanation": "Austere means simple or severe. Luxurious is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 13,
+    "questionText": "Antonym for \"Eminent\": A) Prominent B) Obscure C) Notable D) Distinguished",
+    "options": [],
+    "correctAnswer": "B) Obscure",
+    "explanation": "Eminent means well-known. Obscure means unknown, the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 14,
+    "questionText": "Choose the antonym for \"Prodigal\": A) Wasteful B) Frugal C) Extravagant D) Lavish",
+    "options": [],
+    "correctAnswer": "B) Frugal",
+    "explanation": "Prodigal means wasteful. Frugal means economical, the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 15,
+    "questionText": "Antonym for \"Verbose\": A) Wordy B) Concise C) Talkative D) Loquacious",
+    "options": [],
+    "correctAnswer": "B) Concise",
+    "explanation": "Verbose means using too many words. Concise means brief, the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 16,
+    "questionText": "Find the antonym for \"Obsolete\": A) Outdated B) Modern C) Old D) Ancient",
+    "options": [],
+    "correctAnswer": "B) Modern",
+    "explanation": "Obsolete means no longer in use. Modern is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 17,
+    "questionText": "Antonym for \"Zeal\": A) Passion B) Apathy C) Enthusiasm D) Fervor",
+    "options": [],
+    "correctAnswer": "B) Apathy",
+    "explanation": "Zeal means great enthusiasm. Apathy means lack of interest, the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 18,
+    "questionText": "Choose the antonym for \"Vindictive\": A) Spiteful B) Forgiving C) Malicious D) Revengeful",
+    "options": [],
+    "correctAnswer": "B) Forgiving",
+    "explanation": "Vindictive means seeking revenge. Forgiving is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 19,
+    "questionText": "Antonym for \"Candid\": A) Frank B) Secretive C) Honest D) Straightforward",
+    "options": [],
+    "correctAnswer": "B) Secretive",
+    "explanation": "Candid means open and honest. Secretive means withholding information, the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 20,
+    "questionText": "Find the antonym for \"Transient\": A) Fleeting B) Permanent C) Temporary D) Brief",
+    "options": [],
+    "correctAnswer": "B) Permanent",
+    "explanation": "Transient means short-lived. Permanent is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 21,
+    "questionText": "Despite his ______ demeanor, he was deeply concerned about the project’s success.  \r\n    A) Enthusiastic B) Nonchalant C) Passionate D) Eager",
+    "options": [],
+    "correctAnswer": "B) Nonchalant",
+    "explanation": "Contrast with “deeply concerned” suggests a lack of outward emotion. Nonchalant (carefree) fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 22,
+    "questionText": "The lecture was so ______ that many students lost interest.  \r\n    A) Engaging B) Tedious C) Inspiring D) Lively",
+    "options": [],
+    "correctAnswer": "B) Tedious",
+    "explanation": "Losing interest implies boring content. Tedious is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 23,
+    "questionText": "Her ______ approach to problem-solving earned her respect from colleagues.  \r\n    A) Hasty B) Methodical C) Careless D) Impulsive",
+    "options": [],
+    "correctAnswer": "B) Methodical",
+    "explanation": "Earning respect suggests careful work. Methodical fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 24,
+    "questionText": "The manager’s ______ decision led to unexpected profits.  \r\n    A) Reckless B) Astute C) Foolish D) Hasty",
+    "options": [],
+    "correctAnswer": "B) Astute",
+    "explanation": "Unexpected profits imply a smart choice. Astute (shrewd) is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 25,
+    "questionText": "The novel’s ______ plot kept readers engaged until the last page.  \r\n    A) Predictable B) Intricate C) Simple D) Boring",
+    "options": [],
+    "correctAnswer": "B) Intricate",
+    "explanation": "Keeping readers engaged suggests complexity. Intricate fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 26,
+    "questionText": "His ______ remarks offended the audience.  \r\n    A) Polite B) Caustic C) Kind D) Gentle",
+    "options": [],
+    "correctAnswer": "B) Caustic",
+    "explanation": "Offending suggests harsh words. Caustic (biting) is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 27,
+    "questionText": "The team’s ______ efforts resulted in a flawless presentation.  \r\n    A) Disorganized B) Concerted C) Haphazard D) Careless",
+    "options": [],
+    "correctAnswer": "B) Concerted",
+    "explanation": "Flawless suggests coordinated work. Concerted fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 28,
+    "questionText": "She handled the crisis with ______ composure.  \r\n    A) Nervous B) Remarkable C) Fragile D) Unsteady",
+    "options": [],
+    "correctAnswer": "B) Remarkable",
+    "explanation": "Handling a crisis well suggests calmness. Remarkable fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 29,
+    "questionText": "The politician’s ______ promises failed to convince voters.  \r\n    A) Sincere B) Hollow C) Genuine D) Heartfelt",
+    "options": [],
+    "correctAnswer": "B) Hollow",
+    "explanation": "Failing to convince suggests lack of sincerity. Hollow is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 30,
+    "questionText": "His ______ attitude made negotiations difficult.  \r\n    A) Flexible B) Inflexible C) Cooperative D) Amiable",
+    "options": [],
+    "correctAnswer": "B) Inflexible",
+    "explanation": "Difficult negotiations suggest rigidity. Inflexible fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 31,
+    "questionText": "Identify the error: Neither of the boys *have* finished their work.",
+    "options": [],
+    "correctAnswer": "have → has",
+    "explanation": "“Neither” is singular, requiring “has.” Error: *have*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 32,
+    "questionText": "Find the error: She *lay* the book on the table yesterday.",
+    "options": [],
+    "correctAnswer": "lay → laid",
+    "explanation": "Past tense of “lie” (recline) is “lay”; for “place,” use “laid.” Error: *lay*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 33,
+    "questionText": "Spot the error: The team *comprises* of five members.",
+    "options": [],
+    "correctAnswer": "of → remove of",
+    "explanation": "“Comprises” means includes, not followed by “of.” Error: *of*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 34,
+    "questionText": "Identify the error: He is *more* interested in games than *study*.",
+    "options": [],
+    "correctAnswer": "study → studying",
+    "explanation": "Parallel structure requires “studying” or “studies.” Error: *study*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 35,
+    "questionText": "Find the error: Each of the students *were* given a book.",
+    "options": [],
+    "correctAnswer": "were → was",
+    "explanation": "“Each” is singular, requiring “was.” Error: *were*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 36,
+    "questionText": "Spot the error: She *has been* working here *since* five years.",
+    "options": [],
+    "correctAnswer": "since → for",
+    "explanation": "“Since” refers to a point in time, not duration. Use “for.” Error: *since*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 37,
+    "questionText": "Identify the error: The data *is* insufficient to draw conclusions.",
+    "options": [],
+    "correctAnswer": "is → are",
+    "explanation": "“Data” is plural, requiring “are.” Error: *is*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 38,
+    "questionText": "Find the error: He *insisted* to attend the meeting.",
+    "options": [],
+    "correctAnswer": "to → on",
+    "explanation": "“Insist” is followed by “on” or a clause, not “to.” Error: *to*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 39,
+    "questionText": "Spot the error: The boy, along with his friends, *were* playing.",
+    "options": [],
+    "correctAnswer": "were → was",
+    "explanation": "Subject “boy” is singular, requiring “was.” Error: *were*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 40,
+    "questionText": "Identify the error: This is *one of the best book* I have read.",
+    "options": [],
+    "correctAnswer": "book → books",
+    "explanation": "“One of” refers to singular “book.” Error: *book*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 51,
+    "questionText": "How has technology impacted education?",
+    "options": [],
+    "correctAnswer": "It has made learning more accessible through online platforms.",
+    "explanation": "It has transformed education by offering accessible online courses."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 52,
+    "questionText": "What is a drawback of digital learning?",
+    "options": [],
+    "correctAnswer": "Lack of personal interaction.",
+    "explanation": "It lacks personal interaction of traditional classrooms."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 53,
+    "questionText": "What is the most effective learning method according to studies?",
+    "options": [],
+    "correctAnswer": "Blended learning.",
+    "explanation": "Blended learning, combining online and in-person methods."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 54,
+    "questionText": "What must teachers do to stay relevant?",
+    "options": [],
+    "correctAnswer": "Adapt to changes.",
+    "explanation": "Adapt to technological changes."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 55,
+    "questionText": "What do online platforms offer?",
+    "options": [],
+    "correctAnswer": "Courses from top universities.",
+    "explanation": "Courses from top universities."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 56,
+    "questionText": "What is climate change described as?",
+    "options": [],
+    "correctAnswer": "A pressing global issue.",
+    "explanation": "A pressing global issue."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 57,
+    "questionText": "What are the effects of rising temperatures?",
+    "options": [],
+    "correctAnswer": "Floods and droughts.",
+    "explanation": "Extreme weather events like floods and droughts."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 58,
+    "questionText": "What should governments do to address climate change?",
+    "options": [],
+    "correctAnswer": "Reduce carbon emissions through policies.",
+    "explanation": "Implement policies to reduce carbon emissions."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 59,
+    "questionText": "How can individuals contribute to fighting climate change?",
+    "options": [],
+    "correctAnswer": "Use public transport and reduce waste.",
+    "explanation": "Use public transport and reduce waste."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 60,
+    "questionText": "What is essential to mitigate climate change effects?",
+    "options": [],
+    "correctAnswer": "Collective action.",
+    "explanation": "Collective action."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 61,
+    "questionText": "Arrange: (A) delivered (B) the speaker (C) an inspiring (D) speech",
+    "options": [],
+    "correctAnswer": "B-A-C-D",
+    "explanation": "Subject-verb-object-adjective: The speaker delivered an inspiring speech."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 62,
+    "questionText": "Arrange: (A) the project (B) successfully (C) they (D) completed",
+    "options": [],
+    "correctAnswer": "C-D-A-B",
+    "explanation": "Subject-verb-object-adverb: They completed the project successfully."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 63,
+    "questionText": "Arrange: (A) in the garden (B) blooms (C) the rose (D) beautifully",
+    "options": [],
+    "correctAnswer": "C-B-D-A",
+    "explanation": "Subject-verb-place-adverb: The rose blooms beautifully in the garden."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 64,
+    "questionText": "Arrange: (A) every weekend (B) she (C) visits (D) her grandparents",
+    "options": [],
+    "correctAnswer": "B-C-D-A",
+    "explanation": "Subject-verb-object-time: She visits her grandparents every weekend."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 65,
+    "questionText": "Arrange: (A) with confidence (B) he (C) spoke (D) at the conference",
+    "options": [],
+    "correctAnswer": "B-C-D-A",
+    "explanation": "Subject-verb-place-adverb: He spoke at the conference with confidence."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 66,
+    "questionText": "Arrange: (A) the book (B) carefully (C) she (D) read",
+    "options": [],
+    "correctAnswer": "C-D-A-B",
+    "explanation": "Subject-verb-object-adverb: She read the book carefully."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 67,
+    "questionText": "Arrange: (A) to the team (B) the manager (C) gave (D) instructions",
+    "options": [],
+    "correctAnswer": "B-C-D-A",
+    "explanation": "Subject-verb-object-recipient: The manager gave instructions to the team."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 68,
+    "questionText": "Arrange: (A) in the sky (B) brightly (C) the stars (D) shine",
+    "options": [],
+    "correctAnswer": "C-D-B-A",
+    "explanation": "Subject-verb-place-adverb: The stars shine brightly in the sky."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 69,
+    "questionText": "Arrange: (A) the exam (B) with ease (C) he (D) passed",
+    "options": [],
+    "correctAnswer": "C-D-A-B",
+    "explanation": "Subject-verb-object-adverb: He passed the exam with ease."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 70,
+    "questionText": "Arrange: (A) every morning (B) the birds (C) sing (D) melodiously",
+    "options": [],
+    "correctAnswer": "B-C-D-A",
+    "explanation": "Subject-verb-adverb-time: The birds sing melodiously every morning."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 71,
+    "questionText": "Choose the word for __71__: A) Ignore B) Explore C) Avoid D) Reject",
+    "options": [],
+    "correctAnswer": "B) Explore",
+    "explanation": "Travelling involves discovering cultures. Explore fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 72,
+    "questionText": "Choose the word for __72__: A) Narrows B) Broadens C) Limits D) Restricts",
+    "options": [],
+    "correctAnswer": "B) Broadens",
+    "explanation": "New experiences expand views. Broadens is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 73,
+    "questionText": "Choose the word for __73__: A) Dislike B) Appreciate C) Criticize D) Ignore",
+    "options": [],
+    "correctAnswer": "B) Appreciate",
+    "explanation": "Learning suggests positive regard. Appreciate fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 74,
+    "questionText": "Choose the word for __74__: A) Easy B) Challenging C) Simple D) Effortless",
+    "options": [],
+    "correctAnswer": "B) Challenging",
+    "explanation": "Poor planning leads to difficulties. Challenging is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 75,
+    "questionText": "Choose the word for __75__: A) Budget B) Destination C) Luggage D) Schedule",
+    "options": [],
+    "correctAnswer": "B) Destination",
+    "explanation": "Researching a place suggests destination."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 76,
+    "questionText": "Choose the word for __76__: A) Irrelevant B) Crucial C) Optional D) Unnecessary",
+    "options": [],
+    "correctAnswer": "B) Crucial",
+    "explanation": "Teamwork is key to success. Crucial fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 77,
+    "questionText": "Choose the word for __77__: A) Competition B) Collaboration C) Rivalry D) Isolation",
+    "options": [],
+    "correctAnswer": "B) Collaboration",
+    "explanation": "Teamwork involves working together. Collaboration is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 78,
+    "questionText": "Choose the word for __78__: A) Suppress B) Share C) Hide D) Ignore",
+    "options": [],
+    "correctAnswer": "B) Share",
+    "explanation": "Effective teams exchange ideas. Share fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 79,
+    "questionText": "Choose the word for __79__: A) Ignored B) Resolved C) Avoided D) Escalated",
+    "options": [],
+    "correctAnswer": "B) Resolved",
+    "explanation": "Communication handles conflicts. Resolved is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 80,
+    "questionText": "Choose the word for __80__: A) Fails B) Delivers C) Misses D) Avoids",
+    "options": [],
+    "correctAnswer": "B) Delivers",
+    "explanation": "Strong teams succeed. Delivers fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 81,
+    "questionText": "Meaning of “Burn the midnight oil”: A) Waste time B) Work late C) Start early D) Avoid work",
+    "options": [],
+    "correctAnswer": "B) Work late",
+    "explanation": "Burn the midnight oil means working late into the night."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 82,
+    "questionText": "Meaning of “Beat around the bush”: A) Speak directly B) Avoid the main topic C) Solve quickly D) Act boldly",
+    "options": [],
+    "correctAnswer": "B) Avoid the main topic",
+    "explanation": "Beat around the bush means avoiding the main issue."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 83,
+    "questionText": "Meaning of “The apple doesn’t fall far from the tree”: A) Children are independent B) Children resemble parents C) Family is distant D) Parents are strict",
+    "options": [],
+    "correctAnswer": "B) Children resemble parents",
+    "explanation": "Means children are similar to parents."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 84,
+    "questionText": "Meaning of “Put your best foot forward”: A) Make a mistake B) Make a strong effort C) Run away D) Ignore tasks",
+    "options": [],
+    "correctAnswer": "B) Make a strong effort",
+    "explanation": "Means to make your best effort."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 85,
+    "questionText": "Meaning of “Bite off more than you can chew”: A) Take small tasks B) Take on too much C) Eat quickly D) Share work",
+    "options": [],
+    "correctAnswer": "B) Take on too much",
+    "explanation": "Means taking on more than you can handle."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 86,
+    "questionText": "Meaning of “Cry over spilt milk”: A) Plan ahead B) Regret the past C) Celebrate success D) Ignore mistakes",
+    "options": [],
+    "correctAnswer": "B) Regret the past",
+    "explanation": "Means regretting something unchangeable."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 87,
+    "questionText": "Meaning of “Every cloud has a silver lining”: A) Problems are unsolvable B) Every problem has a positive aspect C) Storms are dangerous D) Optimism is foolish",
+    "options": [],
+    "correctAnswer": "B) Every problem has a positive aspect",
+    "explanation": "Means every difficulty has a hopeful aspect."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 88,
+    "questionText": "Meaning of “Throw in the towel”: A) Keep fighting B) Give up C) Start over D) Work harder",
+    "options": [],
+    "correctAnswer": "B) Give up",
+    "explanation": "Means to surrender or quit."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 89,
+    "questionText": "Meaning of “Cut corners”: A) Work thoroughly B) Take shortcuts C) Plan carefully D) Be honest",
+    "options": [],
+    "correctAnswer": "B) Take shortcuts",
+    "explanation": "Means to do something in a cheaper or easier way."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 90,
+    "questionText": "Meaning of “On the ball”: A) Confused B) Alert and efficient C) Lazy D) Distracted",
+    "options": [],
+    "correctAnswer": "B) Alert and efficient",
+    "explanation": "Means being quick and competent."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 91,
+    "questionText": "Symphony : Composer :: Painting : ?",
+    "options": [],
+    "correctAnswer": "Painter",
+    "explanation": "A symphony is created by a composer. A painting is created by a painter."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 92,
+    "questionText": "Feather : Bird :: Scale : ?",
+    "options": [],
+    "correctAnswer": "Fish",
+    "explanation": "Feathers cover birds; scales cover fish."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 93,
+    "questionText": "Library : Books :: Museum : ?",
+    "options": [],
+    "correctAnswer": "Artifacts",
+    "explanation": "A library contains books; a museum contains artifacts."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 94,
+    "questionText": "Hammer : Nail :: Screwdriver : ?",
+    "options": [],
+    "correctAnswer": "Screw",
+    "explanation": "A hammer drives a nail; a screwdriver drives a screw."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 95,
+    "questionText": "Doctor : Patient :: Lawyer : ?",
+    "options": [],
+    "correctAnswer": "Client",
+    "explanation": "A doctor treats a patient; a lawyer represents a client."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 96,
+    "questionText": "Ocean : Wave :: Desert : ?",
+    "options": [],
+    "correctAnswer": "Dune",
+    "explanation": "Oceans have waves as features. Deserts have dunes."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 97,
+    "questionText": "Key : Piano :: String : ?",
+    "options": [],
+    "correctAnswer": "Guitar",
+    "explanation": "Keys are used to play a piano. Strings are used to play a guitar."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 98,
+    "questionText": "Telescope : Astronomer :: Microscope : ?",
+    "options": [],
+    "correctAnswer": "Biologist",
+    "explanation": "A telescope is used by an astronomer. A microscope is used by a biologist."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 99,
+    "questionText": "Map : Geography :: Blueprint : ?",
+    "options": [],
+    "correctAnswer": "Architecture",
+    "explanation": "A map is a tool for geography. A blueprint is a tool for architecture."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 100,
+    "questionText": "Seed : Plant :: Egg : ?",
+    "options": [],
+    "correctAnswer": "Bird",
+    "explanation": "A seed grows into a plant. An egg develops into a bird."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 1,
+    "questionText": "Choose the synonym for \"Acerbic\": A) Sweet B) Caustic C) Mild D) Gentle",
+    "options": [],
+    "correctAnswer": "B) Caustic",
+    "explanation": "Acerbic means sharp or biting in tone. Caustic, meaning harshly critical, is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 2,
+    "questionText": "Find the synonym for \"Esoteric\": A) Common B) Arcane C) Accessible D) Obvious",
+    "options": [],
+    "correctAnswer": "B) Arcane",
+    "explanation": "Esoteric means understood by few. Arcane, meaning mysterious or secret, is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 3,
+    "questionText": "Synonym for \"Nefarious\": A) Virtuous B) Wicked C) Honorable D) Ethical",
+    "options": [],
+    "correctAnswer": "B) Wicked",
+    "explanation": "Nefarious means despicable or evil. Wicked is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 4,
+    "questionText": "Choose the synonym for \"Obfuscate\": A) Clarify B) Confuse C) Simplify D) Illuminate",
+    "options": [],
+    "correctAnswer": "B) Confuse",
+    "explanation": "Obfuscate means to make unclear. Confuse is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 5,
+    "questionText": "Synonym for \"Propinquity\": A) Distance B) Proximity C) Isolation D) Separation",
+    "options": [],
+    "correctAnswer": "B) Proximity",
+    "explanation": "Propinquity means nearness or kinship. Proximity is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 6,
+    "questionText": "Find the synonym for \"Recalcitrant\": A) Compliant B) Defiant C) Obedient D) Submissive",
+    "options": [],
+    "correctAnswer": "B) Defiant",
+    "explanation": "Recalcitrant means stubbornly resistant. Defiant is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 7,
+    "questionText": "Synonym for \"Supercilious\": A) Humble B) Arrogant C) Modest D) Courteous",
+    "options": [],
+    "correctAnswer": "B) Arrogant",
+    "explanation": "Supercilious means haughty or disdainful. Arrogant is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 8,
+    "questionText": "Choose the synonym for \"Temerity\": A) Caution B) Audacity C) Prudence D) Restraint",
+    "options": [],
+    "correctAnswer": "B) Audacity",
+    "explanation": "Temerity means reckless boldness. Audacity is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 9,
+    "questionText": "Synonym for \"Ubiquitous\": A) Rare B) Omnipresent C) Scarce D) Limited",
+    "options": [],
+    "correctAnswer": "B) Omnipresent",
+    "explanation": "Ubiquitous means present everywhere. Omnipresent is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 10,
+    "questionText": "Find the synonym for \"Vituperative\": A) Complimentary B) Abusive C) Flattering D) Kind",
+    "options": [],
+    "correctAnswer": "B) Abusive",
+    "explanation": "Vituperative means bitterly critical. Abusive is the closest synonym."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 11,
+    "questionText": "Choose the antonym for \"Aplomb\": A) Confidence B) Fluster C) Poise D) Assurance",
+    "options": [],
+    "correctAnswer": "B) Fluster",
+    "explanation": "Aplomb means self-confidence. Fluster, meaning nervous agitation, is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 12,
+    "questionText": "Find the antonym for \"Cacophony\": A) Discord B) Harmony C) Noise D) Clamor",
+    "options": [],
+    "correctAnswer": "B) Harmony",
+    "explanation": "Cacophony means harsh sound. Harmony, meaning pleasant sound, is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 13,
+    "questionText": "Antonym for \"Epiphany\": A) Revelation B) Ignorance C) Insight D) Realization",
+    "options": [],
+    "correctAnswer": "B) Ignorance",
+    "explanation": "Epiphany means sudden understanding. Ignorance, meaning lack of knowledge, is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 14,
+    "questionText": "Choose the antonym for \"Magnanimous\": A) Generous B) Petty C) Noble D) Charitable",
+    "options": [],
+    "correctAnswer": "B) Petty",
+    "explanation": "Magnanimous means generous in spirit. Petty, meaning small-minded, is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 15,
+    "questionText": "Antonym for \"Pernicious\": A) Harmful B) Beneficial C) Destructive D) Toxic",
+    "options": [],
+    "correctAnswer": "B) Beneficial",
+    "explanation": "Pernicious means harmful. Beneficial, meaning helpful, is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 16,
+    "questionText": "Find the antonym for \"Quell\": A) Suppress B) Incite C) Pacify D) Subdue",
+    "options": [],
+    "correctAnswer": "B) Incite",
+    "explanation": "Quell means to calm or suppress. Incite, meaning to stir up, is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 17,
+    "questionText": "Antonym for \"Reticent\": A) Reserved B) Talkative C) Silent D) Restrained",
+    "options": [],
+    "correctAnswer": "B) Talkative",
+    "explanation": "Reticent means reluctant to speak. Talkative is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 18,
+    "questionText": "Choose the antonym for \"Soporific\": A) Sleep-inducing B) Stimulating C) Sedative D) Lulling",
+    "options": [],
+    "correctAnswer": "B) Stimulating",
+    "explanation": "Soporific means causing sleep. Stimulating, meaning energizing, is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 19,
+    "questionText": "Antonym for \"Turgid\": A) Swollen B) Concise C) Inflated D) Bloated",
+    "options": [],
+    "correctAnswer": "B) Concise",
+    "explanation": "Turgid means overly complex or swollen. Concise, meaning brief, is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 20,
+    "questionText": "Find the antonym for \"Voracious\": A) Greedy B) Restrained C) Ravenous D) Insatiable",
+    "options": [],
+    "correctAnswer": "B) Restrained",
+    "explanation": "Voracious means excessively eager. Restrained, meaning controlled, is the opposite."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 21,
+    "questionText": "Her ______ critique, though harsh, was instrumental in refining the proposal.  \r\n    A) Flattering B) Incisive C) Vague D) Ambiguous",
+    "options": [],
+    "correctAnswer": "B) Incisive",
+    "explanation": "Harsh but refining suggests sharp analysis. Incisive (penetrating) fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 22,
+    "questionText": "The politician’s ______ rhetoric failed to address the economic concerns.  \r\n    A) Cogent B) Grandiloquent C) Lucid D) Persuasive",
+    "options": [],
+    "correctAnswer": "B) Grandiloquent",
+    "explanation": "Failing to address concerns suggests exaggerated speech. Grandiloquent (pompous) fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 23,
+    "questionText": "His ______ demeanor belied the complexity of his strategic thinking.  \r\n    A) Arrogant B) Unassuming C) Ostentatious D) Haughty",
+    "options": [],
+    "correctAnswer": "B) Unassuming",
+    "explanation": "Contrast with complex thinking suggests simplicity. Unassuming fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 24,
+    "questionText": "The novel’s ______ prose captivated readers with its depth and nuance.  \r\n    A) Pedestrian B) Eloquent C) Trite D) Banal",
+    "options": [],
+    "correctAnswer": "B) Eloquent",
+    "explanation": "Captivating suggests expressive language. Eloquent fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 25,
+    "questionText": "The scientist’s ______ hypothesis was met with skepticism by peers.  \r\n    A) Conventional B) Audacious C) Orthodox D) Traditional",
+    "options": [],
+    "correctAnswer": "B) Audacious",
+    "explanation": "Skepticism suggests boldness. Audacious (daring) fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 26,
+    "questionText": "Her ______ refusal to compromise frustrated the negotiators.  \r\n    A) Flexible B) Adamant C) Amicable D) Conciliatory",
+    "options": [],
+    "correctAnswer": "B) Adamant",
+    "explanation": "Frustration suggests inflexibility. Adamant fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 27,
+    "questionText": "The ______ atmosphere in the room made open discussion impossible.  \r\n    A) Cordial B) Acrimonious C) Harmonious D) Amiable",
+    "options": [],
+    "correctAnswer": "B) Acrimonious",
+    "explanation": "Impossible discussion suggests hostility. Acrimonious fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 28,
+    "questionText": "His ______ wit often diffused tense situations.  \r\n    A) Caustic B) Disarming C) Sarcastic D) Biting",
+    "options": [],
+    "correctAnswer": "B) Disarming",
+    "explanation": "Diffusing tension suggests charm. Disarming fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 29,
+    "questionText": "The policy’s ______ implications were overlooked during its hasty adoption.  \r\n    A) Benign B) Deleterious C) Neutral D) Beneficial",
+    "options": [],
+    "correctAnswer": "B) Deleterious",
+    "explanation": "Overlooked suggests negative outcomes. Deleterious (harmful) fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 30,
+    "questionText": "Her ______ approach to leadership fostered innovation among her team.  \r\n    A) Autocratic B) Visionary C) Bureaucratic D) Restrictive",
+    "options": [],
+    "correctAnswer": "B) Visionary",
+    "explanation": "Fostering innovation suggests foresight. Visionary fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 31,
+    "questionText": "Identify the error: The phenomena *is* being studied extensively.",
+    "options": [],
+    "correctAnswer": "is → are",
+    "explanation": "“Phenomena” is plural, requiring “are.” Error: *is*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 32,
+    "questionText": "Find the error: He *implied* that she was not *capable to* lead.",
+    "options": [],
+    "correctAnswer": "to → of",
+    "explanation": "“Capable” is followed by “of,” not “to.” Error: *to*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 33,
+    "questionText": "Spot the error: Neither the manager nor the employees *was* informed.",
+    "options": [],
+    "correctAnswer": "was → were",
+    "explanation": "“Neither…nor” takes verb agreement with the closer subject “employees” (plural), requiring “were.” Error: *was*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 34,
+    "questionText": "Identify the error: The company *has lain* dormant for years.",
+    "options": [],
+    "correctAnswer": "lain → laid",
+    "explanation": "“Lie” (recline) past participle is “lain”; for “lay” (place), use “laid.” Error: *lain*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 35,
+    "questionText": "Find the error: Who *did* you *speak* with yesterday?",
+    "options": [],
+    "correctAnswer": "who → whom",
+    "explanation": "“Who” is correct, but “with” should precede “whom” in formal usage. Error: *who*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 36,
+    "questionText": "Spot the error: The data *suggests* a strong correlation.",
+    "options": [],
+    "correctAnswer": "suggests → suggest",
+    "explanation": "“Data” is plural, requiring “suggest.” Error: *suggests*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 37,
+    "questionText": "Identify the error: She is *one of those* who *prefers* solitude.",
+    "options": [],
+    "correctAnswer": "prefers → prefer",
+    "explanation": "“Who” refers to “those” (plural), requiring “prefer.” Error: *prefers*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 38,
+    "questionText": "Find the error: He *alluded* that the plan was flawed.",
+    "options": [],
+    "correctAnswer": "alluded → alluded to",
+    "explanation": "“Allude” is intransitive, requiring “to.” Error: *alluded*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 39,
+    "questionText": "Spot the error: The criteria *was* not met by the proposal.",
+    "options": [],
+    "correctAnswer": "was → were",
+    "explanation": "“Criteria” is plural, requiring “were.” Error: *was*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 40,
+    "questionText": "Identify the error: Less *workers* are needed due to automation.",
+    "options": [],
+    "correctAnswer": "less → fewer",
+    "explanation": "“Fewer” is used for countable nouns like “workers.” Error: *less*."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 51,
+    "questionText": "What is AI doing to industries?",
+    "options": [],
+    "correctAnswer": "Reshaping industries.",
+    "explanation": "It is reshaping industries."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 52,
+    "questionText": "What enables predictive analytics in AI?",
+    "options": [],
+    "correctAnswer": "Machine learning models.",
+    "explanation": "Machine learning models trained on vast datasets."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 53,
+    "questionText": "What are the ethical concerns mentioned?",
+    "options": [],
+    "correctAnswer": "Bias and privacy issues.",
+    "explanation": "Bias in algorithms and data privacy."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 54,
+    "questionText": "What is the status of regulatory frameworks for AI?",
+    "options": [],
+    "correctAnswer": "Evolving without global consensus.",
+    "explanation": "They are evolving, but global consensus is elusive."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 55,
+    "questionText": "What is AI’s potential if deployed responsibly?",
+    "options": [],
+    "correctAnswer": "Augment human capabilities.",
+    "explanation": "To augment human capabilities."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 56,
+    "questionText": "What has globalization done to economies?",
+    "options": [],
+    "correctAnswer": "Interconnected economies.",
+    "explanation": "Interconnected them, fostering trade and cultural exchange."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 57,
+    "questionText": "What negative effects does globalization have?",
+    "options": [],
+    "correctAnswer": "Increases inequality and environmental harm.",
+    "explanation": "Exacerbates income inequality and environmental degradation."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 58,
+    "questionText": "What do critics say about multinational corporations?",
+    "options": [],
+    "correctAnswer": "Exploit developing nations.",
+    "explanation": "They exploit developing nations."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 59,
+    "questionText": "What do proponents of globalization claim?",
+    "options": [],
+    "correctAnswer": "Drives innovation.",
+    "explanation": "It drives innovation."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 60,
+    "questionText": "What is required to balance economic growth and sustainability?",
+    "options": [],
+    "correctAnswer": "Nuanced policies and cooperation.",
+    "explanation": "Nuanced policies and international cooperation."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 61,
+    "questionText": "Arrange: (A) with remarkable (B) the scientist (C) presented (D) clarity, (E) her findings",
+    "options": [],
+    "correctAnswer": "B-C-E-A-D",
+    "explanation": "Subject-verb-object-adverb: The scientist presented her findings with remarkable clarity."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 62,
+    "questionText": "Arrange: (A) despite (B) succeeded, (C) the team (D) challenges, (E) formidable",
+    "options": [],
+    "correctAnswer": "C-B-A-E-D",
+    "explanation": "Subject-verb-adverb-object: The team succeeded despite formidable challenges."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 63,
+    "questionText": "Arrange: (A) the novel, (B) with intricate (C) captivated (D) readers, (E) plots",
+    "options": [],
+    "correctAnswer": "A-B-E-C-D",
+    "explanation": "Subject-verb-object-adverb: The novel, with intricate plots, captivated readers."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 64,
+    "questionText": "Arrange: (A) in crisis, (B) with composure, (C) she (D) handled (E) situations",
+    "options": [],
+    "correctAnswer": "C-D-E-A-B",
+    "explanation": "Subject-verb-object-adverb: She handled situations in crisis with composure."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 65,
+    "questionText": "Arrange: (A) the policy, (B) with unintended (C) consequences, (D) was implemented, (E) severe",
+    "options": [],
+    "correctAnswer": "A-D-B-E-C",
+    "explanation": "Subject-verb-adverb-object: The policy was implemented with unintended severe consequences."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 66,
+    "questionText": "Arrange: (A) the artist, (B) with bold (C) created, (D) strokes, (E) a masterpiece",
+    "options": [],
+    "correctAnswer": "A-B-D-C-E",
+    "explanation": "Subject-verb-object-adverb: The artist, with bold strokes, created a masterpiece."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 67,
+    "questionText": "Arrange: (A) the lecture, (B) with profound (C) inspired, (D) insights, (E) students",
+    "options": [],
+    "correctAnswer": "A-B-D-C-E",
+    "explanation": "Subject-verb-object-adverb: The lecture, with profound insights, inspired students."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 68,
+    "questionText": "Arrange: (A) with unwavering (B) he (C) pursued, (D) determination, (E) his goals",
+    "options": [],
+    "correctAnswer": "B-C-E-A-D",
+    "explanation": "Subject-verb-object-adverb: He pursued his goals with unwavering determination."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 69,
+    "questionText": "Arrange: (A) the decision, (B) with far-reaching (C) was made, (D) implications, (E) hastily",
+    "options": [],
+    "correctAnswer": "A-C-E-B-D",
+    "explanation": "Subject-verb-adverb-object: The decision was made hastily with far-reaching implications."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 70,
+    "questionText": "Arrange: (A) the debate, (B) with compelling (C) arguments, (D) concluded, (E) decisively",
+    "options": [],
+    "correctAnswer": "A-D-E-B-C",
+    "explanation": "Subject-verb-adverb-object: The debate concluded decisively with compelling arguments."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 71,
+    "questionText": "Choose the word for __71__: A) Commanding B) Inspiring C) Controlling D) Directing",
+    "options": [],
+    "correctAnswer": "B) Inspiring",
+    "explanation": "Shared vision suggests motivation. Inspiring fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 72,
+    "questionText": "Choose the word for __72__: A) Undermine B) Cultivate C) Ignore D) Suppress",
+    "options": [],
+    "correctAnswer": "B) Cultivate",
+    "explanation": "Trust is built actively. Cultivate is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 73,
+    "questionText": "Choose the word for __73__: A) Stability B) Challenges C) Routine D) Predictability",
+    "options": [],
+    "correctAnswer": "B) Challenges",
+    "explanation": "Resilience implies difficulties. Challenges fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 74,
+    "questionText": "Choose the word for __74__: A) Indifference B) Adherence C) Resistance D) Deviation",
+    "options": [],
+    "correctAnswer": "B) Adherence",
+    "explanation": "Ethics requires commitment. Adherence is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 75,
+    "questionText": "Choose the word for __75__: A) Amplified B) Diminished C) Sustained D) Enhanced",
+    "options": [],
+    "correctAnswer": "B) Diminished",
+    "explanation": "Lack of integrity weakens influence. Diminished fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 76,
+    "questionText": "Choose the word for __76__: A) Eliminates B) Encounters C) Ignores D) Bypasses",
+    "options": [],
+    "correctAnswer": "B) Encounters",
+    "explanation": "Innovation faces obstacles. Encounters fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 77,
+    "questionText": "Choose the word for __77__: A) Flexible B) Established C) Temporary D) Evolving",
+    "options": [],
+    "correctAnswer": "B) Established",
+    "explanation": "Norms resisted are set. Established is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 78,
+    "questionText": "Choose the word for __78**: A) Avoid B) Overcome C) Accept D) Dismiss",
+    "options": [],
+    "correctAnswer": "B) Overcome",
+    "explanation": "Innovators address opposition. Overcome fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 79,
+    "questionText": "Choose the word for __79**: A) Pursued B) Tempered C) Ignored D) Accelerated",
+    "options": [],
+    "correctAnswer": "B) Tempered",
+    "explanation": "Caution balances innovation. Tempered is appropriate."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 80,
+    "questionText": "Choose the word for __80__: A) Stagnates B) Propels C) Hinders D) Delays",
+    "options": [],
+    "correctAnswer": "B) Propels",
+    "explanation": "Innovation advances society. Propels fits best."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 81,
+    "questionText": "Meaning of “Cast pearls before swine”: A) Share wisdom with the wise B) Waste value on the unworthy C) Teach valuable lessons D) Reward the undeserving",
+    "options": [],
+    "correctAnswer": "B) Waste value on the unworthy",
+    "explanation": "Means giving something valuable to those who don’t appreciate it."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 82,
+    "questionText": "Meaning of “Gild the lily”: A) Improve something simple B) Overembellish something already beautiful C) Simplify a complex issue D) Clarify a misunderstanding",
+    "options": [],
+    "correctAnswer": "B) Overembellish something already beautiful",
+    "explanation": "Means adding unnecessary adornment."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 83,
+    "questionText": "Meaning of “Hobson’s choice”: A) Multiple options B) No real choice C) Best option D) Risky decision",
+    "options": [],
+    "correctAnswer": "B) No real choice",
+    "explanation": "Means a choice where only one option is offered."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 84,
+    "questionText": "Meaning of “In the doldrums”: A) Highly active B) In a slump C) Full of energy D) Making progress",
+    "options": [],
+    "correctAnswer": "B) In a slump",
+    "explanation": "Means in a state of stagnation or depression."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 85,
+    "questionText": "Meaning of “Take the bull by the horns”: A) Avoid confrontation B) Face a problem directly C) Delay action D) Delegate responsibility",
+    "options": [],
+    "correctAnswer": "B) Face a problem directly",
+    "explanation": "Means to tackle a challenge head-on."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 86,
+    "questionText": "Meaning of “A Pyrrhic victory”: A) Decisive win B) Victory at great cost C) Easy triumph D) Shared success",
+    "options": [],
+    "correctAnswer": "B) Victory at great cost",
+    "explanation": "Means a win that inflicts heavy losses."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 87,
+    "questionText": "Meaning of “Bête noire”: A) Close friend B) Object of dislike C) Favorite hobby D) Trusted ally",
+    "options": [],
+    "correctAnswer": "B) Object of dislike",
+    "explanation": "Means something or someone strongly disliked."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 88,
+    "questionText": "Meaning of “Run the gauntlet”: A) Escape danger B) Face severe criticism C) Win easily D) Avoid challenges",
+    "options": [],
+    "correctAnswer": "B) Face severe criticism",
+    "explanation": "Means enduring harsh trials or criticism."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 89,
+    "questionText": "Meaning of “Turn a blind eye”: A) Pay close attention B) Ignore deliberately C) Investigate thoroughly D) Act cautiously",
+    "options": [],
+    "correctAnswer": "B) Ignore deliberately",
+    "explanation": "Means to pretend not to notice."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 90,
+    "questionText": "Meaning of “Wear your heart on your sleeve”: A) Hide emotions B) Show emotions openly C) Act rationally D) Suppress feelings",
+    "options": [],
+    "correctAnswer": "B) Show emotions openly",
+    "explanation": "Means to display emotions openly."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 91,
+    "questionText": "Lexicon : Words :: Palette : ?",
+    "options": [],
+    "correctAnswer": "Colors",
+    "explanation": "A lexicon contains words for language; a palette contains colors for painting."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 92,
+    "questionText": "Symphony : Orchestra :: Theorem : ?",
+    "options": [],
+    "correctAnswer": "Mathematician",
+    "explanation": "A symphony is performed by an orchestra; a theorem is developed by a mathematician."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 93,
+    "questionText": "Compass : Navigation :: Sextant : ?",
+    "options": [],
+    "correctAnswer": "Astronomy",
+    "explanation": "A compass aids navigation; a sextant aids astronomy (for navigation)."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 94,
+    "questionText": "Glacier : Ice :: Volcano : ?",
+    "options": [],
+    "correctAnswer": "Lava",
+    "explanation": "A glacier is composed of ice; a volcano is composed of lava."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 95,
+    "questionText": "Canvas : Painter :: Manuscript : ?",
+    "options": [],
+    "correctAnswer": "Writer",
+    "explanation": "A canvas is a painter’s medium; a manuscript is a writer’s medium."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 96,
+    "questionText": "Neuron : Brain :: Circuit : ?",
+    "options": [],
+    "correctAnswer": "Computer",
+    "explanation": "Neurons are units of the brain; circuits are units of a computer."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 97,
+    "questionText": "Rudder : Ship :: Joystick : ?",
+    "options": [],
+    "correctAnswer": "Aircraft",
+    "explanation": "A rudder controls a ship’s direction; a joystick controls an aircraft’s direction."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 98,
+    "questionText": "Microscope : Cell :: Telescope : ?",
+    "options": [],
+    "correctAnswer": "Stars",
+    "explanation": "A microscope reveals cells; a telescope reveals stars."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 99,
+    "questionText": "Algorithm : Programming :: Recipe : ?",
+    "options": [],
+    "correctAnswer": "Cooking",
+    "explanation": "An algorithm is a procedure in programming; a recipe is a procedure in cooking."
+  },
+  {
+    "category": "verbal",
+    "difficulty": "advanced",
+    "questionNumber": 100,
+    "questionText": "Anvil : Blacksmith :: Beaker : ?",
+    "options": [],
+    "correctAnswer": "Chemist",
+    "explanation": "An anvil is a tool for a blacksmith; a beaker is a tool for a chemist."
+  }
+]
