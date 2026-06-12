@@ -1,4 +1,7 @@
 import axios from 'axios';
+import dotenv from 'dotenv';
+
+dotenv.config();
 
 const PISTON_LANG_MAP = {
   javascript: { language: 'javascript', version: '18.15.0' },
@@ -6,6 +9,11 @@ const PISTON_LANG_MAP = {
   cpp: { language: 'cpp', version: '10.2.0' },
   java: { language: 'java', version: '15.0.2' }
 };
+
+// 👑 THE PRODUCTION ROUTING FIX: Automatically switches base engine parameters & endpoints
+const PISTON_URL = process.env.NODE_ENV === 'production'
+  ? 'https://emkc.org/api/v2/piston/execute'       // Official Public Cloud URL
+  : 'http://localhost:2000/api/v2/execute';         // Local fallback Docker container address
 
 const injectTestRunner = (language, userCode, stdinInput, problemSlug) => {
   if (language === 'javascript') {
@@ -42,7 +50,7 @@ const buildLinkedList = (arr) => {
 const serializeLinkedList = (head) => {
     let result = [];
     let current = head;
-    let loopGuard = 0; // FIX: Prevent Socket Hang up crashes
+    let loopGuard = 0;
     while (current !== null) {
         loopGuard++;
         if(loopGuard > 5000) {
@@ -135,11 +143,12 @@ export const executeCode = async (language, code, stdin = "", expectedOutput = "
 
     const finalCode = injectTestRunner(language, code, stdin, problemSlug);
 
-    const response = await axios.post('http://localhost:2000/api/v2/execute', {
+    // Dynamic router call pointing directly toward PISTON_URL parameter matrix strings
+    const response = await axios.post(PISTON_URL, {
       language: runtime.language,
       version: runtime.version,
       files: [{ content: finalCode }]
-    }, { timeout: 4000 }); // Added a strict 4-second timeout to protect Node channels
+    }, { timeout: 4000 }); // Strict 4-second timeout constraints
 
     const { run, compile } = response.data;
 
@@ -172,7 +181,7 @@ export const executeCode = async (language, code, stdin = "", expectedOutput = "
             success: true,
             output: cleanStdout,
             runtime: "Failed",
-            verdict: "Wrong Answer",
+            get verdict() { return "Wrong Answer"; },
             error: `Wrong Answer ✗\nExpected: ${cleanExpected}\nReceived: ${actualOutput}`
           };
         }
