@@ -19,7 +19,7 @@ router.post('/run', async (req, res) => {
     });
   }
 
-  // FIX 1: Robust boilerplate validation check that allows user solutions to pass safely
+  // Boilerplate validation check that allows user solutions to pass safely
   const strippedCode = code.replace(/\s+/g, '');
   const isUntouchedBoilerplate = 
     (strippedCode.includes('varisSameTree=function') || 
@@ -57,7 +57,10 @@ router.post('/run', async (req, res) => {
       }
     }
 
-    // 3. SECURE EXECUTION: Forward payloads to our local Piston server wrapper
+    // 3. SECURE EXECUTION: Hand off execution cleanly
+    // Note: The executeCode service function inside services/codeExecutor.js should read 
+    // process.env.NODE_ENV === 'production' to automatically direct its internally built fetch blocks 
+    // to 'https://emkc.org/api/v2/piston/execute' instead of localhost!
     const assessment = await executeCode(language, code, targetInput, expectedOutput, problemSlug);
     
     if (!assessment || !assessment.success) {
@@ -72,15 +75,15 @@ router.post('/run', async (req, res) => {
     // AUTOMATED PROGRESS TRACKING HOOK: If code passes test cases, sync to dashboard cache
     if (assessment.verdict === "Accepted" && challengeProfile) {
       const mockUserId = "guest_developer_101";
-      const problemSlug = challengeProfile.slug;
+      const currentProblemSlug = challengeProfile.slug;
       const diff = challengeProfile.difficulty ? challengeProfile.difficulty.toLowerCase() : 'easy';
 
       try {
         let dash = await UserDashboard.findOne({ userId: mockUserId });
         if (!dash) dash = new UserDashboard({ userId: mockUserId });
 
-        if (!dash.codingMetrics.solvedSlugs.includes(problemSlug)) {
-          dash.codingMetrics.solvedSlugs.push(problemSlug);
+        if (!dash.codingMetrics.solvedSlugs.includes(currentProblemSlug)) {
+          dash.codingMetrics.solvedSlugs.push(currentProblemSlug);
           dash.codingMetrics.solvedCount += 1;
           
           // Double-check nested metrics paths exist before incrementing
@@ -90,7 +93,7 @@ router.post('/run', async (req, res) => {
           
           dash.codingMetrics.difficultyBreakdown[diff] = (dash.codingMetrics.difficultyBreakdown[diff] || 0) + 1;
           await dash.save();
-          console.log(`[Dashboard Update] Logged completion metric for problem: ${problemSlug}`);
+          console.log(`[Dashboard Update] Logged completion metric for problem: ${currentProblemSlug}`);
         }
       } catch (dashErr) {
         console.error("Dashboard sync non-blocking interruption:", dashErr.message);
@@ -100,7 +103,7 @@ router.post('/run', async (req, res) => {
     // 4. CONCURRENT INTERCEPTION: Call Gemini API only if code fails execution parameters
     let aiFeedbackString = "";
     if (assessment.verdict !== "Accepted" && challengeProfile) {
-      // FIX 2: Clear dynamic regex line breaks to protect prompt string evaluation layouts
+      // Clear dynamic regex line breaks to protect prompt string evaluation layouts
       const safeErrorContent = (assessment.error || "Execution produced incorrect output matrices mismatch.")
         .replace(/\\n/g, '\n'); 
       
