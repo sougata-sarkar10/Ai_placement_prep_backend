@@ -1,17 +1,23 @@
 import passport from 'passport';
 import { Strategy as GoogleStrategy } from 'passport-google-oauth20';
-import { Strategy as OAuth2Strategy } from 'passport-oauth2'; // Use the core OAuth2 strategy to bypass package bugs
+import { Strategy as OAuth2Strategy } from 'passport-oauth2'; 
 import User from '../models/User.js';
 import dotenv from 'dotenv';
 
 dotenv.config();
+
+// 👑 ENVIRONMENT RESOLUTION: Determine the backend domain name on-the-fly
+const BACKEND_URL = process.env.NODE_ENV === 'production'
+  ? 'https://ai-placement-prep-backend.onrender.com' // Your live Render backend
+  : 'http://localhost:5000';                        // Your local laptop backend
 
 // ---- GOOGLE STRATEGY CONFIGURED ----
 if (process.env.Google_Client_ID) {
   passport.use(new GoogleStrategy({
     clientID: process.env.Google_Client_ID,
     clientSecret: process.env.Google_Client_secret,
-    callbackURL: "http://localhost:5000/api/auth/google/callback",
+    // 👑 FIXED: Uses dynamic BACKEND_URL context
+    callbackURL: `${BACKEND_URL}/api/auth/google/callback`,
     proxy: true
   }, async (accessToken, refreshToken, profile, done) => {
     try {
@@ -39,7 +45,8 @@ if (process.env.Linkedin_Cient_ID) {
     tokenURL: 'https://www.linkedin.com/oauth/v2/accessToken',
     clientID: process.env.Linkedin_Cient_ID,
     clientSecret: process.env.Linkedin_Client_secret,
-    callbackURL: "http://localhost:5000/api/auth/linkedin/callback",
+    // 👑 FIXED: Uses dynamic BACKEND_URL context
+    callbackURL: `${BACKEND_URL}/api/auth/linkedin/callback`,
     scope: ['openid', 'profile', 'email'],
     state: true
   }, async (accessToken, refreshToken, params, profile, done) => {
