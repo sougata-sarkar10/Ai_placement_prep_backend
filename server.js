@@ -75,42 +75,25 @@ app.use('/api/challenges', challengeRoutes);
 app.use('/api/resume', resumeRoutes);
 
 // 6. 👑 UPDATED DASHBOARD METRICS RESILIENT CORE: Maps flat properties directly to match the UI contribution matrix perfectly
-app.get('/api/dashboard/metrics', (req, res) => {
-  // Generates dummy dates to instantly check your beautiful frontend UI heatmap grid matrix
-  const today = new Date();
-  const formatOffsetDate = (daysAgo) => {
-    const d = new Date();
-    d.setDate(today.getDate() - daysAgo);
-    return d.toISOString().split('T')[0];
-  };
 
+  app.get('/api/dashboard/metrics', (req, res) => {
   return res.json({
     success: true,
-    currentStreak: 5,
-    longestStreak: 12,
-    codingSolved: 14,
-    aptitudeSolved: 9,
-    averageAccuracy: 82,
-    
-    // 📊 Populates some distinct emerald heat points right onto your calendar continuum grid
-    activityLog: [
-      { date: formatOffsetDate(0), count: 4 }, // Today: High intensity
-      { date: formatOffsetDate(1), count: 2 }, // Yesterday: Med intensity
-      { date: formatOffsetDate(2), count: 1 }, // 2 days ago: Low intensity
-      { date: formatOffsetDate(5), count: 3 },
-      { date: formatOffsetDate(12), count: 2 },
-      { date: formatOffsetDate(20), count: 4 },
-      { date: formatOffsetDate(45), count: 1 }
-    ],
-    
+    currentStreak: 0,
+    longestStreak: 0,
+    codingSolved: 0,
+    aptitudeSolved: 0,
+    averageAccuracy: 0,
+    totalSubmissions: 0,
+    activityLog: [], // 📊 Starts completely empty; will map real timeline entries as your users resolve tasks!
     resumeProfile: {
-      hasAnalyzed: true,
-      targetSector: "Fullstack Developer (MERN)",
-      extractedSkills: ["React 19", "Node.js", "Express", "MongoDB", "Python 3", "Docker Core"]
+      hasAnalyzed: false,
+      targetSector: "",
+      extractedSkills: []
     }
   });
 });
-
+  
 // 7. MONGO CONNECTIVITY STRATEGY & LISTENER LAUNCH
 const PORT = process.env.PORT || 5000;
 const mongoUri = process.env.MONGO_URI || process.env.MONGO_URL;
