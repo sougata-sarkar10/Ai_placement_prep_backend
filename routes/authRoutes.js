@@ -58,9 +58,32 @@ router.post('/register', async (req, res) => {
 
 // STANDARD LOGIN: POST /api/auth/login
 router.post('/login', async (req, res) => {
-  const { email, password } = req.body;
+  const { email, loginIdentifier, password } = req.body;
+  
+  // 👑 FIXED: Robust fallback configuration maps whatever variable criteria the frontend pushes down
+  const targetedIdentifier = email || loginIdentifier;
+  
+  if (!targetedIdentifier) {
+    return res.status(400).json({ success: false, error: "Authentication identity parameters are required." });
+  }
+
   try {
-    const user = await User.findOne({ email });
+    const cleanSearchString = targetedIdentifier.trim();
+    
+    // Auto-append sandbox domain extension if user typed raw text handles natively
+    const fallbackSearchString = cleanSearchString.includes('@') 
+      ? cleanSearchString 
+      : `${cleanSearchString.toLowerCase()}@prepai.sandbox`;
+
+    // Cross-verify database records across multiple potential registration schemas
+    const user = await User.findOne({
+      $or: [
+        { email: cleanSearchString },
+        { email: fallbackSearchString },
+        { username: cleanSearchString.toLowerCase() }
+      ]
+    });
+
     if (!user) return res.status(400).json({ success: false, error: "Invalid credential entries." });
 
     const isMatch = await bcrypt.compare(password, user.password);
@@ -91,7 +114,6 @@ router.post('/otp-request', async (req, res) => {
     user.otpExpires = expiryTime;
     await user.save();
 
-    // Call client wrapper dynamically
     const twilioClient = getTwilioClient();
 
     await twilioClient.messages.create({
@@ -108,7 +130,7 @@ router.post('/otp-request', async (req, res) => {
   }
 });
 
-// 👑 MERGED & OPTIMIZED OTP VERIFY: POST /api/auth/otp-verify
+// MERGED & OPTIMIZED OTP VERIFY: POST /api/auth/otp-verify
 router.post('/otp-verify', async (req, res) => {
   const { phone, otp, name, platformId } = req.body;
   try {
@@ -118,7 +140,6 @@ router.post('/otp-verify', async (req, res) => {
     user.otpCode = undefined;
     user.otpExpires = undefined;
 
-    // Custom configuration parameters updates for sandboxed mobile registration pipelines
     if (name) user.name = name;
     if (platformId) {
       if (platformId.includes('@') || !/^[a-z0-9_.-]+$/.test(platformId)) {
@@ -169,7 +190,6 @@ router.get('/google/callback', (req, res, next) => {
     maxAge: 7 * 24 * 60 * 60 * 1000
   });
 
-  // 👑 FIXED: Dynamically redirects right back to the matching live layout domain base URL
   res.redirect(`${FRONTEND_URL}/?auth_success=true&name=${encodeURIComponent(req.user.name)}`);
 });
 
@@ -190,7 +210,6 @@ router.get('/linkedin/callback', (req, res, next) => {
     maxAge: 7 * 24 * 60 * 60 * 1000 
   });
   
-  // 👑 FIXED: Dynamically redirects right back to the matching live layout domain base URL
   res.redirect(`${FRONTEND_URL}/?auth_success=true&name=${encodeURIComponent(req.user.name)}`);
 });
 
