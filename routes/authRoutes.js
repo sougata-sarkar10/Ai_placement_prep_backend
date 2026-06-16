@@ -13,6 +13,11 @@ dotenv.config();
 const router = express.Router();
 const JWT_SECRET = process.env.JWT_SECRET || "fallback_secure_orchestrator_hash_key_101";
 
+// 👑 ENVIRONMENT RESOLUTION: Determine frontend origins dynamically to support both local and Render traffic
+const FRONTEND_URL = process.env.NODE_ENV === 'production'
+  ? 'https://ai-placement-prep-ui.onrender.com' // Live Frontend on Render
+  : 'http://localhost:5173';                    // Local Development Machine
+
 // 2. Safe instantiator to prevent server boot failure if keys take a millisecond to load
 const getTwilioClient = () => {
   const sid = process.env.TWILIO_ACCOUNT_SID;
@@ -28,8 +33,8 @@ const createTokenAndSetCookie = (user, res) => {
   
   res.cookie('token', token, {
     httpOnly: true,
-    secure: process.env.NODE_ENV === 'production',
-    sameSite: 'strict',
+    secure: process.env.NODE_ENV === 'production', // Encrypted HTTPS only when live on Render
+    sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'strict', // Essential for cross-site cookies on Render
     maxAge: 7 * 24 * 60 * 60 * 1000 
   });
 };
@@ -103,73 +108,9 @@ router.post('/otp-request', async (req, res) => {
   }
 });
 
-// VERIFY OTP: POST /api/auth/otp-verify
+// 👑 MERGED & OPTIMIZED OTP VERIFY: POST /api/auth/otp-verify
 router.post('/otp-verify', async (req, res) => {
-  const { phone, otp } = req.body;
-  try {
-    const user = await User.findOne({ phone, otpCode: otp, otpExpires: { $gt: new Date() } });
-    if (!user) return res.status(400).json({ success: false, error: "Invalid or expired verification OTP entry." });
-
-    user.otpCode = undefined;
-    user.otpExpires = undefined;
-    await user.save();
-
-    createTokenAndSetCookie(user, res);
-    return res.status(200).json({ success: true, user: { id: user._id, name: user.name, phone: user.phone } });
-  } catch (err) {
-    return res.status(500).json({ success: false, error: err.message });
-  }
-});
-
-// DE-AUTHENTICATE / LOGOUT CLEARANCE
-router.post('/logout', (req, res) => {
-  res.clearCookie('token');
-  return res.status(200).json({ success: true, message: "Session token logs unmounted completely." });
-});
-
-// ---- REAL GOOGLE OAUTH REDIRECTS ----
-router.get('/google', passport.authenticate('google', { 
-  scope: ['profile', 'email'],
-  prompt: 'select_account' 
-}));
-
-router.get('/google/callback', passport.authenticate('google', { session: false, failureRedirect: 'http://localhost:5173/?error=oauth_failed' }), (req, res) => {
-  const token = jwt.sign({ id: req.user._id, name: req.user.name }, JWT_SECRET, { expiresIn: '7d' });
-  
-  res.cookie('token', token, {
-    httpOnly: true,
-    secure: process.env.NODE_ENV === 'production',
-    sameSite: 'strict',
-    maxAge: 7 * 24 * 60 * 60 * 1000
-  });
-
-  res.redirect(`http://localhost:5173/?auth_success=true&name=${encodeURIComponent(req.user.name)}`);
-});
-
-// ---- FIXED LINKEDIN REDIRECT CHANNELS FORCING ACCOUNT SELECTION ----
-router.get('/linkedin', passport.authenticate('linkedin', {
-  prompt: 'login' // 👑 CRITICAL FORCING: Forces LinkedIn to request user credentials on every click
-}));
-
-router.get('/linkedin/callback', passport.authenticate('linkedin', { 
-  session: false, 
-  failureRedirect: 'http://localhost:5173/?error=oauth_failed' 
-}), (req, res) => {
-  const token = jwt.sign({ id: req.user._id, name: req.user.name }, JWT_SECRET, { expiresIn: '7d' });
-  
-  res.cookie('token', token, { 
-    httpOnly: true, 
-    secure: process.env.NODE_ENV === 'production', 
-    sameSite: 'strict', 
-    maxAge: 7 * 24 * 60 * 60 * 1000 
-  });
-  
-  res.redirect(`http://localhost:5173/?auth_success=true&name=${encodeURIComponent(req.user.name)}`);
-});
-
-// UPDATED VERIFY OTP HANDLER WITH CUSTOM ID SUPPORT
-router.post('/otp-verify', async (req, res) => {
-  const { phone, otp, name, platformId } = req.body; // Capture new fields from the frontend
+  const { phone, otp, name, platformId } = req.body;
   try {
     const user = await User.findOne({ phone, otpCode: otp, otpExpires: { $gt: new Date() } });
     if (!user) return res.status(400).json({ success: false, error: "Invalid or expired verification OTP entry." });
@@ -177,15 +118,13 @@ router.post('/otp-verify', async (req, res) => {
     user.otpCode = undefined;
     user.otpExpires = undefined;
 
-    // If it's a new mobile user, register their customized profile names
+    // Custom configuration parameters updates for sandboxed mobile registration pipelines
     if (name) user.name = name;
     if (platformId) {
-      // Direct backend sanitation parameter check to ensure no rogue "@" slipped past
       if (platformId.includes('@') || !/^[a-z0-9_.-]+$/.test(platformId)) {
         return res.status(400).json({ success: false, error: "Platform ID format rejected: Use only lowercase, numbers, and symbols (no '@')." });
       }
       
-      // Ensure the chosen platform ID handle is completely unique inside MongoDB
       const idTaken = await User.findOne({ platformId });
       if (idTaken && idTaken.phone !== phone) {
         return res.status(400).json({ success: false, error: "This unique Platform ID handle is already taken." });
@@ -200,6 +139,59 @@ router.post('/otp-verify', async (req, res) => {
   } catch (err) {
     return res.status(500).json({ success: false, error: err.message });
   }
+});
+
+// DE-AUTHENTICATE / LOGOUT CLEARANCE
+router.post('/logout', (req, res) => {
+  res.clearCookie('token', {
+    httpOnly: true,
+    secure: process.env.NODE_ENV === 'production',
+    sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'strict'
+  });
+  return res.status(200).json({ success: true, message: "Session token logs unmounted completely." });
+});
+
+// ---- REAL GOOGLE OAUTH REDIRECTS ----
+router.get('/google', passport.authenticate('google', { 
+  scope: ['profile', 'email'],
+  prompt: 'select_account' 
+}));
+
+router.get('/google/callback', (req, res, next) => {
+  passport.authenticate('google', { session: false, failureRedirect: `${FRONTEND_URL}/?error=oauth_failed` })(req, res, next);
+}, (req, res) => {
+  const token = jwt.sign({ id: req.user._id, name: req.user.name }, JWT_SECRET, { expiresIn: '7d' });
+  
+  res.cookie('token', token, {
+    httpOnly: true,
+    secure: process.env.NODE_ENV === 'production',
+    sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'strict',
+    maxAge: 7 * 24 * 60 * 60 * 1000
+  });
+
+  // 👑 FIXED: Dynamically redirects right back to the matching live layout domain base URL
+  res.redirect(`${FRONTEND_URL}/?auth_success=true&name=${encodeURIComponent(req.user.name)}`);
+});
+
+// ---- FIXED LINKEDIN REDIRECT CHANNELS FORCING ACCOUNT SELECTION ----
+router.get('/linkedin', passport.authenticate('linkedin', {
+  prompt: 'login' 
+}));
+
+router.get('/linkedin/callback', (req, res, next) => {
+  passport.authenticate('linkedin', { session: false, failureRedirect: `${FRONTEND_URL}/?error=oauth_failed` })(req, res, next);
+}, (req, res) => {
+  const token = jwt.sign({ id: req.user._id, name: req.user.name }, JWT_SECRET, { expiresIn: '7d' });
+  
+  res.cookie('token', token, { 
+    httpOnly: true, 
+    secure: process.env.NODE_ENV === 'production', 
+    sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'strict', 
+    maxAge: 7 * 24 * 60 * 60 * 1000 
+  });
+  
+  // 👑 FIXED: Dynamically redirects right back to the matching live layout domain base URL
+  res.redirect(`${FRONTEND_URL}/?auth_success=true&name=${encodeURIComponent(req.user.name)}`);
 });
 
 export default router;
